@@ -1,0 +1,104 @@
+@charset "utf-8";
+/************* GENERAL SETS *********************/
+html,body{
+	width:100%;
+	height:100%;
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+
+button,.button{
+	display:inline-block;
+	background-color:black;
+	color:white;
+	border:0;
+	width:30%;
+	border-radius:5px;
+	padding:8px 13px;
+	transition: all 0.3s ease-in-out;
+	text-decoration:none;
+
+}
+button:hover,.button:hover{
+	cursor:pointer;
+	width:35%;
+}
+
+
+
+
+#menu{
+	display:flex;
+	
+}
+
+
+.display{
+	position: relative;
+	display:flex;
+	height:60vh;
+	overflow: hidden;
+	width:100%;
+}
+
+
+.cursos{
+	background-color:rgb(169, 93, 93);
+}
+.curriculum{
+	background-color:rgb(222, 148, 148);
+}
+.quizz{
+	background-color:rgb(149, 181, 212);
+}
+.calculadora{
+	background-color:rgb(49, 181, 125);
+}
+
+.mapa{
+	background-color:rgb(111, 84, 84);
+}
+
+
+
+
+.content,.cinema{
+	position: relative;
+	height:100%;
+	width:50%;
+	padding:0;
+	margin:0;
+}
+.cinema{
+	background-image: url(../imgs/rumos-cursos.jpg);
+	background-size: cover;
+	width:40%;
+}
+.content{
+	width:60%;
+	display:flex;
+	flex-direction:column;
+	padding:40px;
+	box-sizing:border-box;
+}
+
+
+@media screen and (max-width: 760px) {
+	
+	.display{
+		flex-direction:column;
+		height:auto;
+		overflow: none;
+		
+	}
+	.content,.cinema{
+		width:100%;
+	}
+	.cinema{
+		min-height:50vh;
+	}
+	
+}
