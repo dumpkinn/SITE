@@ -72,6 +72,10 @@ include "mech/header.php"
 	
 </section>
 	
+<!-- sobre nós -->
+<div>
+	sobre nós
+</div>
 
 <?php	
 include "mech/footer.php";

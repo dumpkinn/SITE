@@ -17,13 +17,10 @@ if(isset($_SESSION["css_counter"])){
 
 	</head>
 <body>
+	<nav>
 	<a href='/rumo_teste/'>Home</a>
+
 	<?php include "mech/menu.php";?>
-
-
-
-<div id='header'>
-</div>
-
-
-
+   </nav>
+	<div id='header'>
+	</div>

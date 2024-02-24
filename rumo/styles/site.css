@@ -10,6 +10,21 @@ li{
 	list-style: none;
 }
 
+nav {
+            background-color: #666;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+
 button,.button{
 	display:inline-block;
 	background-color:black;
@@ -103,7 +118,7 @@ button:hover,.button:hover{
 	
 }
 
- .footer {
+ footer {
             background-color: #333;
             color: #fff;
             text-align: center;
