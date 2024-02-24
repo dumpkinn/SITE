@@ -17,7 +17,7 @@ if(isset($_SESSION["css_counter"])){
 
 	</head>
 <body>
-	<a href='/rumo/'>Home</a>
+	<a href='/rumo_teste/'>Home</a>
 	<?php include "mech/menu.php";?>
 
 
