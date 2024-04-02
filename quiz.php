@@ -31,23 +31,23 @@ $u14=$_GET['q14'];
 $u15=$_GET['q15'];
 $score=$q1+$q2+$q3+$q4+$q5+$q6+$q7+$q8+$q9+$q10+$q11+$q12+$q13+$q14+$q15+$u1+$u2+$u3+$u4+$u5+$u6+$u7+$u8+$u9+$u10+$u11+$u12+$u13+$u14+$u15+;
 
-if (-60<=$score<=-40) {
+if ((-60)<=$score<=(-40)) {
     echo("Artistico");
 }
-elseif (-40<$score<=-20) {
+elseif ((-40)<$score<=(-20)) {
     echo("Social");
 }
-elseif (-20<$score<=0) {
+elseif ((-20)<$score<=0) {
     echo("Enterprising");
 }
-elseif (0<$score<=20) {
+elseif (0<$score<=(20)) {
     echo("Convencional");
 }
 
-elseif (20<$score<=40) {
+elseif ((20)<$score<=(40)) {
     echo("Realista");
 }
-elseif (40<$score<=60) {
+elseif ((40)<$score<=(60)) {
     echo("Investigação");
 }
 ?>
