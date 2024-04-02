@@ -13,6 +13,9 @@ figure, header, nav, section, article, aside, footer, figcaption {
 .cfg{
   margin-left: 200px;
 }
+.container3 img{
+  width: 200px;
+}
 .clearfix:after {
   content: ".";
   display: block;
