@@ -4,7 +4,7 @@
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
 pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
 s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
-figure, header, nav, section, article, aside, footer, figcaption {
+figure, header, nav, section, article, aside, footer, figcaption, figcaption {
   margin: 0;
   padding: 0;
   border: 0;
@@ -15,10 +15,9 @@ figure, header, nav, section, article, aside, footer, figcaption {
 }
 .container3 img{
   width: 200px;
-  margin-left: 30px;
 }
 .container3{
-  text-align: center;
+  margin-left: 25%;
 }
 .clearfix:after {
   content: ".";
@@ -66,7 +65,7 @@ a {
   text-decoration: none !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, figcaption{
   color: #1e1e1e;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -124,7 +123,7 @@ body {
   color: #0071f8;
 }
 
-.section-heading h6 {
+.section-heading h6 figcaption{
   color: #ee626b;
   font-size: 15px;
   text-transform: uppercase;
@@ -1132,7 +1131,7 @@ body {
   padding-bottom: 30px;
 }
 
-.properties .item h6 {
+.properties .item h6 figcaption {
   font-size: 20px;
   color: #f35525;
   margin-top: 6px;
@@ -1191,13 +1190,13 @@ body {
   vertical-align: middle;
 }
 
-.contact-content .item h6 {
+.contact-content .item h6 figcaption {
   font-size: 20px;
   font-weight: 600;
   vertical-align: middle;
 }
 
-.contact-content .item h6 span {
+.contact-content .item h6 span figcaption {
   font-size: 15px;
   color: #aaaaaa;
   font-weight: 400;
@@ -1525,13 +1524,13 @@ footer p a:hover {
   vertical-align: middle;
 }
 
-.contact-page .item h6 {
+.contact-page .item h6 figcaption{
   font-size: 20px;
   font-weight: 600;
   vertical-align: middle;
 }
 
-.contact-page .item h6 span {
+.contact-page .item h6 span figcaption{
   font-size: 15px;
   color: #aaaaaa;
   font-weight: 400;
@@ -1671,7 +1670,7 @@ body {
   .best-deal .tabs-content h4 {
     margin-top: 45px;
   }
-  .properties .item h6 {
+  .properties .item h6 figcaption{
     text-align: center;
     margin-bottom: 15px;
   }
