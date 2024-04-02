@@ -10,7 +10,9 @@ figure, header, nav, section, article, aside, footer, figcaption {
   border: 0;
   outline: 0;
 }
-
+.cfg{
+  margin-left: 200px;
+}
 .clearfix:after {
   content: ".";
   display: block;
@@ -788,10 +790,6 @@ body {
   opacity: 1;
   background-color: rgba(255, 255, 255, 0.5);
 }
-
-
-
-
 .featured .left-image {
   position: relative;
 }
