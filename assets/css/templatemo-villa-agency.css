@@ -1,36 +1,6 @@
-/*
 
-TemplateMo 591 villa agency
-
-https://templatemo.com/tm-591-villa-agency
-
-*/
-
-/* ---------------------------------------------
-Table of contents
-------------------------------------------------
-01. font & reset css
-02. reset
-03. global styles
-04. header
-05. banner
-06. features
-07. testimonials
-08. contact
-09. footer
-
---------------------------------------------- */
-/* 
----------------------------------------------
-font & reset css
---------------------------------------------- 
-*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900");
-/* 
----------------------------------------------
-reset
---------------------------------------------- 
-*/
+
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
 pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
 s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
@@ -109,11 +79,6 @@ img {
   overflow: hidden;
 }
 
-/* 
----------------------------------------------
-Global Styles
---------------------------------------------- 
-*/
 html,
 body {
   font-family: 'Poppins', sans-serif;
@@ -208,11 +173,6 @@ body {
   color: #fff;
 }
 
-/* 
----------------------------------------------
-Pre-loader Style
---------------------------------------------- 
-*/
 
 .js-preloader {
   position: fixed;
@@ -310,12 +270,6 @@ Pre-loader Style
 
 
 
-/* 
----------------------------------------------
-Header Style
---------------------------------------------- 
-*/
-
 .sub-header {
   background-color: #fff;
   padding: 10px 0px;
@@ -408,9 +362,15 @@ Header Style
   transition: all 0.3s ease 0s;
   display: inline-block;
 }
-
+.sao{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
 .header-area .main-nav .logo h1 {
-  line-height: 100px;
+  line-height: 25px;
   font-size: 28px;
   text-transform: uppercase;
   color: #1e1e1e;
@@ -463,6 +423,7 @@ Header Style
   letter-spacing: .25px;
 }
 
+/*
 .header-area .main-nav .nav li:last-child a {
   background-color: #1e1e1e;
   color: #fff;
@@ -471,7 +432,7 @@ Header Style
   text-transform: none;
   border-radius: 20px;
   padding-left: 0px;
-}
+} */
 
 .header-area .main-nav .nav li:last-child a i {
   background-color: #f35525;
@@ -730,11 +691,6 @@ Header Style
   
 }
 
-/* 
----------------------------------------------
-Banner Style
---------------------------------------------- 
-*/
 
 .main-banner .item {
   background-position: center center;
@@ -761,7 +717,6 @@ Banner Style
   color: #1e1e1e;
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
   padding: 6px 15px;
   display: inline-block;
   margin-bottom: 30px;
@@ -840,11 +795,6 @@ Banner Style
 
 
 
-/* 
----------------------------------------------
-Featured Style
---------------------------------------------- 
-*/
 
 .featured .left-image {
   position: relative;
@@ -951,11 +901,6 @@ Featured Style
   font-weight: 400;
 }
 
-/* 
----------------------------------------------
-Video Style
---------------------------------------------- 
-*/
 
 .video {
   background-image: url(../images/video-bg.jpg);
@@ -1001,11 +946,6 @@ Video Style
   font-size: 18px;
 }
 
-/* 
----------------------------------------------
-Fun Facts Style
---------------------------------------------- 
-*/
 
 .fun-facts {
   text-align: center;
@@ -1053,11 +993,6 @@ Fun Facts Style
 }
 
 
-/* 
----------------------------------------------
-Best Deal Style
---------------------------------------------- 
-*/
 
 .best-deal {
   background-color: #fafafa;
@@ -1146,11 +1081,6 @@ Best Deal Style
 }
 
 
-/* 
----------------------------------------------
-Properties Style
---------------------------------------------- 
-*/
 
 .properties .item {
   background-color: #fafafa;
@@ -1214,12 +1144,6 @@ Properties Style
   text-align: center;
 }
 
-
-/* 
----------------------------------------------
-Contact Style
---------------------------------------------- 
-*/
 
 .contact {
   background-image: url(../images/contact-bg.jpg);
@@ -1332,11 +1256,6 @@ Contact Style
 }
 
 
-/* 
----------------------------------------------
-Footer Style
---------------------------------------------- 
-*/
 
 footer.footer-no-gap {
   margin-top: 0px;
@@ -1367,12 +1286,6 @@ footer p a:hover {
   opacity: 0.75;
 }
 
-
-/* 
----------------------------------------------
-Page Header Style
---------------------------------------------- 
-*/
 
 .page-heading {
   background-image: url(../images/page-heading-bg.jpg);
@@ -1406,11 +1319,6 @@ Page Header Style
 }
 
 
-/* 
----------------------------------------------
-Properties Style
---------------------------------------------- 
-*/
 
 .properties ul.properties-filter {
   list-style: none;
@@ -1482,11 +1390,6 @@ Properties Style
 }
 
 
-/* 
----------------------------------------------
-Single Page Style
---------------------------------------------- 
-*/
 
 .single-property .main-image img {
   float: none;
@@ -1588,11 +1491,6 @@ Single Page Style
 }
 
 
-/* 
----------------------------------------------
-Contact Page Style
---------------------------------------------- 
-*/
 
 .contact-page #map {
   margin-top: 100px;
@@ -1691,12 +1589,6 @@ Contact Page Style
   background-color: #f35525;
 }
 
-
-/* 
----------------------------------------------
-Responsive Style
---------------------------------------------- 
-*/
 
 body {
   overflow-x: hidden;
