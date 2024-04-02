@@ -13,6 +13,9 @@ figure, header, nav, section, article, aside, footer, figcaption, figcaption {
 .cfg{
   margin-left: 200px;
 }
+.container3 figcaption{
+  text-align: center;
+}
 .container3 img{
   width: 200px;
 }
