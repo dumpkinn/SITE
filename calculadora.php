@@ -54,9 +54,6 @@
     <div class="container2">
         <h1>Introduz as classificações</h1>
         <form action="calc.php" id="myForm" method="post">
-
-        <form method="post" action="calc.php" id="myForm">
-
             <div class="category">
                 <h2>Português</h2>
                 <input type="number" name="por10" min="0" max="20" step="1"required>
@@ -124,7 +121,14 @@
             ?>
 
             <div class="popup" onclick="myFunction()"><button type="submit">Submeter</button>
-            <span class="popuptext" id="myPopup">A tua média é <?php echo $fmedia; ?></span>
+            <span class="popuptext" id="myPopup"><?php
+    if (isset($_SESSION['media'])) {
+        echo "A tua média é" . $_SESSION['media'];
+    else{
+    echo='Preenche todos os campos obrigatórios'
+    }
+    }
+    ?></span>
             </div>
         </form>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
