@@ -121,14 +121,7 @@
             ?>
 
             <div class="popup" onclick="myFunction()"><button type="submit">Submeter</button>
-            <span class="popuptext" id="myPopup"><?php
-    if (isset($_SESSION['media'])) {
-        echo "A tua média é" . $_SESSION['media'];
-    else{
-    echo='Preenche todos os campos obrigatórios'
-    }
-    }
-    ?></span>
+            <span class="popuptext" id="myPopup"><?php echo ("A tua média é" . $_SESSION['media']); ?></span>
             </div>
         </form>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
