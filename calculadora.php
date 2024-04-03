@@ -116,10 +116,6 @@
                 <input type="number" name="ex3" min="0" max="20" step="1">
                 <h6>(deixa vazio as caixas que não precisas)</h6>
             </div>
-            <?php
-            require 'calc.php';
-            ?>
-
             <div class="popup" onclick="myFunction()"><button type="submit">Submeter</button>
             <span class="popuptext" id="myPopup"><?php echo ("A tua média é" . $_SESSION['media']); ?></span>
             </div>
