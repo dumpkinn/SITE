@@ -120,7 +120,8 @@
             <span class="popuptext" id="myPopup"><?php
             session_start();
             echo ("A tua média é" . $_SESSION['media']); 
-            ?></span>
+            ?>
+            </span>
             </div>
         </form>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

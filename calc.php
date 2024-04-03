@@ -35,6 +35,7 @@ if (empty($ex3)==true) {
 $medex= ($ex1+$ex2+$ex3)/3;
 $fmedia= ($med+$medex)/2;
 $_SESSION['media'] = $fmedia;
+var_dump($_SESSION['media']);
 header("Location: calculadora.php");
 exit();
 ?>  
