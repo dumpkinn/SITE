@@ -120,7 +120,7 @@ session_start();
                 <h6>(deixa vazio as caixas que não precisas)</h6>
             </div>
             <div class="popup" onclick="myFunction()"><button type="submit">Submeter</button>
-            <span class="popuptext" id="myPopup"><?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
+            <span class="popuptext" id="myPopup">A tua média é <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
             </span>
             </div>
         </form>
