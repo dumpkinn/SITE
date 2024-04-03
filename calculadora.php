@@ -117,7 +117,10 @@
                 <h6>(deixa vazio as caixas que não precisas)</h6>
             </div>
             <div class="popup" onclick="myFunction()"><button type="submit">Submeter</button>
-            <span class="popuptext" id="myPopup"><?php echo ("A tua média é" . $_SESSION['media']); ?></span>
+            <span class="popuptext" id="myPopup"><?php
+            session_start();
+            echo ("A tua média é" . $_SESSION['media']); 
+            ?></span>
             </div>
         </form>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
