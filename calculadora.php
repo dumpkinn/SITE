@@ -53,7 +53,7 @@
 <body>
     <div class="container2">
         <h1>Introduz as classificações</h1>
-        <form action="calc.php" method="post">
+        <form action="calc.php" id="myForm" method="post">
             <div class="category">
                 <h2>Português</h2>
                 <input type="number" name="por10" min="0" max="20" step="1"required>
