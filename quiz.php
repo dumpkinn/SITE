@@ -1,4 +1,5 @@
 <?php
+session_start();
 $q1= $_GET['q1'];
 $q2= $_GET['q2'];
 $q3= $_GET['q3'];
@@ -29,19 +30,30 @@ $u12 = $_GET['u12'];
 $u13 = $_GET['u13'];
 $u14 = $_GET['u14'];
 $u15 = $_GET['u15'];
+$r1 = "Artistico";
+$r2 = "Social";
+$r3 = "Enterprising";
+$r4 = "Convencional";
+$r5 = "Realista";
+$r6 = "Investigação";
+$rf = 0
 $score = $q1 + $q2 + $q3 + $q4 + $q5 + $q6 + $q7 + $q8 + $q9 + $q10 + $q11 + $q12 + $q13 + $q14 + $q15 + $u1 + $u2 + $u3 + $u4 + $u5 + $u6 + $u7 + $u8 + $u9 + $u10 + $u11 + $u12 + $u13 + $u14 + $u15;
 
 if (-60 <= $score && $score <= -40) {
-    echo "Artistico";
+    $rf = $r1;
 } elseif (-40 < $score && $score <= -20) {
-    echo "Social";
+    $rf = $r2;
 } elseif (-20 < $score && $score <= 0) {
-    echo "Enterprising";
+    $rf = $r3;
 } elseif (0 < $score && $score <= 20) {
-    echo "Convencional";
+    $rf = $r4;
 } elseif (20 < $score && $score <= 40) {
-    echo "Realista";
+    $rf = $r5;
 } elseif (40 < $score && $score <= 60) {
-    echo "Investigação";
+    $rf = $r6;
 }
+$_SESSION['rf'] = $rf;
+var_dump($_SESSION['rf']);
+header("Location: quizz.php");
+exit();
 ?>
