@@ -13,6 +13,18 @@
     <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
     <style type="text/css">
         .img_div { float: left; }
+        [type=radio] { 
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+[type=radio] img {
+  cursor: pointer;
+}
+[type=radio]:checked img {
+  outline: 2px solid #f00;
+}
     </style>
 </head>
 <header class="header-area header-sticky">
@@ -49,14 +61,18 @@
     <br><br><br>
 <form action="quiz.php">
 <h1>Questão 1</h1><br>
-<<<<<<< Updated upstream
-          <div class="img_div"><figcaption>Ir para o escritório</figcaption><img src="q11.png"></div><div class="img_div"><figcaption>Investigador</figcaption><img src="q12.png"></div><div class="img_div"><figcaption>Arquiteto e Engenheiro</figcaption><img src="q13.png"></div><div class="img_div"><figcaption>Fotografia Criativa</figcaption><img src="q14.png"></div><br><br><br><br><br><br><br><br><br><br><br><br>
-=======
-          <div class="img_div"><figcaption>Ir para o escritório</figcaption><img src="q11.png"><br><input type="image" width="50px" height="50px" name="q1" src="r.png" value="-1" required><input type="image" width="50px" height="50px" src="w.png" name="u2" value="2" required></div>
-          <div class="img_div"><figcaption>Investigador</figcaption><img src="q12.png"><br><input type="image" src="r.png" width="50px" height="50px" name="q1" value="2" required><input type="image" width="50px" height="50px" src="w.png" name="u1" value="-2" required></div>
-          <div class="img_div"><figcaption>Arquiteto e Engenheiro</figcaption><img src="q13.png"><br><input type="image" width="50px" height="50px" src="r.png" name="q1" value="1" required><input type="image" width="50px" height="50px" src="w.png" name="u1" value="-1" required></div>
-          <div class="img_div"><figcaption>Fotografia Creativa</figcaption><img src="q14.png"><br><input type="image" width="50px" height="50px" src="r.png" name="q1" value="-2" required><input type="image" width="50px" height="50px" src="w.png" name="u1" value="2" required></div><br><br><br><br><br><br><br><br><br><br><br><br>
->>>>>>> Stashed changes
+          <div class="img_div"><figcaption>Ir para o escritório</figcaption><img src="q11.png"><br><br>
+          <div class="cc-selector">
+          <input type="radio" name="q1" value="-1"/>
+          <label class="drinkcard-cc visa" for="visa"></label>
+          <input type="radio" name="u1" value="1" />
+          <label class="drinkcard-cc mastercard"for="mastercard"></label>
+          </div>
+          </div>
+          <br><br><br><br><br>
+          <div class="img_div"><figcaption>Investigador</figcaption><img src="q12.png"><br></div>
+          <div class="img_div"><figcaption>Arquiteto e Engenheiro</figcaption><img src="q13.png"><br></div>
+          <div class="img_div"><figcaption>Fotografia Creativa</figcaption><img src="q14.png"><br></div><br>
           Y<input type="radio" name="q1" value="-1" required><input type="radio" name="q1" value="2" required><input type="radio" name="q1" value="1" required><input type="radio" name="q1" value="-2" required><br>
           X<input type="radio" name="u1" value="1" required><input type="radio" name="u1" value="-2" required><input type="radio" name="u1" value="-1" required><input type="radio" name="u1" value="2" required><br>
 <h1>Questão 2</h1><br>     
