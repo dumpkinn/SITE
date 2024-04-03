@@ -117,7 +117,9 @@
                 <h6>(deixa vazio as caixas que não precisas)</h6>
             </div>
 
-            <button type="submit">Submeter</button>
+            <div class="popup" onclick="myFunction()"><button type="submit">Submeter</button>
+            <span class="popuptext" id="myPopup">A tua média é</span>
+            </div>
         </form>
     </div>
       <footer>
@@ -128,4 +130,10 @@
     </div>
   </footer>
 </body>
+<script>
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
 </html>
