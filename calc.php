@@ -21,8 +21,17 @@ $bi2= $_GET['bi11'];
 $ex1= $_GET['ex1'];
 $ex2= $_GET['ex2'];
 $ex3= $_GET['ex3'];
-$medex= ($ex1+$ex2+$ex3)/3;
 $med= ((($mat1+$mat2+$mat3)/3)+(($por1+$por2+$por3)/3)+(($edf1+$edf2+$edf3)/3)+(($fq1+$fq2)/2)+(($bi1+$bi2)/2)+(($fil1+$fil2)/2)+(($ing1+$ing2)/2)+$op1+$op2)/9;
+if ($ex1=BLANK()) {
+	$ex1=$med
+}
+if ($ex2=BLANK()) {
+	$ex2=$ex1
+}
+if ($ex3=BLANK()) {
+	$ex3=(($ex2+$ex1)/2)
+}
+$medex= ($ex1+$ex2+$ex3)/3;
 $fmedia= ($med+$medex)/2;
 echo ($fmedia);
 ?>	
