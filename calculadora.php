@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+session_start();
+?>
 
   <head>
 
@@ -117,10 +120,7 @@
                 <h6>(deixa vazio as caixas que não precisas)</h6>
             </div>
             <div class="popup" onclick="myFunction()"><button type="submit">Submeter</button>
-            <span class="popuptext" id="myPopup"><?php
-            session_start();
-            echo ("A tua média é" . $_SESSION['media']); 
-            ?>
+            <span class="popuptext" id="myPopup"><?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
             </span>
             </div>
         </form>
