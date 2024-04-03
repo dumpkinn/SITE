@@ -53,7 +53,7 @@
 <body>
     <div class="container2">
         <h1>Introduz as classificações</h1>
-        <form action="calc.php">
+        <form action="calc.php" id="myForm" method="post">
             <div class="category">
                 <h2>Português</h2>
                 <input type="number" name="por10" min="0" max="20" step="1"required>
@@ -121,6 +121,20 @@
             <span class="popuptext" id="myPopup">A tua média é</span>
             </div>
         </form>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script>
+        $(document).ready(function(){
+         $('#myForm').submit(function(e){
+          e.preventDefault(); // Prevent the default form submission
+           $.ajax({
+            type: 'POST',
+            url: $(this).attr('action'),
+            data: $(this).serialize(),
+            
+        });
+        });
+        });
+        </script>
     </div>
       <footer>
     <div class="container">
