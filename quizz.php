@@ -593,6 +593,9 @@ button:hover {
 
 <button type="submit" id="popupButton">Submeter</button>
 </div>
+</div>
+</div>
+</div>
  <div class="overlay" id="overlay">
 <div class="sadfsdag" id="popup">
     <h2>Tu és <?php echo isset($_SESSION['rf']) ? $_SESSION['rf'] : ''; ?>!</h2>
