@@ -148,7 +148,7 @@ button:hover {
   </div><br>
   <br><br><br><br><br>   
 <h1>Questão 3</h1><br>
-<div class="img_div"><figcaption>Monitora e registra</figcaption><img src="q31.png"><br><br>
+<div class="img_div"><figcaption>Monitoriza e regista</figcaption><img src="q31.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q3" id="visa8" value="2"/>
   <label class="drinkcard-cc visa"  for="visa8"></label>
@@ -192,9 +192,9 @@ button:hover {
   </div>
   <div class="img_div"><figcaption>Admistrador</figcaption><img src="q42.png"><br><br>
   <div class="cc-selector">
-  <input type="radio" name="q4" value="-2" id="visa13"/>
+  <input type="radio" name="q4" value="2" id="visa13"/>
   <label class="drinkcard-cc visa" for="visa13"></label>
-  <input type="radio" name="u4" value="2" id="mastercard13"/>
+  <input type="radio" name="u4" value="-2" id="mastercard13"/>
   <label class="drinkcard-cc mastercard"  for="mastercard13"></label>
   </div>
   </div>
@@ -208,9 +208,9 @@ button:hover {
   </div>
   <div class="img_div"><figcaption>Gerente</figcaption><img src="q44.png"><br><br>
   <div class="cc-selector">
-  <input type="radio" name="q4" value="2" id="visa15"/>
+  <input type="radio" name="q4" value="-2" id="visa15"/>
   <label class="drinkcard-cc visa"  for="visa15"></label>
-  <input type="radio" name="u4" value="-2" id="mastercard15"/>
+  <input type="radio" name="u4" value="2" id="mastercard15"/>
   <label class="drinkcard-cc mastercard"  for="mastercard15"></label>
   </div>
   </div><br>
