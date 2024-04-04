@@ -70,13 +70,22 @@
           <a class="is_active" href="#!" data-filter="*">Show All</a>
         </li>
         <li>
-          <a href="#!" data-filter=".adv">Apartment</a>
+          <a href="#!" data-filter=".adv">Realista</a>
         </li>
         <li>
-          <a href="#!" data-filter=".str">Villa House</a>
+          <a href="#!" data-filter=".str">Investigação</a>
         </li>
         <li>
-          <a href="#!" data-filter=".rac">Penthouse</a>
+          <a href="#!" data-filter=".rac">Artístico</a>
+        </li>
+        <li>
+          <a href="#!" data-filter=".rac">Social</a>
+        </li>
+        <li>
+          <a href="#!" data-filter=".rac">Enterprising</a>
+        </li>
+        <li>
+          <a href="#!" data-filter=".rac">Convencional</a>
         </li>
       </ul>
       <div class="row properties-box">
