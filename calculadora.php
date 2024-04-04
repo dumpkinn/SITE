@@ -41,7 +41,7 @@ session_start();
                       <li><a href="index.html">Início</a></li>
                       <li><a href="cursos.html">Cursos</a></li>
                       <li><a href="calculadora.php" class="active">Calculadora</a></li>
-                      <li><a href="quizz.html">Quiz</a></li>
+                      <li><a href="quizz.php">Quiz</a></li>
                       <li><a href="#">Mapa</a></li>
                       <li><a href="#">Currículo</a></li>
                   </ul>   
