@@ -591,7 +591,7 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-  <a href="#inicio"><button type="submit" name="" onclick="openPopup('Your Result')">Submeter</button></a>
+<button type="submit" name="" onclick="openPopup('Your Result')">Submeter</button>
 <div class="alertbox" id="alertbox">
   <div class="alertboxbar"><a onclick="closepopup()" class="closebutton">&times;</a>
   </div>
@@ -630,12 +630,17 @@ button:hover {
   </footer>
 </html>
 <script>
-function openPopup() {
-  document.getElementById("myPopup").style.display = "block";
+function openPopup(result) {
+  // Display the result in the results div
+  document.getElementById("results").textContent = result;
+
+  // Show the alertbox
+  document.getElementById("alertbox").style.display = "block";
 }
 
 function closePopup() {
-  document.getElementById("myPopup").style.display = "none";
+  // Hide the alertbox
+  document.getElementById("alertbox").style.display = "none";
 }
 </script>
 <style>
