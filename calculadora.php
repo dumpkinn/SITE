@@ -27,6 +27,7 @@ session_start();
       </div>
     </div>
   </div>
+  <body>
   <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
@@ -53,7 +54,6 @@ session_start();
         </div>
     </div>
   </header>
-<body>
     <div class="container2">
         <h1>Introduz as classificações</h1>
         <form action="calc.php" id="myForm" method="post">
