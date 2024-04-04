@@ -46,6 +46,7 @@ button:hover {
 }
     </style>
 </head>
+<body>
 <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
@@ -72,7 +73,6 @@ button:hover {
         </div>
     </div>
   </header>
-<body>
 <div class="container3">
     <center><h1 id="inicio">QUIZ</h1></center>
     <br><br>
