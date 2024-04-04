@@ -592,8 +592,8 @@ button:hover {
   <br><br><br><br><br>
 
   <button type="submit" name="" onclick="openPopup()">Submeter</button>
-          <div id="myPopup" class="popup">
-  <div class="popup-content">
+          <div id="myPopup" class="popup1">
+  <div class="popup-content1">
     <span class="close" onclick="closePopup()">&times;</span>
     <p>Result: <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?></p>
   </div>
@@ -632,3 +632,27 @@ function closePopup() {
   document.getElementById("myPopup").style.display = "none";
 }
 </script>
+<style>
+        /* Popup container */
+        .popup1 {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+
+        /* Popup content */
+        .popup-content1 {
+            background-color: #fefefe;
+            margin: 15% auto; /* 15% from the top and centered */
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%; /* Could be more or less, depending on screen size */
+        }
+    </style>
