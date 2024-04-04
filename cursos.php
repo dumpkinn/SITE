@@ -56,8 +56,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <span class="breadcrumb"><a href="#">Home</a> / Properties</span>
-          <h3>Properties</h3>
+          <span class="breadcrumb"><a href="#">Cursos</a> / Recomenados</span>
+          <h3>Cursos</h3>
         </div>
       </div>
     </div>
@@ -67,7 +67,7 @@
     <div class="container">
       <ul class="properties-filter">
         <li>
-          <a class="is_active" href="#!" data-filter="*">Show All</a>
+          <a class="is_active" href="#!" data-filter="*">Mostrar todos</a>
         </li>
         <li>
           <a href="#!" data-filter=".adv">Realista</a>
