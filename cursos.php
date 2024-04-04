@@ -34,9 +34,10 @@
                     <a href="index.html" class="logo">
                         <h1>RUMO AO FUTURO</h1>
                     </a>
+                    </div>
                     <ul class="nav">
-                      <li><a href="index.html" class="active">Início</a></li>
-                      <li><a href="cursos.php">Cursos</a></li>
+                      <li><a href="index.html">Início</a></li>
+                      <li><a href="cursos.php" class="active">Cursos</a></li>
                       <li><a href="calculadora.php">Calculadora</a></li>
                       <li><a href="quizz.php">Quiz</a></li>
                       <li><a href="#">Mapa</a></li>
@@ -49,8 +50,6 @@
             </div>
         </div>
     </div>
-    </div>
-
   </header>
   <body>
   <footer>
