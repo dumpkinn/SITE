@@ -30,18 +30,15 @@
         <div class="row">
             <div class="col-12">
                 <nav class="main-nav">
-                  <div class="sao">
                     <a href="index.html" class="logo">
-                        <h1>RUMO AO FUTURO</h1>
+                        <h1>Villa</h1>
                     </a>
-                    </div>
                     <ul class="nav">
-                      <li><a href="index.html">Início</a></li>
-                      <li><a href="cursos.php" class="active">Cursos</a></li>
-                      <li><a href="calculadora.php">Calculadora</a></li>
-                      <li><a href="quizz.php">Quiz</a></li>
-                      <li><a href="#">Mapa</a></li>
-                      <li><a href="#">Currículo</a></li>
+                      <li><a href="index.html">Home</a></li>
+                      <li><a href="properties.html" class="active">Properties</a></li>
+                      <li><a href="property-details.html">Property Details</a></li>
+                      <li><a href="contact.html">Contact Us</a></li>
+                      <li><a href="#"><i class="fa fa-calendar"></i> Schedule a visit</a></li>
                   </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
