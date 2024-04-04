@@ -650,6 +650,9 @@ button:hover {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+.sadfsdag button{
+    width: 280px;
+}
 </style>
 <script type="text/javascript">
     const popupButton = document.getElementById('popupButton');
