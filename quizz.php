@@ -58,9 +58,9 @@ button:hover {
                     </div>
                     <ul class="nav">
                       <li><a href="index.html">Início</a></li>
-                      <li><a href="cursos.html">Cursos</a></li>
+                      <li><a href="cursos.php">Cursos</a></li>
                       <li><a href="calculadora.php">Calculadora</a></li>
-                      <li><a href="quizz.html" class="active">Quiz</a></li>
+                      <li><a href="quizz.php" class="active">Quiz</a></li>
                       <li><a href="#">Mapa</a></li>
                       <li><a href="#">Currículo</a></li>
                   </ul>   
@@ -596,7 +596,7 @@ button:hover {
  <div class="overlay" id="overlay">
 <div class="sadfsdag" id="popup">
     <h2>Tu és <?php echo isset($_SESSION['rf']) ? $_SESSION['rf'] : ''; ?>!</h2>
-    <p>Os teus traços são <?php echo isset($_SESSION['rd']) ? $_SESSION['rd'] : ''; ?>, se quiseres ver os cursos que te recomendamos, clica aqui.</p>
+    <p>Os teus traços são <?php echo isset($_SESSION['rd']) ? $_SESSION['rd'] : ''; ?>, se quiseres ver os cursos que te recomendamos, <a href="cursos.php">Clica aqui.</a></div></p>
     <button id="closeButton">Fechar</button>
     </div>
 </div>
