@@ -41,8 +41,8 @@ session_start();
                     <ul class="nav">
                       <li><a href="index.html">Início</a></li>
                       <li><a href="cursos.php">Cursos</a></li>
-                      <li><a href="calculadora.php">Calculadora</a></li>
-                      <li><a href="quizz.php" class="active">Quiz</a></li>
+                      <li><a href="calculadora.php" class="active">Calculadora</a></li>
+                      <li><a href="quizz.php">Quiz</a></li>
                       <li><a href="#">Mapa</a></li>
                       <li><a href="#">Currículo</a></li>
                   </ul>   
