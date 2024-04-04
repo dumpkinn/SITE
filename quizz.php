@@ -601,6 +601,12 @@ function openpopup() {
 
   document.getElementById("alertbox").style.display = "inline-block";
 }
+function showFinalResults() {
+  openpopup();
+ document.getElementById("demo").innerHTML = score + " out of " + quiz.length + " questions, " + Math.round(score / quiz.length * 100) + "%";
+
+
+}
           </script>
           <div class="alertbox" id="alertbox">
   <div class="alertboxbar"><a onclick="closepopup()" class="closebutton">&times;</a>
