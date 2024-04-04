@@ -194,7 +194,7 @@ button:hover {
   <div class="cc-selector">
   <input type="radio" name="q4" value="2" id="visa13"/>
   <label class="drinkcard-cc visa" for="visa13"></label>
-  <input type="radio" name="u4" value="-2" id="mastercard13"/>
+  <input type="radio" name="u4" value="-    2" id="mastercard13"/>
   <label class="drinkcard-cc mastercard"  for="mastercard13"></label>
   </div>
   </div>
