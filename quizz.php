@@ -15,9 +15,8 @@ session_start();
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
     <style type="text/css">
-        button {
+    button {
     display: block;
-    width: 791px;
     padding: 10px;
     background-color: #007bff;
     color: #fff;
@@ -26,6 +25,9 @@ session_start();
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
+}
+.container3 button{
+    width: 791px;
 }
 
 button:hover {
