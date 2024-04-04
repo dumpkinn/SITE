@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+session_start();
+?>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -75,7 +78,7 @@ button:hover {
     <br><br>
     <div class="accordion-body">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.html"> calcula-a aqui.</a></div>
     <br><br><br>
-<form action="quiz.php" >
+<form action="quiz.php" id="myForm" method="post">
 <h1>Questão 1</h1><br>
           <div class="img_div"><figcaption>Ir para o escritório</figcaption><img src="q11.png"><br><br>
           <div class="cc-selector">
@@ -554,7 +557,6 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 15</h1><br>
-<<<<<<< Updated upstream
 <div class="img_div"><figcaption>Eletrónicos</figcaption><img src="q151.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q15" id="visa56" value="2"/>
@@ -589,7 +591,7 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-          <button type="submit" name="" onclick="openPopup()">Submeter</button>
+  <button type="submit" name="" onclick="openPopup()">Submeter</button>
           <div id="myPopup" class="popup">
   <div class="popup-content">
     <span class="close" onclick="closePopup()">&times;</span>
@@ -597,6 +599,20 @@ button:hover {
   </div>
 </div>
 </form>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script>
+        $(document).ready(function(){
+         $('#myForm').submit(function(e){
+          e.preventDefault();
+           $.ajax({
+            type: 'POST',
+            url: $(this).attr('action'),
+            data: $(this).serialize(),
+            
+        });
+        });
+        });
+</script>
 </div>
 </body>
 <footer>
