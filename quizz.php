@@ -589,34 +589,13 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-          <button type="submit" id="alertbox" name="">Submeter</button>
-          <script type="text/javascript">
-              function closepopup() {
-
-  document.getElementById("alertbox").style.display = "none";
-}
-
-
-function openpopup() {
-
-  document.getElementById("alertbox").style.display = "inline-block";
-}
-function showFinalResults() {
-  openpopup();
- document.getElementById("demo").innerHTML = score + " out of " + quiz.length + " questions, " + Math.round(score / quiz.length * 100) + "%";
-
-
-}
-          </script>
-          <div class="alertbox" id="alertbox">
-  <div class="alertboxbar"><a onclick="closepopup()" class="closebutton">&times;</a>
+          <button type="submit" name="" onclick="openPopup()">Submeter</button>
+          <div id="myPopup" class="popup">
+  <div class="popup-content">
+    <span class="close" onclick="closePopup()">&times;</span>
+    <p>Result: <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?></p>
   </div>
-  <div class="alertbartitle">Well Done!
-  </div>
-  <div class="alertbartext">You're amazing for taking this quiz. Not many people challenge themselves every now and then. It's always good to stay confident with any challenges that may come your way.
-    <br><br>
-    You got: <div id="results"></div>
-  </div>
+</div>
 </form>
 </div>
 </body>
@@ -628,128 +607,36 @@ function showFinalResults() {
     </div>
   </footer>
 </html>
-<style type="text/css">
-    .alertbox {
+<script>
+function openPopup() {
+  document.getElementById("myPopup").style.display = "block";
+}
 
-          overflow: auto;
-
-          float: left;
-
-          width: 50vw;
-
-          height: 68vh;
-
-          background-color: white;
-
-          display: hidden;
-
-          position: absolute;
-
-          z-index: 10;
-
-          bottom: 16vh;
-
-          left: 25vw;
-
-          -webkit-box-shadow: 0 3px 4px black;
-
-          -moz-box-shadow: 0 3px 4px black;
-
-          box-shadow: 0 3px 4px black;
-
+function closePopup() {
+  document.getElementById("myPopup").style.display = "none";
+}
+</script>
+<style>
+        /* Popup container */
+        .popup {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
         }
 
-        .alertboxbar {
-
-          width: 100%;
-
-          height: 35px;
-
-          background-color: #2196F3;
-
-          margin-bottom: 10px;
-
+        /* Popup content */
+        .popup-content {
+            background-color: #fefefe;
+            margin: 15% auto; /* 15% from the top and centered */
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%; /* Could be more or less, depending on screen size */
         }
-
-        .alertbartext {
-
-          padding-left: 18px;
-
-          padding-right: 18px;
-
-          padding-bottom: 18px;
-
-          font-size: 18px;
-
-          -webkit-touch-callout: none;
-
-          -webkit-user-select: none;
-
-          -khtml-user-select: none;
-
-          -moz-user-select: none;
-
-          -ms-user-select: none;
-
-          -o-user-select: none;
-
-          user-select: none;
-
-          pointer-events: none;
-
-        }
-
-        .alertbartitle {
-
-          font-family: 'Quicksand', sans-serif;
-
-          font-size: 200%;
-
-          color: black;
-
-          padding-top: 10px;
-
-          padding-left: 18px;
-
-          padding-right: 18px;
-
-          padding-bottom: 18px;
-
-        }
-
-
-
-        .closebutton {
-
-          font-size: 35px;
-
-          line-height: 35px;
-
-          margin-left: calc(100% - 27px);
-
-          margin-right: 12px;
-
-          color: white;
-
-          text-align: right;
-
-          height: 100%;
-
-          vertical-align: middle;
-
-          text-decoration: none;
-
-          cursor: default;
-
-        }
-
-        .closebutton:hover {
-
-          color: #BDBDBD;
-
-        }
-
-#results {
-  display: inline-block;
-  }
-</style>
+    </style>
