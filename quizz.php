@@ -74,7 +74,7 @@ button:hover {
   </header>
 <body>
 <div class="container3">
-    <center><h1>QUIZ</h1></center>
+    <center><h1 id="inicio">QUIZ</h1></center>
     <br><br>
     <div class="accordion-body">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.html"> calcula-a aqui.</a></div>
     <br><br><br>
@@ -591,7 +591,7 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-  <button type="submit" name="" onclick="openPopup('Your Result')">Submeter</button>
+  <a href="#inicio"><button type="submit" name="" onclick="openPopup('Your Result')">Submeter</button></a>
 <div class="alertbox" id="alertbox">
   <div class="alertboxbar"><a onclick="closepopup()" class="closebutton">&times;</a>
   </div>
