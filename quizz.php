@@ -593,9 +593,13 @@ button:hover {
 
   <button type="submit" name="" onclick="openPopup()">Submeter</button>
           <div id="myPopup" class="popup1">
-  <div class="popup-content1">
-    <span class="close" onclick="closePopup()">&times;</span>
-    <p>Result: <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?></p>
+            <div class="alertbox" id="alertbox">
+  <div class="alertboxbar"><a onclick="closepopup()" class="closebutton">&times;</a>
+  </div>
+  <div class="alertbartitle">Well Done!
+  </div>
+  <div class="alertbartext">You're amazing for taking this quiz. Not many people challenge themselves every now and then. It's always good to stay confident with any challenges that may come your way. Result: <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
+    <br><br>
   </div>
 </div>
 </form>
@@ -633,26 +637,83 @@ function closePopup() {
 }
 </script>
 <style>
-        /* Popup container */
-        .popup1 {
-            display: none; /* Hidden by default */
-            position: fixed; /* Stay in place */
-            z-index: 1; /* Sit on top */
-            left: 0;
-            top: 0;
-            width: 100%; /* Full width */
-            height: 100%; /* Full height */
-            overflow: auto; /* Enable scroll if needed */
-            background-color: rgb(0,0,0); /* Fallback color */
-            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+.alertbox {
+
+          overflow: auto;
+
+          float: left;
+
+          width: 50vw;
+
+          height: 68vh;
+
+          background-color: white;
+
+          display: hidden;
+
+          position: absolute;
+
+          z-index: 10;
+
+          bottom: 16vh;
+
+          left: 25vw;
+
+          -webkit-box-shadow: 0 3px 4px black;
+
+          -moz-box-shadow: 0 3px 4px black;
+
+          box-shadow: 0 3px 4px black;
+
         }
 
-        /* Popup content */
-        .popup-content1 {
-            background-color: #fefefe;
-            margin: 15% auto; /* 15% from the top and centered */
-            padding: 20px;
-            border: 1px solid #888;
-            width: 80%; /* Could be more or less, depending on screen size */
+        .alertboxbar {
+
+          width: 100%;
+
+          height: 35px;
+
+          background-color: #2196F3;
+
+          margin-bottom: 10px;
+
+        }
+
+        .alertbartext {
+
+          padding-left: 18px;
+
+          padding-right: 18px;
+
+          padding-bottom: 18px;
+
+          font-size: 18px;
+
+          -webkit-touch-callout: none;
+
+          -webkit-user-select: none;
+
+          -khtml-user-select: none;
+
+          -moz-user-select: none;
+
+          -ms-user-select: none;
+
+          -o-user-select: none;
+
+          user-select: none;
+
+          pointer-events: none;
+
+        }
+
+        .alertbartitle {
+          font-size: 200%;
+          color: black;
+          padding-top: 10px;
+          padding-left: 18px;
+          padding-right: 18px;
+          padding-bottom: 18px;
+
         }
     </style>
