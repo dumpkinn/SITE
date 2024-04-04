@@ -651,7 +651,8 @@ button:hover {
   text-align: center;
 }
 .sadfsdag button{
-    width: 280px;
+    width: 260px;
+    float: center;
 }
 </style>
 <script type="text/javascript">
