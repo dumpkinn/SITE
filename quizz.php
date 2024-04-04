@@ -644,7 +644,7 @@ button:hover {
 
 .sadfsdag {
   background-color: white;
-  width: 500px;
+  width: 300px;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
