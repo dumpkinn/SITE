@@ -1225,7 +1225,7 @@ body {
   padding-bottom: 30px;
 }
 
-.properties .item h6 figcaption {
+.properties .item h6{
   font-size: 20px;
   color: #f35525;
   margin-top: 6px;
