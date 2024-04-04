@@ -110,7 +110,7 @@ span.cc{ color:#6d84b4 }
 
 }
 .container3{
- margin: auto;
+  width: 900px;
 }
 .clearfix:after {
   content: ".";
