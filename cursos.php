@@ -30,6 +30,7 @@
         <div class="row">
             <div class="col-12">
                 <nav class="main-nav">
+                  <div class="sao">
                     <a href="index.html" class="logo">
                         <h1>RUMO AO FUTURO</h1>
                     </a>
@@ -48,6 +49,8 @@
             </div>
         </div>
     </div>
+    </div>
+
   </header>
   <body>
   <footer>
