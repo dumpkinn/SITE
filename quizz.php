@@ -591,20 +591,21 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-<button type="submit" name="" onclick="openPopup('Your Result')">Submeter</button>
-<div class="alertbox" id="alertbox">
-  <div class="alertboxbar"><a onclick="closepopup()" class="closebutton">&times;</a>
-  </div>
-  <div class="alertbartitle">Well Done!
-  </div>
-  <div class="alertbartext">You're amazing for taking this quiz. Not many people challenge themselves every now and then. It's always good to stay confident with any challenges that may come your way.
-    <br><br>
-    You got: <div id="results"></div>
-  </div>
+<button type="submit" name="">Submeter</button>
 </div>
 </div>
 </div>
 </form>
+</div>
+</body>
+<footer>
+    <div class="container">
+      <div class="col-lg-8">
+        <p>Copyright © Code crusaders, Ltd. All rights reserved. 
+      </div>
+    </div>
+  </footer>
+</html>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <script>
         $(document).ready(function(){
@@ -619,152 +620,3 @@ button:hover {
         });
         });
 </script>
-</div>
-</body>
-<footer>
-    <div class="container">
-      <div class="col-lg-8">
-        <p>Copyright © Code crusaders, Ltd. All rights reserved. 
-      </div>
-    </div>
-  </footer>
-</html>
-<script>
-function openPopup(result) {
-  // Display the result in the results div
-  document.getElementById("results").textContent = result;
-
-  // Show the alertbox
-  document.getElementById("alertbox").style.display = "block";
-}
-
-function closePopup() {
-  // Hide the alertbox
-  document.getElementById("alertbox").style.display = "none";
-}
-</script>
-<style>
-.alertbox {
-
-          overflow: auto;
-
-          float: left;
-
-          width: 50vw;
-
-          height: 68vh;
-
-          background-color: white;
-
-          display: hidden;
-
-          position: absolute;
-
-          z-index: 10;
-
-          bottom: 16vh;
-
-          left: 25vw;
-
-          -webkit-box-shadow: 0 3px 4px black;
-
-          -moz-box-shadow: 0 3px 4px black;
-
-          box-shadow: 0 3px 4px black;
-
-        }
-
-        .alertboxbar {
-
-          width: 100%;
-
-          height: 35px;
-
-          background-color: #2196F3;
-
-          margin-bottom: 10px;
-
-        }
-
-        .alertbartext {
-
-          padding-left: 18px;
-
-          padding-right: 18px;
-
-          padding-bottom: 18px;
-
-          font-size: 18px;
-
-          -webkit-touch-callout: none;
-
-          -webkit-user-select: none;
-
-          -khtml-user-select: none;
-
-          -moz-user-select: none;
-
-          -ms-user-select: none;
-
-          -o-user-select: none;
-
-          user-select: none;
-
-          pointer-events: none;
-
-        }
-
-        .alertbartitle {
-
-          font-family: 'Quicksand', sans-serif;
-
-          font-size: 200%;
-
-          color: black;
-
-          padding-top: 10px;
-
-          padding-left: 18px;
-
-          padding-right: 18px;
-
-          padding-bottom: 18px;
-
-        }
-
-
-
-        .closebutton {
-
-          font-size: 35px;
-
-          line-height: 35px;
-
-          margin-left: calc(100% - 27px);
-
-          margin-right: 12px;
-
-          color: white;
-
-          text-align: right;
-
-          height: 100%;
-
-          vertical-align: middle;
-
-          text-decoration: none;
-
-          cursor: default;
-
-        }
-
-        .closebutton:hover {
-
-          color: #BDBDBD;
-
-        }
-
-#results {
-  display: inline-block;
-  }
-    </style>
