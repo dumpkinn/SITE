@@ -592,9 +592,8 @@ button:hover {
   <br><br><br><br><br>
 
   <button type="submit" name="" onclick="openPopup()">Submeter</button>
-          <div id="myPopup" class="popup1">
-            <div class="alertbox" id="alertbox">
-  <div class="alertboxbar"><a onclick="closepopup()" class="closebutton">&times;</a>
+            <div class="alertbox" id="myPopup">
+  <div class="alertboxbar" ><a onclick="closepopup()" class="closebutton">&times;</a>
   </div>
   <div class="alertbartitle">Well Done!
   </div>
