@@ -533,10 +533,10 @@ button:hover {
   </div>
   <div class="img_div"><figcaption>Agente imobiliário</figcaption><img src="q142.png"><br><br>
   <div class="cc-selector">
-  <input type="radio" name="q14" value="1" id="visa53"/>
-  <label class="drinkcard-cc visa" for="visa53"></label>
-  <input type="radio" name="u14" value="-1" id="mastercard53"/>
-  <label class="drinkcard-cc mastercard"  for="mastercard53"></label>
+  <input type="radio" name="q14" value="1" id="visa60"/>
+  <label class="drinkcard-cc visa" for="visa60"></label>
+  <input type="radio" name="u14" value="-1" id="mastercard60"/>
+  <label class="drinkcard-cc mastercard"  for="mastercard60"></label>
   </div>
   </div>
   <div class="img_div"><figcaption>Fashion Designer</figcaption><img src="q143.png"><br><br>
@@ -595,9 +595,9 @@ button:hover {
 </div>
  <div class="overlay" id="overlay">
 <div class="sadfsdag" id="popup">
-    <h2>This is a Popup!</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim nisl eget nunc vestibulum, sed ultricies velit volutpat.</p>
-    <button id="closeButton">Close</button>
+    <h2>Tu és <?php echo isset($_SESSION['rf']) ? $_SESSION['rf'] : ''; ?>!</h2>
+    <p>Os teus traços são <?php echo isset($_SESSION['rd']) ? $_SESSION['rd'] : ''; ?>, se quiseres ver os cursos que te recomendamos, clica aqui.</p>
+    <button id="closeButton">Fechar</button>
     </div>
 </div>
 </div>

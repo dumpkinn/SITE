@@ -32,27 +32,35 @@ $u14 = $_POST['u14'];
 $u15 = $_POST['u15'];
 $r1 = "Artistico";
 $r2 = "Social";
-$r3 = "Enterprising";
+$r3 = "Empreendedor";
 $r4 = "Convencional";
 $r5 = "Realista";
-$r6 = "Investigação";
-$rf = 0
+$r6 = "Investigador";
+$rf = 0;
+$rd = 0;
 $score = $q1 + $q2 + $q3 + $q4 + $q5 + $q6 + $q7 + $q8 + $q9 + $q10 + $q11 + $q12 + $q13 + $q14 + $q15 + $u1 + $u2 + $u3 + $u4 + $u5 + $u6 + $u7 + $u8 + $u9 + $u10 + $u11 + $u12 + $u13 + $u14 + $u15;
 
 if (-60 <= $score && $score <= -40) {
     $rf = $r1;
+    $rd = "criativo, original, independente, caótico, inventivo, media, imagens e texto";
 } elseif (-40 < $score && $score <= -20) {
     $rf = $r2;
+    $rd = "cooperativo, suportar, ajudar, cuidar, ensinar";
 } elseif (-20 < $score && $score <= 0) {
     $rf = $r3;
+    $rd = "Ambientes de trabalho competitivos, líder, persuasivo, status";
 } elseif (0 < $score && $score <= 20) {
     $rf = $r4;
+    $rd = "orientado por detalhes, organizado, justo";
 } elseif (20 < $score && $score <= 40) {
     $rf = $r5;
+    $rd = "prático, físico, concreto, baseado em máquinas e ferramentas";
 } elseif (40 < $score && $score <= 60) {
     $rf = $r6;
+    $rd = "analítico, intelectual, científico, explorativo, pensador";
 }
 $_SESSION['rf'] = $rf;
+$_SESSION['rd'] = $rd;
 var_dump($_SESSION['rf']);
 header("Location: quizz.php");
 exit();
