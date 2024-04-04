@@ -593,8 +593,7 @@ button:hover {
 
 <button type="submit" id="popupButton">Submeter</button>
 </div>
-</div>
-</div>
+</form>
 </div>
  <div class="overlay" id="overlay">
 <div class="sadfsdag" id="popup">
