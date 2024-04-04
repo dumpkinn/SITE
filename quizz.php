@@ -591,15 +591,18 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-  <button type="submit" name="" onclick="openPopup()">Submeter</button>
-            <div class="alertbox" id="myPopup">
-  <div class="alertboxbar" ><a onclick="closepopup()" class="closebutton">&times;</a>
+  <button type="submit" name="" onclick="openPopup('Your Result')">Submeter</button>
+<div class="alertbox" id="alertbox">
+  <div class="alertboxbar"><a onclick="closepopup()" class="closebutton">&times;</a>
   </div>
   <div class="alertbartitle">Well Done!
   </div>
-  <div class="alertbartext">You're amazing for taking this quiz. Not many people challenge themselves every now and then. It's always good to stay confident with any challenges that may come your way. Result: <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
+  <div class="alertbartext">You're amazing for taking this quiz. Not many people challenge themselves every now and then. It's always good to stay confident with any challenges that may come your way.
     <br><br>
+    You got: <div id="results"></div>
   </div>
+</div>
+</div>
 </div>
 </form>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -707,12 +710,56 @@ function closePopup() {
         }
 
         .alertbartitle {
+
+          font-family: 'Quicksand', sans-serif;
+
           font-size: 200%;
+
           color: black;
+
           padding-top: 10px;
+
           padding-left: 18px;
+
           padding-right: 18px;
+
           padding-bottom: 18px;
 
         }
+
+
+
+        .closebutton {
+
+          font-size: 35px;
+
+          line-height: 35px;
+
+          margin-left: calc(100% - 27px);
+
+          margin-right: 12px;
+
+          color: white;
+
+          text-align: right;
+
+          height: 100%;
+
+          vertical-align: middle;
+
+          text-decoration: none;
+
+          cursor: default;
+
+        }
+
+        .closebutton:hover {
+
+          color: #BDBDBD;
+
+        }
+
+#results {
+  display: inline-block;
+  }
     </style>
