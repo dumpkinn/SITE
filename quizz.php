@@ -591,8 +591,14 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-<button type="submit" name="">Submeter</button>
+<button type="submit" id="popupButton">Submeter</button>
 </div>
+ <div class="overlay" id="overlay">
+<div class="sadfsdag" id="popup">
+    <h2>This is a Popup!</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim nisl eget nunc vestibulum, sed ultricies velit volutpat.</p>
+    <button id="closeButton">Close</button>
+    </div>
 </div>
 </div>
 </form>
@@ -619,4 +625,43 @@ button:hover {
         });
         });
         });
+</script>
+<style type="text/css">
+    .overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+.sadfsdag {
+  background-color: white;
+  width: 300px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+</style>
+<script type="text/javascript">
+    const popupButton = document.getElementById('popupButton');
+const overlay = document.getElementById('overlay');
+const popup = document.getElementById('popup');
+const closeButton = document.getElementById('closeButton');
+
+popupButton.addEventListener('click', () => {
+  overlay.style.display = 'block';
+});
+
+closeButton.addEventListener('click', () => {
+  overlay.style.display = 'none';
+});
 </script>
