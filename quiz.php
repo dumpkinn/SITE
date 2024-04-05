@@ -62,6 +62,6 @@ if (-60 <= $score && $score <= -40) {
 $_SESSION['rf'] = $rf;
 $_SESSION['rd'] = $rd;
 var_dump($_SESSION['rf']);
-header("Location: quizz.php");
+header("Location: quizz.php?result=". $rf . "&description=" . $rd);
 exit();
 ?>
