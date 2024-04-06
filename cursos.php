@@ -102,10 +102,10 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
           <div class="item">
-            <a href="property-details.html"><img src="cursosimg/Engenharia Fisica e Tecnológica.png" alt=""></a>
+            <a href="property-details.html"><img src="cursosimg/Engenharia Física e Tecnológica.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>18.8</h6>
-            <h4><a href="property-details.html">Engenharia Fisica e Tecnológica</a></h4>
+            <h4><a href="property-details.html">Engenharia Física e Tecnológica</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
