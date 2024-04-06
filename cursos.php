@@ -179,7 +179,7 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
-            <a href="property-details.html"><img src="cursosimg/Engenharia de Materias.png" alt=""></a>
+            <a href="property-details.html"><img src="cursosimg/Engenharia de materias.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>15.0</h6>
             <h4><a href="property-details.html">Engenharia de Materias</a></h4>
@@ -321,7 +321,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
             <div class="item">
-            <a href="property-details.html"><img src="cursosimg/Design de Comunicação.png" alt=""></a>
+            <a href="property-details.html"><img src="cursosimg/Design de Cominicação.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>17.1</h6>
             <h4><a href="property-details.html">Design de Comunicação</a></h4>
@@ -387,10 +387,10 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
             <div class="item">
-            <a href="property-details.html"><img src="cursosimg/Ciências da arte e do Património.png" alt=""></a>
+            <a href="property-details.html"><img src="cursosimg/Ciências da Arte e do Património.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>15.4</h6>
-            <h4><a href="property-details.html">Ciências da arte e do Património</a></h4>
+            <h4><a href="property-details.html">Ciências da Arte e do Património</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
