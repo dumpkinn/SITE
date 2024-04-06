@@ -437,16 +437,22 @@
             </div>
           </div>
         </div>
-         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
+         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
             <span class="category">U. Minho</span>
-            <h6>16.8</h6>
+            <h6>14.2</h6>
             <h4><a href="property-details.html">Contabilidade</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
           </div>
+        </div>
+   </div>
+</div>
+        </div>
+   </div>
+</div>
         </div>
    </div>
 </div>
