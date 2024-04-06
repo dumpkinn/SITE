@@ -1382,7 +1382,7 @@ footer p a:hover {
 
 
 .page-heading {
-  background-image: url("assets/images/page-heading-bg.jpg");
+  background-image: url(assets/images/page-heading-bg.jpg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
