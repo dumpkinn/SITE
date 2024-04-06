@@ -133,60 +133,339 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac str">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
-            <span class="category">Penthouse</span>
-            <h6>$925.600</h6>
-            <h4><a href="property-details.html">34 Hope Street Portland, OR 42680</a></h4>
+            <span class="category">U. Porto</span>
+            <h6>18.1</h6>
+            <h4><a href="property-details.html">Gestão</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
-            <span class="category">Modern Condo</span>
-            <h6>$450.000</h6>
-            <h4><a href="property-details.html">22 Hope Street Portland, OR 16540</a></h4>
+            <span class="category">U. Porto</span>
+            <h6>17.9</h6>
+            <h4><a href="property-details.html">Psicologia</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac str">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
-            <span class="category">Luxury Villa</span>
-            <h6>$980.000</h6>
-            <h4><a href="property-details.html">14 Mid Street Miami, OR 36450</a></h4>
+            <span class="category">U. Lisboa</span>
+            <h6>17.6</h6>
+            <h4><a href="property-details.html">Desenho</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
-            <span class="category">Luxury Villa</span>
-            <h6>$1.520.000</h6>
-            <h4><a href="property-details.html">26 Old Street Miami, OR 12870</a></h4>
+            <span class="category">U. Porto</span>
+            <h6>17.8</h6>
+            <h4><a href="property-details.html">Engenharia Mecânica</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
-            <span class="category">Luxury Villa</span>
-            <h6>$3.145.000</h6>
-            <h4><a href="property-details.html">34 New Street Miami, OR 24650</a></h4>
+            <span class="category">U. Porto</span>
+            <h6>15.0</h6>
+            <h4><a href="property-details.html">Engenharia de Materias</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
           </div>
+            </div>
+            </div>
+            </div>
+       <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
+          <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Minho</span>
+            <h6>13.4</h6>
+            <h4><a href="property-details.html">Engenharia de Polímeros</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+          </div>
+            </div>
+            </div>
+            </div>          <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
+          <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">IU. Lisboa</span>
+            <h6>16.7</h6>
+            <h4><a href="property-details.html">Gestão de Marketing</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+          <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Lisboa</span>
+            <h6>16.0</h6>
+            <h4><a href="property-details.html">Design de Equipamento</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+          <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">IS. Técnico</span>
+            <h6>14.9</h6>
+            <h4><a href="property-details.html">Engenharia do Ambiente</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
+          <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Lisboa</span>
+            <h6>13.8</h6>
+            <h4><a href="property-details.html">Educação e Formação</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
+          <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Minho</span>
+            <h6>16.0</h6>
+            <h4><a href="property-details.html">Admistração Pública</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
+          <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. NOVA Lisboa</span>
+            <h6>17.6</h6>
+            <h4><a href="property-details.html">Direito</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
+          <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Lisboa</span>
+            <h6>16.7</h6>
+            <h4><a href="property-details.html">Biologia</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
+          <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Lisboa</span>
+            <h6>17.0</h6>
+            <h4><a href="property-details.html">Física</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Minho</span>
+            <h6>12.8</h6>
+            <h4><a href="property-details.html">Química</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Lisboa</span>
+            <h6>14.4</h6>
+            <h4><a href="property-details.html">Geologia</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Minho</span>
+            <h6> 18.6</h6>
+            <h4><a href="property-details.html">Medicina</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Porto</span>
+            <h6>17.1</h6>
+            <h4><a href="property-details.html">Design de Comunicação</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Lisboa</span>
+            <h6>17.1</h6>
+            <h4><a href="property-details.html">Arte Multimédia</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Minho</span>
+            <h6>11.7</h6>
+            <h4><a href="property-details.html">Engenharia Têxtil</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Minho</span>
+            <h6>14.2</h6>
+            <h4><a href="property-details.html">Engenharia e Gestão de Sistemas de Informação</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">IS. Técnico</span>
+            <h6>16.6</h6>
+            <h4><a href="property-details.html">Engenharia Naval e Oceânica</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Beira Interior</span>
+            <h6>15.2</h6>
+            <h4><a href="property-details.html">Engenharia Civil</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Lisboa</span>
+            <h6>15.4</h6>
+            <h4><a href="property-details.html">Ciências da arte e do Património</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Porto</span>
+            <h6>17.4</h6>
+            <h4><a href="property-details.html">Economia</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. Lisboa</span>
+            <h6>16.0</h6>
+            <h4><a href="property-details.html">Matemática</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">IS. Técnico</span>
+            <h6> 17.8</h6>
+            <h4><a href="property-details.html">Engenharia Biomédica</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
+            <div class="item">
+            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <span class="category">U. NOVA Lisboa</span>
+            <h6>15.1</h6>
+            <h4><a href="property-details.html">Sociologia</a></h4>
+            <div class="main-button">
+              <a href="property-details.html">Mais informação</a>
+            </div>
+            </div>
+            </div>
+            </div>
         </div>
       </div>
      </div>
