@@ -56,14 +56,14 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <span class="breadcrumb"><a href="#">Cursos</a> / Recomenados</span>
+          <span class="breadcrumb"><a href="#">Cursos</a> / Recomendados</span>
           <h3>Cursos</h3>
         </div>
       </div>
     </div>
   </div>
-
   <div class="section properties">
+    <h4>Nesta página estão presentes os cursos que achamos mais relevantes nas universidades mais populares, cada curso tem a respetiva média de entrada e universidade. Os cursos estão organizados pelos resultados do <a href="quizz.php"> quiz</a>, se quiseres ver todos os cursos existentes <a href="https://www.dges.gov.pt/guias/indest.asp" target="_blank">clica aqui</a></h4>
     <div class="container">
       <ul class="properties-filter">
         <li>
