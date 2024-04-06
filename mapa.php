@@ -69,7 +69,7 @@
           <div class="section-heading">
             <h2>Encontra Estudantes perto de ti</h2>
           </div>
-          <p>When you really need to download free CSS templates, please remember our website TemplateMo. Also, tell your friends about our website. Thank you for visiting. There is a variety of Bootstrap HTML CSS templates on our website. If you need more information, please contact us.</p>
+          <p>Estás a estudar fora do país e não conheces ninguém? Não te preocupes explora o nosso mapa, vê a região onde estudas e procura algum português que também estude perto de ti. Se quiseres ser contactado por outras pessoas deixa o teu contacto e a tua localização para aparecer uma marca com as tuas informações. </p>
             <div class="fun-facts2">
             <div class="col-lg-4">
                 <div class="counter">
@@ -120,7 +120,7 @@
               </div>
               <div class="col-lg-12">
                 <fieldset>
-                  <button type="submit" id="form-submit" class="orange-button">Send Message</button>
+                  <button type="submit" id="form-submit" class="orange-button">Colocar Marca</button>
                 </fieldset>
               </div>
             </div>
