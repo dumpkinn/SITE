@@ -352,7 +352,7 @@
             </div>
           </div>
         </div>
-         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
+         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
             <span class="category">U. Minho</span>
