@@ -64,8 +64,8 @@
   </div>
   <div class="section properties">
     <div class="container">
-          <h4>Nesta página estão presentes os cursos que achamos mais relevantes nas universidades mais populares, cada curso tem a respetiva média de entrada e universidade. Os cursos estão organizados pelos resultados do <a href="quizz.php"> quiz</a>, se quiseres ver todos os cursos existentes <a href="https://www.dges.gov.pt/guias/indest.asp" target="_blank">clica aqui</a></h4>
-      <ul class="properties-filter">
+          <h4>Nesta página estão presentes os cursos que achamos mais relevantes nas universidades mais populares, cada curso tem a respetiva média de entrada e universidade. Os cursos estão organizados pelos resultados do <a href="quizz.php"> quiz</a>, se quiseres ver todos os cursos existentes <a href="https://www.dges.gov.pt/guias/indest.asp" target="_blank">clica aqui</a></h4><br><br>      
+          <ul class="properties-filter">
         <li>
           <a class="is_active" href="#!" data-filter="*">Mostrar todos</a>
         </li>
