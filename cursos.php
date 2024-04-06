@@ -111,7 +111,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv rac">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Arquitetura.png" alt=""></a>
             <span class="category">U. Minho</span>
@@ -209,7 +209,7 @@
             </div>
           </div>
         </div>
-            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Design de Equipamento.png" alt=""></a>
             <span class="category">U. Lisboa</span>
@@ -429,7 +429,7 @@
             </div>
           </div>
         </div>
-             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
+             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
             <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia e Gestão de Sistemas de Informação.png" alt=""></a>
             <span class="category">U. Minho</span>
