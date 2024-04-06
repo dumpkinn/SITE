@@ -96,7 +96,7 @@
             <h6>18.1</h6>
             <h4><a href="property-details.html">Engenharia Informática</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Saber mais</a>
+              <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/">Mais informação</a>
             </div>
           </div>
         </div>
@@ -107,7 +107,7 @@
             <h6>18.8</h6>
             <h4><a href="property-details.html">Engenharia Física e Tecnológica</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-fisica-tecnologica/">Mais informação</a>
             </div>
           </div>
         </div>
@@ -118,7 +118,7 @@
             <h6>17.7</h6>
             <h4><a href="property-details.html">Arquitetura</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.eaad.uminho.pt/pt/Ensino/Licenciaturas_e_Mestrados_Integrados/Mestrado-Integrado-em-Arquitetura/Paginas/default.aspx">Mais informação</a>
             </div>
           </div>
         </div>
@@ -129,7 +129,7 @@
             <h6>18.7</h6>
             <h4><a href="property-details.html">Engenharia e Gestão Industrial</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://fe.up.pt/estudar/cursos/licenciatura-engenharia-gestao-industrial/">Mais informação</a>
             </div>
           </div>
         </div>
@@ -140,7 +140,7 @@
             <h6>18.1</h6>
             <h4><a href="property-details.html">Gestão</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://sigarra.up.pt/fep/pt/cur_geral.cur_view?pv_curso_id=1046">Mais informação</a>
             </div>
           </div>
         </div>
@@ -151,7 +151,7 @@
             <h6>17.9</h6>
             <h4><a href="property-details.html">Psicologia</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://sigarra.up.pt/fpceup/pt/cur_geral.cur_view?pv_curso_id=22381">Mais informação</a>
             </div>
           </div>
         </div>
@@ -162,7 +162,7 @@
             <h6>17.6</h6>
             <h4><a href="property-details.html">Desenho</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ulisboa.pt/curso/licenciatura/desenho">Mais informação</a>
             </div>
           </div>
         </div>
@@ -173,7 +173,7 @@
             <h6>17.8</h6>
             <h4><a href="property-details.html">Engenharia Mecânica</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22882">Mais informação</a>
             </div>
           </div>
         </div>
@@ -184,7 +184,7 @@
             <h6>15.0</h6>
             <h4><a href="property-details.html">Engenharia de Materias</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22902">Mais informação</a>
             </div>
           </div>
         </div>
@@ -195,7 +195,7 @@
             <h6>13.4</h6>
             <h4><a href="property-details.html">Engenharia de Polímeros</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.eng.uminho.pt/pt/estudar/_layouts/15/uminho.portaisuoei.ui/pages/catalogocursodetail.aspx?itemid=4372&catid=13">Mais informação</a>
             </div>
           </div>
         </div>         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
@@ -205,7 +205,7 @@
             <h6>16.7</h6>
             <h4><a href="property-details.html">Gestão de Marketing</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.iscte-iul.pt/curso/59/licenciatura-gestao-de-marketing">Mais informação</a>
             </div>
           </div>
         </div>
@@ -216,7 +216,7 @@
             <h6>16.0</h6>
             <h4><a href="property-details.html">Design de Equipamento</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ulisboa.pt/curso/licenciatura/design-de-equipamento">Mais informação</a>
             </div>
           </div>
         </div>
@@ -227,7 +227,7 @@
             <h6>14.9</h6>
             <h4><a href="property-details.html">Engenharia do Ambiente</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-do-ambiente/">Mais informação</a>
             </div>
           </div>
         </div>
@@ -238,7 +238,7 @@
             <h6>13.8</h6>
             <h4><a href="property-details.html">Educação e Formação</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ulisboa.pt/curso/licenciatura/educacao-e-formacao">Mais informação</a>
             </div>
           </div>
         </div>
@@ -249,7 +249,7 @@
             <h6>16.0</h6>
             <h4><a href="property-details.html">Administração Pública</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.eeg.uminho.pt/pt/estudar/Licenciaturas/Paginas/administracao-publica.aspx">Mais informação</a>
             </div>
           </div>
         </div>
@@ -260,7 +260,7 @@
             <h6>17.6</h6>
             <h4><a href="property-details.html">Direito</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://novalaw.unl.pt/licenciatura/">Mais informação</a>
             </div>
           </div>
         </div>
@@ -271,7 +271,7 @@
             <h6>16.7</h6>
             <h4><a href="property-details.html">Biologia</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ulisboa.pt/curso/licenciatura/biologia">Mais informação</a>
             </div>
           </div>
         </div>
@@ -282,7 +282,7 @@
             <h6>17.0</h6>
             <h4><a href="property-details.html">Física</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ulisboa.pt/curso/licenciatura/fisica">Mais informação</a>
             </div>
           </div>
         </div>
@@ -293,7 +293,7 @@
             <h6>12.8</h6>
             <h4><a href="property-details.html">Química</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ecum.uminho.pt/pt/Ensino/Paginas/licenciaturas/Licenciatura-em-Quimica.aspx">Mais informação</a>
             </div>
           </div>
         </div>
@@ -304,7 +304,7 @@
             <h6>14.4</h6>
             <h4><a href="property-details.html">Geologia</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ulisboa.pt/curso/licenciatura/geologia">Mais informação</a>
             </div>
           </div>
         </div>
@@ -315,7 +315,7 @@
             <h6> 18.6</h6>
             <h4><a href="property-details.html">Medicina</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.med.uminho.pt/pt/Medicina">Mais informação</a>
             </div>
           </div>
         </div>
@@ -326,7 +326,7 @@
             <h6>17.1</h6>
             <h4><a href="property-details.html">Design de Comunicação</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://sigarra.up.pt/fbaup/pt/cur_geral.cur_view?pv_curso_id=1314">Mais informação</a>
             </div>
           </div>
         </div>
@@ -337,7 +337,7 @@
             <h6>17.1</h6>
             <h4><a href="property-details.html">Arte Multimédia</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ulisboa.pt/curso/licenciatura/arte-multimedia">Mais informação</a>
             </div>
           </div>
         </div>
@@ -348,7 +348,7 @@
             <h6>11.7</h6>
             <h4><a href="property-details.html">Engenharia Têxtil</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.eng.uminho.pt/pt/estudar/_layouts/15/uminho.portaisuoei.ui/pages/catalogocursodetail.aspx?itemid=3554&catid=10">Mais informação</a>
             </div>
           </div>
         </div>
@@ -359,7 +359,7 @@
             <h6>16.8</h6>
             <h4><a href="property-details.html">Contabilidade</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.eeg.uminho.pt/pt/estudar/Licenciaturas/Paginas/contabilidade.aspx">Mais informação</a>
             </div>
           </div>
         </div>
@@ -370,7 +370,7 @@
             <h6>16.6</h6>
             <h4><a href="property-details.html">Engenharia Naval e Oceânica</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-naval-e-oceanica/">Mais informação</a>
             </div>
           </div>
         </div>
@@ -381,7 +381,7 @@
             <h6>15.2</h6>
             <h4><a href="property-details.html">Engenharia Civil</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ubi.pt/curso/9">Mais informação</a>
             </div>
           </div>
         </div>
@@ -392,7 +392,7 @@
             <h6>15.4</h6>
             <h4><a href="property-details.html">Ciências da Arte e do Património</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ulisboa.pt/curso/licenciatura/ciencias-da-arte-e-do-patrimonio">Mais informação</a>
             </div>
           </div>
         </div>
@@ -403,7 +403,7 @@
             <h6>17.4</h6>
             <h4><a href="property-details.html">Economia</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://cursos.fep.up.pt/licenciaturas/economia-licenciaturas/">Mais informação</a>
             </div>
           </div>
         </div>
@@ -414,7 +414,7 @@
             <h6>16.0</h6>
             <h4><a href="property-details.html">Matemática</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.ulisboa.pt/curso/licenciatura/matematica">Mais informação</a>
             </div>
           </div>
         </div>
@@ -425,7 +425,7 @@
             <h6> 17.8</h6>
             <h4><a href="property-details.html">Engenharia Biomédica</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-biomedica/">Mais informação</a>
             </div>
           </div>
         </div>
@@ -436,7 +436,7 @@
             <h6> 14.2</h6>
             <h4><a href="property-details.html">Engenharia e Gestão de Sistemas de Informação</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=4078&catid=12">Mais informação</a>
             </div>
           </div>
         </div>
@@ -447,7 +447,7 @@
             <h6>15.1</h6>
             <h4><a href="property-details.html">Sociologia</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Mais informação</a>
+              <a href="https://www.fcsh.unl.pt/cursos/licenciatura_em_sociologia/">Mais informação</a>
             </div>
           </div>
         </div>
