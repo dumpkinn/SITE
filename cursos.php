@@ -187,9 +187,7 @@
               <a href="property-details.html">Mais informação</a>
             </div>
           </div>
-            </div>
-            </div>
-            </div>
+        </div>
        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -200,9 +198,7 @@
               <a href="property-details.html">Mais informação</a>
             </div>
           </div>
-            </div>
-            </div>
-            </div>          <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
+        </div>         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
             <span class="category">IU. Lisboa</span>
@@ -211,9 +207,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -223,9 +218,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -235,9 +229,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -247,9 +240,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -259,9 +251,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -271,9 +262,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -283,9 +273,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -295,9 +284,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -307,9 +295,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -319,9 +306,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -331,9 +317,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -343,9 +328,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -355,9 +339,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
              <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -367,9 +350,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
          <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -379,9 +361,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -391,9 +372,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -403,9 +383,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -415,9 +394,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -427,9 +405,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -439,9 +416,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -451,9 +427,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
             <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
@@ -463,9 +438,8 @@
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
-            </div>
-            </div>
-            </div>
+          </div>
+        </div>
         </div>
       </div>
      </div>
