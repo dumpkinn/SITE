@@ -1284,7 +1284,7 @@ body {
   vertical-align: middle;
 }
 
-.contact-content .item h6{
+.contact-content .item h6 figcaption {
   font-size: 20px;
   font-weight: 600;
   vertical-align: middle;
@@ -1382,7 +1382,7 @@ footer p a:hover {
 
 
 .page-heading {
-  background-image: url(assets/images/page-heading-bg.jpg);
+  background-image: url(../images/page-heading-bg.jpg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
