@@ -92,18 +92,11 @@
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
-            <span class="category">Luxury Villa</span>
-            <h6>$2.264.000</h6>
-            <h4><a href="property-details.html">18 Old Street Miami, OR 97219</a></h4>
-            <ul>
-              <li>Bedrooms: <span>8</span></li>
-              <li>Bathrooms: <span>8</span></li>
-              <li>Area: <span>545m2</span></li>
-              <li>Floor: <span>3</span></li>
-              <li>Parking: <span>6 spots</span></li>
-            </ul>
+            <span class="category">IS. Técnico</span>
+            <h6>18.1</h6>
+            <h4><a href="property-details.html">Engenharia Informática</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Schedule a visit</a>
+              <a href="property-details.html">Saber mais</a>
             </div>
           </div>
         </div>
@@ -112,16 +105,9 @@
             <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
             <span class="category">Luxury Villa</span>
             <h6>$1.180.000</h6>
-            <h4><a href="property-details.html">54 New Street Florida, OR 27001</a></h4>
-            <ul>
-              <li>Bedrooms: <span>6</span></li>
-              <li>Bathrooms: <span>5</span></li>
-              <li>Area: <span>450m2</span></li>
-              <li>Floor: <span>3</span></li>
-              <li>Parking: <span>8 spots</span></li>
-            </ul>
+            <h4><a href="property-details.html">Engenharia Fisica e Tecnológica</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Schedule a visit</a>
+              <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
@@ -130,7 +116,7 @@
             <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
             <span class="category">Luxury Villa</span>
             <h6>$1.460.000</h6>
-            <h4><a href="property-details.html">26 Mid Street Portland, OR 38540</a></h4>
+            <h4><a href="property-details.html">Arquitetura</a></h4>
             <ul>
               <li>Bedrooms: <span>5</span></li>
               <li>Bathrooms: <span>4</span></li>
@@ -185,13 +171,6 @@
             <span class="category">Modern Condo</span>
             <h6>$450.000</h6>
             <h4><a href="property-details.html">22 Hope Street Portland, OR 16540</a></h4>
-            <ul>
-              <li>Bedrooms: <span>3</span></li>
-              <li>Bathrooms: <span>2</span></li>
-              <li>Area: <span>165m2</span></li>
-              <li>Floor: <span>26th</span></li>
-              <li>Parking: <span>3 cars</span></li>
-            </ul>
             <div class="main-button">
               <a href="property-details.html">Schedule a visit</a>
             </div>
@@ -203,13 +182,6 @@
             <span class="category">Luxury Villa</span>
             <h6>$980.000</h6>
             <h4><a href="property-details.html">14 Mid Street Miami, OR 36450</a></h4>
-            <ul>
-              <li>Bedrooms: <span>8</span></li>
-              <li>Bathrooms: <span>8</span></li>
-              <li>Area: <span>550m2</span></li>
-              <li>Floor: <span>3</span></li>
-              <li>Parking: <span>12 spots</span></li>
-            </ul>
             <div class="main-button">
               <a href="property-details.html">Schedule a visit</a>
             </div>
@@ -221,13 +193,6 @@
             <span class="category">Luxury Villa</span>
             <h6>$1.520.000</h6>
             <h4><a href="property-details.html">26 Old Street Miami, OR 12870</a></h4>
-            <ul>
-              <li>Bedrooms: <span>12</span></li>
-              <li>Bathrooms: <span>15</span></li>
-              <li>Area: <span>380m2</span></li>
-              <li>Floor: <span>3</span></li>
-              <li>Parking: <span>14 spots</span></li>
-            </ul>
             <div class="main-button">
               <a href="property-details.html">Schedule a visit</a>
             </div>
@@ -239,13 +204,6 @@
             <span class="category">Luxury Villa</span>
             <h6>$3.145.000</h6>
             <h4><a href="property-details.html">34 New Street Miami, OR 24650</a></h4>
-            <ul>
-              <li>Bedrooms: <span>10</span></li>
-              <li>Bathrooms: <span>12</span></li>
-              <li>Area: <span>860m2</span></li>
-              <li>Floor: <span>3</span></li>
-              <li>Parking: <span>10 spots</span></li>
-            </ul>
             <div class="main-button">
               <a href="property-details.html">Schedule a visit</a>
             </div>
