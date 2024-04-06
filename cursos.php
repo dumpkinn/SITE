@@ -79,13 +79,13 @@
           <a href="#!" data-filter=".rac">Artístico</a>
         </li>
         <li>
-          <a href="#!" data-filter=".rac">Social</a>
+          <a href="#!" data-filter=".soc">Social</a>
         </li>
         <li>
-          <a href="#!" data-filter=".rac">Enterprising</a>
+          <a href="#!" data-filter=".ent">Enterprising</a>
         </li>
         <li>
-          <a href="#!" data-filter=".rac">Convencional</a>
+          <a href="#!" data-filter=".con">Convencional</a>
         </li>
       </ul>
       <div class="row properties-box">
@@ -118,25 +118,18 @@
             <h6>17.7</h6>
             <h4><a href="property-details.html">Arquitetura</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Schedule a visit</a>
+              <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
-            <span class="category">Apartment</span>
-            <h6>$584.500</h6>
-            <h4><a href="property-details.html">12 Hope Street Portland, OR 12650</a></h4>
-            <ul>
-              <li>Bedrooms: <span>4</span></li>
-              <li>Bathrooms: <span>3</span></li>
-              <li>Area: <span>125m2</span></li>
-              <li>Floor: <span>25th</span></li>
-              <li>Parking: <span>2 cars</span></li>
-            </ul>
+            <span class="category">U. Porto</span>
+            <h6>18.7</h6>
+            <h4><a href="property-details.html">Engenharia e Gestão Industrial</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Schedule a visit</a>
+              <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
@@ -146,15 +139,8 @@
             <span class="category">Penthouse</span>
             <h6>$925.600</h6>
             <h4><a href="property-details.html">34 Hope Street Portland, OR 42680</a></h4>
-            <ul>
-              <li>Bedrooms: <span>4</span></li>
-              <li>Bathrooms: <span>4</span></li>
-              <li>Area: <span>180m2</span></li>
-              <li>Floor: <span>38th</span></li>
-              <li>Parking: <span>2 cars</span></li>
-            </ul>
             <div class="main-button">
-              <a href="property-details.html">Schedule a visit</a>
+              <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
@@ -165,7 +151,7 @@
             <h6>$450.000</h6>
             <h4><a href="property-details.html">22 Hope Street Portland, OR 16540</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Schedule a visit</a>
+              <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
@@ -176,7 +162,7 @@
             <h6>$980.000</h6>
             <h4><a href="property-details.html">14 Mid Street Miami, OR 36450</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Schedule a visit</a>
+              <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
@@ -187,7 +173,7 @@
             <h6>$1.520.000</h6>
             <h4><a href="property-details.html">26 Old Street Miami, OR 12870</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Schedule a visit</a>
+              <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
@@ -198,7 +184,7 @@
             <h6>$3.145.000</h6>
             <h4><a href="property-details.html">34 New Street Miami, OR 24650</a></h4>
             <div class="main-button">
-              <a href="property-details.html">Schedule a visit</a>
+              <a href="property-details.html">Mais informação</a>
             </div>
           </div>
         </div>
