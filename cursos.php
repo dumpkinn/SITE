@@ -103,8 +103,8 @@
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
-            <span class="category">Luxury Villa</span>
-            <h6>$1.180.000</h6>
+            <span class="category">IS. Técnico</span>
+            <h6>18.8</h6>
             <h4><a href="property-details.html">Engenharia Fisica e Tecnológica</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
@@ -114,16 +114,9 @@
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv rac">
           <div class="item">
             <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
-            <span class="category">Luxury Villa</span>
-            <h6>$1.460.000</h6>
+            <span class="category">U. Minho</span>
+            <h6>17.7</h6>
             <h4><a href="property-details.html">Arquitetura</a></h4>
-            <ul>
-              <li>Bedrooms: <span>5</span></li>
-              <li>Bathrooms: <span>4</span></li>
-              <li>Area: <span>225m2</span></li>
-              <li>Floor: <span>3</span></li>
-              <li>Parking: <span>10 spots</span></li>
-            </ul>
             <div class="main-button">
               <a href="property-details.html">Schedule a visit</a>
             </div>
