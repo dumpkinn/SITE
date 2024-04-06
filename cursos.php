@@ -91,7 +91,7 @@
       <div class="row properties-box">
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia Informática.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>18.1</h6>
             <h4><a href="property-details.html">Engenharia Informática</a></h4>
@@ -102,7 +102,7 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia Fisica e Tecnológica.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>18.8</h6>
             <h4><a href="property-details.html">Engenharia Fisica e Tecnológica</a></h4>
@@ -113,7 +113,7 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv rac">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Arquitetura.png" alt=""></a>
             <span class="category">U. Minho</span>
             <h6>17.7</h6>
             <h4><a href="property-details.html">Arquitetura</a></h4>
@@ -124,7 +124,7 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia e Gestão Industrial.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>18.7</h6>
             <h4><a href="property-details.html">Engenharia e Gestão Industrial</a></h4>
@@ -135,7 +135,7 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Gestão.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>18.1</h6>
             <h4><a href="property-details.html">Gestão</a></h4>
@@ -146,7 +146,7 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Psicologia.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>17.9</h6>
             <h4><a href="property-details.html">Psicologia</a></h4>
@@ -157,7 +157,7 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Desenho.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>17.6</h6>
             <h4><a href="property-details.html">Desenho</a></h4>
@@ -168,7 +168,7 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia Mecânica.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>17.8</h6>
             <h4><a href="property-details.html">Engenharia Mecânica</a></h4>
@@ -179,7 +179,7 @@
         </div>
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia de Materias.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>15.0</h6>
             <h4><a href="property-details.html">Engenharia de Materias</a></h4>
@@ -190,7 +190,7 @@
         </div>
        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia de Polímeros.png" alt=""></a>
             <span class="category">U. Minho</span>
             <h6>13.4</h6>
             <h4><a href="property-details.html">Engenharia de Polímeros</a></h4>
@@ -200,7 +200,7 @@
           </div>
         </div>         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Gestão de Marketing.png" alt=""></a>
             <span class="category">IU. Lisboa</span>
             <h6>16.7</h6>
             <h4><a href="property-details.html">Gestão de Marketing</a></h4>
@@ -211,7 +211,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Design de Equipamento.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>16.0</h6>
             <h4><a href="property-details.html">Design de Equipamento</a></h4>
@@ -222,7 +222,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia do Ambiente.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>14.9</h6>
             <h4><a href="property-details.html">Engenharia do Ambiente</a></h4>
@@ -233,7 +233,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Educação e Formação.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>13.8</h6>
             <h4><a href="property-details.html">Educação e Formação</a></h4>
@@ -244,10 +244,10 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Administração Pública.png" alt=""></a>
             <span class="category">U. Minho</span>
             <h6>16.0</h6>
-            <h4><a href="property-details.html">Admistração Pública</a></h4>
+            <h4><a href="property-details.html">Administração Pública</a></h4>
             <div class="main-button">
               <a href="property-details.html">Mais informação</a>
             </div>
@@ -255,7 +255,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Direito.png" alt=""></a>
             <span class="category">U. NOVA Lisboa</span>
             <h6>17.6</h6>
             <h4><a href="property-details.html">Direito</a></h4>
@@ -266,7 +266,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Biologia.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>16.7</h6>
             <h4><a href="property-details.html">Biologia</a></h4>
@@ -277,7 +277,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
           <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Física.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>17.0</h6>
             <h4><a href="property-details.html">Física</a></h4>
@@ -288,7 +288,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Química.png" alt=""></a>
             <span class="category">U. Minho</span>
             <h6>12.8</h6>
             <h4><a href="property-details.html">Química</a></h4>
@@ -299,7 +299,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Geologia.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>14.4</h6>
             <h4><a href="property-details.html">Geologia</a></h4>
@@ -310,7 +310,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Medicina.png" alt=""></a>
             <span class="category">U. Minho</span>
             <h6> 18.6</h6>
             <h4><a href="property-details.html">Medicina</a></h4>
@@ -321,7 +321,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Design de Comunicação.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>17.1</h6>
             <h4><a href="property-details.html">Design de Comunicação</a></h4>
@@ -332,7 +332,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Arte Multimédia.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>17.1</h6>
             <h4><a href="property-details.html">Arte Multimédia</a></h4>
@@ -343,7 +343,7 @@
         </div>
              <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 con">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia Têxtil.png" alt=""></a>
             <span class="category">U. Minho</span>
             <h6>11.7</h6>
             <h4><a href="property-details.html">Engenharia Têxtil</a></h4>
@@ -354,7 +354,7 @@
         </div>
          <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Contabilidade.png" alt=""></a>
             <span class="category">U. Minho</span>
             <h6>16.8</h6>
             <h4><a href="property-details.html">Contabilidade</a></h4>
@@ -365,7 +365,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia Naval e Oceânica.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>16.6</h6>
             <h4><a href="property-details.html">Engenharia Naval e Oceânica</a></h4>
@@ -376,7 +376,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia Civil.png" alt=""></a>
             <span class="category">U. Beira Interior</span>
             <h6>15.2</h6>
             <h4><a href="property-details.html">Engenharia Civil</a></h4>
@@ -387,7 +387,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Ciências da arte e do Património.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>15.4</h6>
             <h4><a href="property-details.html">Ciências da arte e do Património</a></h4>
@@ -398,7 +398,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 ent">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Economia.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>17.4</h6>
             <h4><a href="property-details.html">Economia</a></h4>
@@ -409,7 +409,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Matemática.png" alt=""></a>
             <span class="category">U. Lisboa</span>
             <h6>16.0</h6>
             <h4><a href="property-details.html">Matemática</a></h4>
@@ -420,7 +420,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia Biomédica.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6> 17.8</h6>
             <h4><a href="property-details.html">Engenharia Biomédica</a></h4>
@@ -431,7 +431,7 @@
         </div>
              <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Engenharia e Gestão de Sistemas de Informação.png" alt=""></a>
             <span class="category">U. Minho</span>
             <h6> 14.2</h6>
             <h4><a href="property-details.html">Engenharia e Gestão de Sistemas de Informação</a></h4>
@@ -442,7 +442,7 @@
         </div>
             <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 soc">
             <div class="item">
-            <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+            <a href="property-details.html"><img src="Sociologia.png" alt=""></a>
             <span class="category">U. NOVA Lisboa</span>
             <h6>15.1</h6>
             <h4><a href="property-details.html">Sociologia</a></h4>
