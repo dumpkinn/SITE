@@ -1284,7 +1284,7 @@ body {
   vertical-align: middle;
 }
 
-.contact-content .item h6{
+.contact-content .item h6 figcaption {
   font-size: 20px;
   font-weight: 600;
   vertical-align: middle;
