@@ -599,8 +599,6 @@ button:hover {
 </div>
  <div class="overlay" id="overlay">
 <div class="sadfsdag" id="popup">
-    <h2>Tu és <?php if (echo isset($_SESSION['rf']) ? $_SESSION['rf'] : '';?>!</h2>
-    <p>Os teus traços são <?php echo isset($_SESSION['rd']) ? $_SESSION['rd'] : ''; ?>, se quiseres ver os cursos que te recomendamos, <a href="cursos.php">Clica aqui.</a></p>
     <button id="closeButton">Fechar</button>
     </div>
 </div>
