@@ -29,7 +29,6 @@
   <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
-                  <div class="col-lg-5">
             <div class="col-12">
                 <nav class="main-nav">
                   <div class="sao">
@@ -39,17 +38,16 @@
                     </div>
                     <ul class="nav">
                       <li><a href="index.html">Início</a></li>
-                      <li><a href="cursos.php" class="active">Cursos</a></li>
+                      <li><a href="cursos.php">Cursos</a></li>
                       <li><a href="calculadora.php">Calculadora</a></li>
                       <li><a href="quizz.php">Quiz</a></li>
                       <li><a href="mapa.php">Mapa</a></li>
-                      <li><a href="curriculo.php">Currículo</a></li>
+                      <li><a href="curriculo.php" class="active">Currículo</a></li>
                   </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
                     </a>
                 </nav>
-            </div>
             </div>
         </div>
     </div>
