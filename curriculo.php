@@ -129,19 +129,19 @@
             <ul>
               <li>
                 <img src="assets/images/info-icon-01.png" alt="" style="max-width: 52px;">
-                <h4>450 m2<br><span>Total Flat Space</span></h4>
+                <h4>Inteligência Artificial<br><span>Correção automática</span></h4>
               </li>
               <li>
                 <img src="assets/images/info-icon-02.png" alt="" style="max-width: 52px;">
-                <h4>Contract<br><span>Contract Ready</span></h4>
+                <h4>Escreva<br><span>O seu currículo</span></h4>
               </li>
               <li>
                 <img src="assets/images/info-icon-03.png" alt="" style="max-width: 52px;">
-                <h4>Payment<br><span>Payment Process</span></h4>
+                <h4>Pagamento<br><span>Não se preocupe é de GRAÇA!</span></h4>
               </li>
               <li>
                 <img src="assets/images/info-icon-04.png" alt="" style="max-width: 52px;">
-                <h4>Safety<br><span>24/7 Under Control</span></h4>
+                <h4>Assegure-se<br><span>Vai ter o currículo dos seus sonhos!</span></h4>
               </li>
             </ul>
           </div>
