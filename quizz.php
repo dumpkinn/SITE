@@ -64,8 +64,8 @@ button:hover {
                       <li><a href="cursos.php">Cursos</a></li>
                       <li><a href="calculadora.php">Calculadora</a></li>
                       <li><a href="quizz.php" class="active">Quiz</a></li>
-                      <li><a href="#">Mapa</a></li>
-                      <li><a href="#">Currículo</a></li>
+                      <li><a href="mapa.php">Mapa</a></li>
+                      <li><a href="curriculo.php">Currículo</a></li>
                   </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
@@ -620,13 +620,13 @@ button:hover {
         <script>
         $(document).ready(function(){
          $('#myForm').submit(function(e){
-          e.preventDefault();
-           $.ajax({
+          //e.preventDefault();
+          /* $.ajax({
             type: 'POST',
             url: $(this).attr('action'),
             data: $(this).serialize(),
             
-        });
+        });*/
         });
         });
 </script>
@@ -665,9 +665,23 @@ const overlay = document.getElementById('overlay');
 const popup = document.getElementById('popup');
 const closeButton = document.getElementById('closeButton');
 
-popupButton.addEventListener('click', () => {
+function doesUrlContainSubstring(substring) {
+  // Get the current URL
+  var url = window.location.href;
+  
+  // Check if the URL contains the substring
+  if (url.indexOf(substring) !== -1) {
+      // Substring found in the URL
+      return true;
+  } else {
+      // Substring not found in the URL
+      return false;
+  }
+}
+
+if (doesUrlContainSubstring('result')) {
   overlay.style.display = 'block';
-});
+}
 
 closeButton.addEventListener('click', () => {
   overlay.style.display = 'none';

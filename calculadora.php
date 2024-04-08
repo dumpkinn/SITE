@@ -44,7 +44,7 @@ session_start();
                       <li><a href="calculadora.php" class="active">Calculadora</a></li>
                       <li><a href="quizz.php">Quiz</a></li>
                       <li><a href="mapa.php">Mapa</a></li>
-                      <li><a href="#">Currículo</a></li>
+                      <li><a href="curriculo.php">Currículo</a></li>
                   </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
@@ -119,7 +119,7 @@ session_start();
                 <input type="number" name="ex3" min="0" max="20" step="1">
                 <h6>(deixa vazio as caixas que não precisas)</h6>
             </div>
-            <div class="popup" onclick="myFunction()"><button type="submit">Submeter</button>
+            <div class="popup" ><button type="submit" id="fixrafada">Submeter</button>
             <span class="popuptext" id="myPopup">A tua média é <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
             </span>
             </div>
@@ -128,13 +128,13 @@ session_start();
         <script>
         $(document).ready(function(){
          $('#myForm').submit(function(e){
-          e.preventDefault();
-           $.ajax({
+          //e.preventDefault();
+           /*$.ajax({
             type: 'POST',
             url: $(this).attr('action'),
             data: $(this).serialize(),
             
-        });
+        });*/
         });
         });
         </script>
@@ -148,11 +148,28 @@ session_start();
   </footer>
 </body>
 <script>
-function myFunction() {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
-}
-exit();
+  function myFunction() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+  }
+
+  function doesUrlContainSubstring(substring) {
+        // Get the current URL
+        var url = window.location.href;
+        
+        // Check if the URL contains the substring
+        if (url.indexOf(substring) !== -1) {
+            // Substring found in the URL
+            return true;
+        } else {
+            // Substring not found in the URL
+            return false;
+        }
+  }
+
+  if (doesUrlContainSubstring('media')) {
+    myFunction();
+  }
 </script>
 
 </html>
