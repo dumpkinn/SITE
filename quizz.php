@@ -665,9 +665,23 @@ const overlay = document.getElementById('overlay');
 const popup = document.getElementById('popup');
 const closeButton = document.getElementById('closeButton');
 
-popupButton.addEventListener('click', () => {
+function doesUrlContainSubstring(substring) {
+  // Get the current URL
+  var url = window.location.href;
+  
+  // Check if the URL contains the substring
+  if (url.indexOf(substring) !== -1) {
+      // Substring found in the URL
+      return true;
+  } else {
+      // Substring not found in the URL
+      return false;
+  }
+}
+
+if (doesUrlContainSubstring('media')) {
   overlay.style.display = 'block';
-});
+}
 
 closeButton.addEventListener('click', () => {
   overlay.style.display = 'none';
