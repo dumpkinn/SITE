@@ -162,6 +162,7 @@ var url = window.location.href;
     // Check if the 'media' parameter exists
     if (searchParams.has('media')) {
       myFunction();
+      console.log('gg')
     }
 
 exit();
