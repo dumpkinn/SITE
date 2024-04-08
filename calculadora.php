@@ -129,13 +129,13 @@ session_start();
         <script>
         $(document).ready(function(){
          $('#myForm').submit(function(e){
-          e.preventDefault();
-           $.ajax({
+          //e.preventDefault();
+           /*$.ajax({
             type: 'POST',
             url: $(this).attr('action'),
             data: $(this).serialize(),
             
-        });
+        });*/
         });
         });
         </script>
