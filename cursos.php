@@ -105,7 +105,7 @@
             <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>18.1</h6>
-            <?php if ($_SESSION['media']>=18.1) {echo "<span class="gr">";} elseif ($_SESSION['media']<18.1) {echo "<span class="re">";} else {echo "<span>";} ?>><h4><a href="property-details.html">Engenharia Informática</a></h4></span>
+            <h4><a href="property-details.html">Engenharia Informática</a></h4></span>
             <div class="main-button">
               <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/">Mais informação</a>
             </div>
