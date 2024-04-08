@@ -679,7 +679,7 @@ function doesUrlContainSubstring(substring) {
   }
 }
 
-if (doesUrlContainSubstring('media')) {
+if (doesUrlContainSubstring('result')) {
   overlay.style.display = 'block';
 }
 
