@@ -127,16 +127,26 @@ session_start();
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <script>
         $(document).ready(function(){
-         $('#myForm').submit(function(e){
-          e.preventDefault();
-           $.ajax({
-            type: 'POST',
-            url: $(this).attr('action'),
-            data: $(this).serialize(),
-            
+    // Get the current URL
+    var url = window.location.href;
+
+    // Create a URLSearchParams object from the URL
+    var searchParams = new URLSearchParams(url);
+
+    // Check if the 'media' parameter exists
+    if (searchParams.has('media')) {
+        // Media parameter is set
+        $('#myForm').submit(function(e){
+            e.preventDefault();
+            $.ajax({
+                type: 'POST',
+                url: $(this).attr('action'),
+                data: $(this).serialize(),
+                // Additional AJAX settings if needed
+            });
         });
-        });
-        });
+    }
+});
         </script>
     </div>
       <footer>
