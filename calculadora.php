@@ -149,21 +149,28 @@ session_start();
   </footer>
 </body>
 <script>
-function myFunction() {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
-}
+  function myFunction() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+  }
 
-    var url = window.location.href;
+  function doesUrlContainSubstring(substring) {
+        // Get the current URL
+        var url = window.location.href;
+        
+        // Check if the URL contains the substring
+        if (url.indexOf(substring) !== -1) {
+            // Substring found in the URL
+            return true;
+        } else {
+            // Substring not found in the URL
+            return false;
+        }
+  }
 
-    // Create a URLSearchParams object from the URL
-    var searchParams = new URLSearchParams(url);
-
-    // Check if the 'media' parameter exists
-    if (searchParams.has('media')) {
-      myFunction();
-      console.log('gg')
-    }
+  if (doesUrlContainSubstring('media')) {
+    myFunction();
+  }
 </script>
 
 </html>
