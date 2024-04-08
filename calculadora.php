@@ -154,7 +154,7 @@ function myFunction() {
   popup.classList.toggle("show");
 }
 
-var url = window.location.href;
+    var url = window.location.href;
 
     // Create a URLSearchParams object from the URL
     var searchParams = new URLSearchParams(url);
@@ -164,8 +164,6 @@ var url = window.location.href;
       myFunction();
       console.log('gg')
     }
-
-exit();
 </script>
 
 </html>
