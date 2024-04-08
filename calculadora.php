@@ -119,8 +119,7 @@ session_start();
                 <input type="number" name="ex3" min="0" max="20" step="1">
                 <h6>(deixa vazio as caixas que não precisas)</h6>
             </div>
-            <button type="submit">Submeter</button>
-            <div class="popup" >
+            <div class="popup" ><button type="submit" id="fixrafada">Submeter</button>
             <span class="popuptext" id="myPopup">A tua média é <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
             </span>
             </div>
