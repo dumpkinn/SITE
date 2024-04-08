@@ -64,8 +64,8 @@ button:hover {
                       <li><a href="cursos.php">Cursos</a></li>
                       <li><a href="calculadora.php">Calculadora</a></li>
                       <li><a href="quizz.php" class="active">Quiz</a></li>
-                      <li><a href="#">Mapa</a></li>
-                      <li><a href="#">Currículo</a></li>
+                      <li><a href="mapa.php">Mapa</a></li>
+                      <li><a href="curriculo.php">Currículo</a></li>
                   </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
