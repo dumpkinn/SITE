@@ -62,7 +62,6 @@
       </div>
     </div>
   </div>
-    </div>
 <div class="contact-content">
   <div class="single-property section">
     <div class="container">
