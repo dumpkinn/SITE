@@ -119,7 +119,7 @@ session_start();
                 <input type="number" name="ex3" min="0" max="20" step="1">
                 <h6>(deixa vazio as caixas que não precisas)</h6>
             </div>
-            <div class="popup" onclick="myFunction()"><button type="submit">Submeter</button>
+            <div class="popup" ><button type="submit">Submeter</button>
             <span class="popuptext" id="myPopup">A tua média é <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
             </span>
             </div>
@@ -127,26 +127,16 @@ session_start();
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <script>
         $(document).ready(function(){
-    // Get the current URL
-    var url = window.location.href;
-
-    // Create a URLSearchParams object from the URL
-    var searchParams = new URLSearchParams(url);
-
-    // Check if the 'media' parameter exists
-    if (searchParams.has('media')) {
-        // Media parameter is set
-        $('#myForm').submit(function(e){
-            e.preventDefault();
-            $.ajax({
-                type: 'POST',
-                url: $(this).attr('action'),
-                data: $(this).serialize(),
-                // Additional AJAX settings if needed
-            });
+         $('#myForm').submit(function(e){
+          e.preventDefault();
+           $.ajax({
+            type: 'POST',
+            url: $(this).attr('action'),
+            data: $(this).serialize(),
+            
         });
-    }
-});
+        });
+        });
         </script>
     </div>
       <footer>
@@ -162,6 +152,17 @@ function myFunction() {
   var popup = document.getElementById("myPopup");
   popup.classList.toggle("show");
 }
+
+var url = window.location.href;
+
+    // Create a URLSearchParams object from the URL
+    var searchParams = new URLSearchParams(url);
+
+    // Check if the 'media' parameter exists
+    if (searchParams.has('media')) {
+      myFunction();
+    }
+
 exit();
 </script>
 
