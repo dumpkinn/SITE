@@ -105,7 +105,19 @@
             <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>18.1</h6>
-            <?php include 'calc.php'; $i=20; if ($i>=18.1) {echo "<span class="gr"><h4><a href="property-details.html">Engenharia Informática</a></h4></span>"; } ?>
+            <?php
+    // Sample value for $s
+    $s = 2; // You can change this value to test
+
+    // Check if $s is bigger than one
+    if ($s > 1) {
+        // If true, apply the highlight class
+        echo '<span class="highlight">This text is highlighted because $s is bigger than one!</span>';
+    } else {
+        // If false, display the text without highlighting
+        echo 'This text is not highlighted because $s is not bigger than one.';
+    }
+    ?>
             <div class="main-button">
               <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/">Mais informação</a>
             </div>
