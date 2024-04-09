@@ -106,15 +106,10 @@
     </span>
 
     <script>
-        // Get the value of $s from PHP
-        var s = <?php echo $_SESSION['media']; ?>;
+        var s = 20;
 
-        // Get the element to change color
         var textElement = document.getElementById('textToHighlight');
-
-        // Check if s is bigger than one
         if (s >= 18.1) {
-            // If true, apply the highlight class
             textElement.classList.add('gr');
         }
         else if (s < 18.1) {
