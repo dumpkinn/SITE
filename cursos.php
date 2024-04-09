@@ -98,13 +98,12 @@
           <a href="#con" data-filter=".con" id="con">Convencional</a>
         </li>
       </ul>
-      <script>
-        var d = <?php echo $_SESSION['id']; ?>;
+<script>
     window.onload = function() {
-        var link = document.getElementById(d);
+        var link = document.getElementById("myLink");
         link.click();
     };
-    </script>
+</script>
       <div id="gallery">
       <div class="row properties-box">
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
