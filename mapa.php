@@ -120,7 +120,10 @@
               </div>
               <div class="col-lg-12">
                 <fieldset>
-                  <button type="submit" id="form-submit" class="orange-button">Colocar Marca</button>
+                  <div class="popup" ><button type="submit" id="form-submit" class="orange-button">Colocar Marca</button>
+                 <span class="popuptext" id="myPopup">A sua informação será validada por um moderador
+                 </span>
+                 </div>
                 </fieldset>
               </div>
             </div>
@@ -147,3 +150,27 @@
   <script src="assets/js/owl-carousel.js"></script>
   <script src="assets/js/counter.js"></script>
   <script src="assets/js/custom.js"></script>
+  <script>
+  function myFunction() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+  }
+
+  function doesUrlContainSubstring(substring) {
+        // Get the current URL
+        var url = window.location.href;
+        
+        // Check if the URL contains the substring
+        if (url.indexOf(substring) !== -1) {
+            // Substring found in the URL
+            return true;
+        } else {
+            // Substring not found in the URL
+            return false;
+        }
+  }
+
+  if (doesUrlContainSubstring('media')) {
+    myFunction();
+  }
+</script>
