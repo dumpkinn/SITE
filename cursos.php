@@ -132,11 +132,11 @@
             <a href="property-details.html"><img src="cursosimg/Engenharia Física e Tecnologica.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>18.8</h6>
-            <span id="textToHighlight"><h4>Engenharia Física e Tecnológica</h4></span>
+            <span id="textToHighlight1"><h4>Engenharia Física e Tecnológica</h4></span>
             <script>
         var s = <?php echo $_SESSION['media']; ?>;
 
-        var textElement = document.getElementById('textToHighlight');
+        var textElement = document.getElementById('textToHighlight1');
         if (s >= 18.8) {
             textElement.classList.add('gr');
         }
