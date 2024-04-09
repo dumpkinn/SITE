@@ -99,11 +99,11 @@
         </li>
       </ul>
 
-            <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
+            <img src="cursosimg/Engenharia Informática.png" alt="">
             <span class="category">IS. Técnico</span>
             <h6>18.1</h6>
             <span id="textToHighlight">
-        <?php echo "Engenharia Informática"; ?>
+        Engenharia Informática
     </span>
 
     <script>
