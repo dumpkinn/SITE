@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Text Color Changer</title>
     <style>
         .gr{
             color: green;
@@ -12,12 +11,8 @@
     </style>
 </head>
 <body>
-    <?php
-    // Assume $s is a PHP variable with some value
-    $s = 2; // You can change this value to test
-    ?>
               <span id="textToHighlight">
-        <?php echo "<h4>Engenharia Informática</h4>"; ?>
+        <h4>Engenharia Informática</h4>
     </span>
 
     <script>
