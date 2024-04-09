@@ -635,7 +635,7 @@
             <script>
         var s = <?php echo $_SESSION['media']; ?>;
 
-        var textElement = document.getElementById('textToHighlight21');
+        var textElement = document.getElementById('textToHiglight21');
         if (s >= 17.1) {
             textElement.classList.add('gr');
         }
@@ -731,7 +731,7 @@
             <a href="property-details.html"><img src="cursosimg/Engenharia Naval e Oceânica.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>16.6</h6>
-            <span id="textToHiglight25"><h4>Engenharia Naval e Oceânica</h4></span>
+            <span id="textToHighlight25"><h4>Engenharia Naval e Oceânica</h4></span>
             <script>
         var s = <?php echo $_SESSION['media']; ?>;
 
@@ -785,7 +785,7 @@
             <script>
         var s = <?php echo $_SESSION['media']; ?>;
 
-        var textElement = document.getElementById('textToHighlight27');
+        var textElement = document.getElementById('textToHighligh27');
         if (s >= 15.4) {
             textElement.classList.add('gr');
         }
@@ -806,7 +806,7 @@
             <a href="property-details.html"><img src="cursosimg/Economia.png" alt=""></a>
             <span class="category">U. Porto</span>
             <h6>17.4</h6>
-            <span id="textTohighlight28"><h4>Economia</h4></span>
+            <span id="textToHighlight28"><h4>Economia</h4></span>
             <script>
         var s = <?php echo $_SESSION['media']; ?>;
 
