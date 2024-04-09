@@ -95,12 +95,13 @@
           <a href="#ent" data-filter=".ent" id="ent">Enterprising</a>
         </li>
         <li>
-          <a href="#con" data-filter=".con" id="myLink">Convencional</a>
+          <a href="#con" data-filter=".con" id="con">Convencional</a>
         </li>
       </ul>
 <script>
+  var linkId = "<?php echo $_SESSION['id']; ?>";
     window.onload = function() {
-        var link = document.getElementById("myLink");
+        var link = document.getElementById(linkId);
         link.click();
     };
 </script>
