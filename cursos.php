@@ -103,7 +103,7 @@
             <span class="category">IS. Técnico</span>
             <h6>18.1</h6>
             <span id="textToHighlight">
-        <?php echo "<h4>Engenharia Informática</h4>"; ?>
+        <?php echo "Engenharia Informática"; ?>
     </span>
 
     <script>
