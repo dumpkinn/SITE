@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+  <?php
+  session_start();
+  ?>
 
   <head>
     <style>
@@ -107,6 +110,7 @@
 
     <script>
         var s = 20;
+        textElement.textContent = s;
 
         var textElement = document.getElementById('textToHighlight');
         if (s >= 18.1) {
