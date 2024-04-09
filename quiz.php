@@ -43,7 +43,7 @@ $score = $q1 + $q2 + $q3 + $q4 + $q5 + $q6 + $q7 + $q8 + $q9 + $q10 + $q11 + $q1
 if (-60 <= $score && $score <= -40) {
     $rf = $r1;
     $rd = "criativo, original, independente, caótico, inventivo, media, imagens e texto";
-    $id = "rac";
+    $id = "art";
 } elseif (-40 < $score && $score <= -20) {
     $rf = $r2;
     $rd = "cooperativo, suportar, ajudar, cuidar, ensinar";
@@ -59,11 +59,11 @@ if (-60 <= $score && $score <= -40) {
 } elseif (20 < $score && $score <= 40) {
     $rf = $r5;
     $rd = "prático, físico, concreto, baseado em máquinas e ferramentas";
-    $id = "adv";
+    $id = "real";
 } elseif (40 < $score && $score <= 60) {
     $rf = $r6;
     $rd = "analítico, intelectual, científico, explorativo, pensador";
-    $id = "str";
+    $id = "inv";
 }
 $_SESSION['rf'] = $rf;
 $_SESSION['rd'] = $rd;

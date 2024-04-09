@@ -102,6 +102,7 @@
         var d = <?php echo $_SESSION['id']; ?>;
                 window.onload = function() {
             document.getElementById(d).click();
+            buttonToClick.click();
         };
     </script>
       <div id="gallery">
