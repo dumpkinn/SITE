@@ -506,11 +506,14 @@
   <script src="assets/js/custom.js"></script>
 
   </body>
-              <h4 id="textToHighlight">
-        Engenharia Informática
-    </h4>
-
-    <script>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+      <script>
         var s = 20;
         textElement.textContent = s;
 
@@ -525,4 +528,7 @@
            
         }
     </script>
+              <span id="textToHighlight">
+        Engenharia Informática
+    </span>
 </html>
