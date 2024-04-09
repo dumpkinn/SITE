@@ -171,7 +171,7 @@ document.addEventListener("DOMContentLoaded", function() {
       </ul>
       <div id="gallery">
       <div class="row properties-box">
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
+        <div class="item adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
             <span class="category">IS. Técnico</span>
