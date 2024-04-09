@@ -121,8 +121,6 @@
 
         }
     </script>
-</body>
-    </script>
             <div class="main-button">
               <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/">Mais informação</a>
             </div>
