@@ -98,15 +98,7 @@
           <a href="#!" data-filter=".con">Convencional</a>
         </li>
       </ul>
-
-            <img src="cursosimg/Engenharia Informática.png" alt="">
-            <span class="category">IS. Técnico</span>
-            <h6>18.1</h6>
-            <span id="textToHighlight">
-        Engenharia Informática
-    </span>
-
-    <script>
+          <script>
         var s = 20;
         textElement.textContent = s;
 
@@ -121,6 +113,13 @@
            
         }
     </script>
+
+            <img src="cursosimg/Engenharia Informática.png" alt="">
+            <span class="category">IS. Técnico</span>
+            <h6>18.1</h6>
+            <span id="textToHighlight">
+        Engenharia Informática
+    </span>
             <div class="main-button">
               <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/">Mais informação</a>
             </div>
