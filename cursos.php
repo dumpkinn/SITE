@@ -506,29 +506,4 @@
   <script src="assets/js/custom.js"></script>
 
   </body>
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
-      <script>
-        var s = 20;
-        textElement.textContent = s;
-
-        var textElement = document.getElementById('textToHighlight');
-        if (s >= 18.1) {
-            textElement.classList.add('gr');
-        }
-        else if (s < 18.1) {
-            textElement.classList.add('re');
-        }
-         else {
-           
-        }
-    </script>
-              <span id="textToHighlight">
-        Engenharia Informática
-    </span>
 </html>
