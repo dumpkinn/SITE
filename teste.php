@@ -14,7 +14,6 @@
               <span id="textToHighlight">
         <h4>Engenharia Informática</h4>
     </span>
-
     <script>
         var s = 20;
 

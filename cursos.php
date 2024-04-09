@@ -104,13 +104,11 @@
             <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>18.1</h6>
-            <span id="textToHighlight">
+              <span id="textToHighlight">
         <h4>Engenharia Informática</h4>
     </span>
-
     <script>
         var s = 20;
-        textElement.textContent = s;
 
         var textElement = document.getElementById('textToHighlight');
         if (s >= 18.1) {
@@ -120,8 +118,10 @@
             textElement.classList.add('re');
         }
          else {
-           
+
         }
+    </script>
+</body>
     </script>
             <div class="main-button">
               <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/">Mais informação</a>
