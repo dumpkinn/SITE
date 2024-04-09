@@ -72,113 +72,6 @@
       </div>
     </div>
   </div>
-  <script>
-// Get all filter options
-const filterOptions = document.querySelectorAll('#filter-options a');
-
-// Get all gallery items
-const galleryItems = document.querySelectorAll('#gallery .item');
-
-// Loop through each filter option
-filterOptions.forEach(option => {
-  // Add click event listener to each filter option
-  option.addEventListener('click', function(event) {
-    event.preventDefault(); // Prevent default link behavior
-
-    // Remove 'is_active' class from all filter options
-    filterOptions.forEach(option => {
-      option.classList.remove('is_active');
-    });
-
-    // Add 'is_active' class to the clicked filter option
-    this.classList.add('is_active');
-
-    // Get the data-filter value of the clicked option
-    const filterValue = this.getAttribute('data-filter');
-
-    // Loop through each gallery item
-    galleryItems.forEach(item => {
-      // If the item has the same class as the filter value or the filter value is '*', show the item, else hide it
-      if (filterValue === '*' || item.classList.contains(filterValue)) {
-        item.style.display = 'block';
-      } else {
-        item.style.display = 'none';
-      }
-    });
-  });
-});
-</script>
-  <script>
-document.addEventListener("DOMContentLoaded", function() {
-  // Get all filter options
-  const filterOptions = document.querySelectorAll('#filter-options a');
-
-  // Get all gallery items
-  const galleryItems = document.querySelectorAll('#gallery .item');
-
-  // Function to apply filter based on query parameter
-  function applyFilterFromQuery() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const filterParam = urlParams.get('filter');
-    
-    // If filterParam exists and is a valid filter option, apply the filter
-    if (filterParam && document.querySelector(`[data-filter=".${filterParam}"]`)) {
-      // Remove 'is_active' class from all filter options
-      filterOptions.forEach(option => {
-        option.classList.remove('is_active');
-      });
-
-      // Add 'is_active' class to the corresponding filter option
-      document.querySelector(`[data-filter=".${filterParam}"]`).classList.add('is_active');
-
-      // Loop through each gallery item
-      galleryItems.forEach(item => {
-        // If the item has the same class as the filter value or the filter value is '*', show the item, else hide it
-        if (filterParam === '*' || item.classList.contains(filterParam)) {
-          item.style.display = 'block';
-        } else {
-          item.style.display = 'none';
-        }
-      });
-    }
-  }
-
-  // Apply filter based on query parameter when the page loads
-  applyFilterFromQuery();
-
-  // Loop through each filter option
-  filterOptions.forEach(option => {
-    // Add click event listener to each filter option
-    option.addEventListener('click', function(event) {
-      event.preventDefault(); // Prevent default link behavior
-
-      // Remove 'is_active' class from all filter options
-      filterOptions.forEach(option => {
-        option.classList.remove('is_active');
-      });
-
-      // Add 'is_active' class to the clicked filter option
-      this.classList.add('is_active');
-
-      // Get the data-filter value of the clicked option
-      const filterValue = this.getAttribute('data-filter');
-
-      // Update the URL with the filter parameter
-      history.pushState({}, '', `?filter=${filterValue.substr(1)}`);
-
-      // Loop through each gallery item
-      galleryItems.forEach(item => {
-        // If the item has the same class as the filter value or the filter value is '*', show the item, else hide it
-        if (filterValue === '*' || item.classList.contains(filterValue)) {
-          item.style.display = 'block';
-        } else {
-          item.style.display = 'none';
-        }
-      });
-    });
-  });
-});
-</script>
   <div class="section properties">
     <div class="container">
           <h4>Nesta página estão presentes os cursos que achamos mais relevantes nas universidades mais populares, cada curso tem a respetiva média de entrada e universidade. Os cursos estão organizados pelos resultados do <a href="quizz.php"> quiz</a>, se quiseres ver todos os cursos existentes <a href="https://www.dges.gov.pt/guias/indest.asp" target="_blank">clica aqui</a></h4><br><br>      
@@ -207,7 +100,7 @@ document.addEventListener("DOMContentLoaded", function() {
       </ul>
       <div id="gallery">
       <div class="row properties-box">
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
             <span class="category">IS. Técnico</span>
@@ -300,7 +193,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Mecânica.png" alt=""></a>
             <span class="category">U. Porto</span>
@@ -311,7 +204,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia de materias.png" alt=""></a>
             <span class="category">U. Porto</span>
@@ -354,7 +247,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia do Ambiente.png" alt=""></a>
             <span class="category">IS. Técnico</span>
@@ -497,7 +390,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
             <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Naval e Oceânica.png" alt=""></a>
             <span class="category">IS. Técnico</span>
@@ -508,7 +401,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
             <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Civil.png" alt=""></a>
             <span class="category">U. Beira Interior</span>
