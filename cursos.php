@@ -171,7 +171,7 @@ document.addEventListener("DOMContentLoaded", function() {
       </ul>
       <div id="gallery">
       <div class="row properties-box">
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
             <span class="category">IS. Técnico</span>
@@ -264,7 +264,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Mecânica.png" alt=""></a>
             <span class="category">U. Porto</span>
@@ -275,7 +275,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia de materias.png" alt=""></a>
             <span class="category">U. Porto</span>
@@ -318,7 +318,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia do Ambiente.png" alt=""></a>
             <span class="category">IS. Técnico</span>
@@ -461,7 +461,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
             <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Naval e Oceânica.png" alt=""></a>
             <span class="category">IS. Técnico</span>
@@ -472,7 +472,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
           </div>
         </div>
-            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
+            <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
             <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Civil.png" alt=""></a>
             <span class="category">U. Beira Interior</span>
