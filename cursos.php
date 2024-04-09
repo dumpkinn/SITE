@@ -888,7 +888,7 @@
             <a href="property-details.html"><img src="cursosimg/Engenharia e Gestão de Sistemas de Informação.png" alt=""></a>
             <span class="category">U. Minho</span>
             <h6> 14.2</h6>
-            <span id="textToHighlight31"><h4>>Engenharia e Gestão de Sistemas de Informação</h4></span>
+            <span id="textToHighlight31"><h4>Engenharia e Gestão de Sistemas de Informação</h4></span>
             <script>
         var s = <?php echo $_SESSION['media']; ?>;
 
