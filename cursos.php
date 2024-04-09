@@ -100,10 +100,10 @@
       </ul>
       <script>
         var d = <?php echo $_SESSION['id']; ?>;
-                window.onload = function() {
-            document.getElementById(d).click();
-            buttonToClick.click();
-        };
+    window.onload = function() {
+        var link = document.getElementById(d);
+        link.click();
+    };
     </script>
       <div id="gallery">
       <div class="row properties-box">
