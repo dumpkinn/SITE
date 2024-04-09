@@ -15,7 +15,7 @@
     <title>Rumo ao Futuro</title>
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/fontawesome.css">
-
+    <link rel="stylesheet" href="assets/css/templatemo-villa-agency.css">
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
@@ -28,7 +28,7 @@
             <span class="category">IS. Técnico</span>
             <h6>18.1</h6>
               <span id="textToHighlight">
-        <h4>Engenharia Informática</h4>
+        Engenharia Informática
     </span>
     <script>
         var s = 20;
