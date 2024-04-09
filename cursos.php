@@ -1,154 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
-  <?php
-  session_start();
-  ?>
-
-  <head>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <title>Rumo ao Futuro</title>
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-villa-agency.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<html>
+<head>
+    <title>Text Color Changer</title>
     <style>
-      .gr{
-        color: green;
-      }
-      .re{
-        color: red;
-      }
+        .highlight {
+            color: red; /* Change the color to whatever you prefer */
+        }
     </style>
-  </head>
+</head>
 <body>
-  <div id="js-preloader" class="js-preloader">
-    <div class="preloader-inner">
-      <span class="dot"></span>
-      <div class="dots">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-    </div>
-  </div>
-    <body>
-  <header class="header-area header-sticky">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <nav class="main-nav">
-                  <div class="sao">
-                    <a href="index.html" class="logo">
-                        <h1>RUMO AO FUTURO</h1>
-                    </a>
-                    </div>
-                    <ul class="nav">
-                      <li><a href="index.html">Início</a></li>
-                      <li><a href="cursos.php" class="active">Cursos</a></li>
-                      <li><a href="calculadora.php">Calculadora</a></li>
-                      <li><a href="quizz.php">Quiz</a></li>
-                      <li><a href="mapa.php">Mapa</a></li>
-                      <li><a href="curriculo.php">Currículo</a></li>
-                  </ul>   
-                    <a class='menu-trigger'>
-                        <span>Menu</span>
-                    </a>
-                </nav>
-            </div>
-        </div>
-    </div>
-  </header>
-      <div class="page-heading header-text">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <span class="breadcrumb"><a href="#">Cursos</a> / Recomendados</span>
-          <h3>Cursos</h3>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section properties">
-    <div class="container">
-          <h4>Nesta página estão presentes os cursos que achamos mais relevantes nas universidades mais populares, cada curso tem a respetiva média de entrada e universidade. Os cursos estão organizados pelos resultados do <a href="quizz.php"> quiz</a>, se quiseres ver todos os cursos existentes <a href="https://www.dges.gov.pt/guias/indest.asp" target="_blank">clica aqui</a></h4><br><br>      
-          <ul class="properties-filter">
-        <li>
-          <a class="is_active" href="#!" data-filter="*">Mostrar todos</a>
-        </li>
-        <li>
-          <a href="#!" data-filter=".adv">Realista</a>
-        </li>
-        <li>
-          <a href="#!" data-filter=".str">Investigação</a>
-        </li>
-        <li>
-          <a href="#!" data-filter=".rac">Artístico</a>
-        </li>
-        <li>
-          <a href="#!" data-filter=".soc">Social</a>
-        </li>
-        <li>
-          <a href="#!" data-filter=".ent">Enterprising</a>
-        </li>
-        <li>
-          <a href="#!" data-filter=".con">Convencional</a>
-        </li>
-      </ul>
-      <div class="row properties-box">
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
-          <div class="item">
-            <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
-            <span class="category">IS. Técnico</span>
-            <h6>18.1</h6>
-            <?php
-    // Sample value for $s
+    <?php
+    // Assume $s is a PHP variable with some value
     $s = 2; // You can change this value to test
-
-    // Check if $s is bigger than one
-    if ($s > 1) {
-        // If true, apply the highlight class
-        echo '<span class="highlight">This text is highlighted because $s is bigger than one!</span>';
-    } else {
-        // If false, display the text without highlighting
-        echo 'This text is not highlighted because $s is not bigger than one.';
-    }
     ?>
-            <div class="main-button">
-              <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/">Mais informação</a>
-            </div>
-          </div>
-        </div>
-        
-        </div>
-      </div>
-     </div>
-   </div>
-</div>
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/js/isotope.min.js"></script>
-  <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/counter.js"></script>
-  <script src="assets/js/custom.js"></script>
+    <span id="textToHighlight">
+        <?php echo $s; ?>
+    </span>
 
-  <footer>
-    <div class="container">
-      <div class="col-lg-8">
-        <p>Copyright © Code crusaders, Ltd. All rights reserved. 
-      </div>
-    </div>
-  </footer>
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/js/isotope.min.js"></script>
-  <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/counter.js"></script>
-  <script src="assets/js/custom.js"></script>
+    <script>
+        // Get the value of $s from PHP
+        var s = <?php echo $s; ?>;
 
-  </body>
+        // Get the element to change color
+        var textElement = document.getElementById('textToHighlight');
+
+        // Check if s is bigger than one
+        if (s > 1) {
+            // If true, apply the highlight class
+            textElement.classList.add('highlight');
+        } else {
+            // If false, remove the highlight class
+            textElement.classList.remove('highlight');
+        }
+    </script>
+</body>
 </html>
