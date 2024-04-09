@@ -73,6 +73,42 @@
     </div>
   </div>
   <script>
+// Get all filter options
+const filterOptions = document.querySelectorAll('#filter-options a');
+
+// Get all gallery items
+const galleryItems = document.querySelectorAll('#gallery .item');
+
+// Loop through each filter option
+filterOptions.forEach(option => {
+  // Add click event listener to each filter option
+  option.addEventListener('click', function(event) {
+    event.preventDefault(); // Prevent default link behavior
+
+    // Remove 'is_active' class from all filter options
+    filterOptions.forEach(option => {
+      option.classList.remove('is_active');
+    });
+
+    // Add 'is_active' class to the clicked filter option
+    this.classList.add('is_active');
+
+    // Get the data-filter value of the clicked option
+    const filterValue = this.getAttribute('data-filter');
+
+    // Loop through each gallery item
+    galleryItems.forEach(item => {
+      // If the item has the same class as the filter value or the filter value is '*', show the item, else hide it
+      if (filterValue === '*' || item.classList.contains(filterValue)) {
+        item.style.display = 'block';
+      } else {
+        item.style.display = 'none';
+      }
+    });
+  });
+});
+</script>
+  <script>
 document.addEventListener("DOMContentLoaded", function() {
   // Get all filter options
   const filterOptions = document.querySelectorAll('#filter-options a');
@@ -171,7 +207,7 @@ document.addEventListener("DOMContentLoaded", function() {
       </ul>
       <div id="gallery">
       <div class="row properties-box">
-        <div class="item adv">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv" class="item adv">
           <div class="item">
             <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
             <span class="category">IS. Técnico</span>
