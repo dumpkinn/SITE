@@ -108,7 +108,7 @@
         <h4>Engenharia Informática</h4>
     </span>
     <script>
-        var s = 20;
+        var s = <?php echo $_SESSION['media']; ?>;
 
         var textElement = document.getElementById('textToHighlight');
         if (s >= 18.1) {
