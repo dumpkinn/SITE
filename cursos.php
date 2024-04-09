@@ -95,7 +95,7 @@
           <a href="#ent" data-filter=".ent" id="ent">Enterprising</a>
         </li>
         <li>
-          <a href="#con" data-filter=".con" id="con">Convencional</a>
+          <a href="#con" data-filter=".con" id="myLink">Convencional</a>
         </li>
       </ul>
 <script>
