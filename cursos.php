@@ -98,12 +98,6 @@
           <a href="#!" data-filter=".con">Convencional</a>
         </li>
       </ul>
-    </div>
-    </div>
-    </div>
-    </div>
-    </div>
-    </div>
       <div class="row properties-box">
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
           <div class="item">
@@ -512,4 +506,23 @@
   <script src="assets/js/custom.js"></script>
 
   </body>
+              <span id="textToHighlight">
+        <h4>Engenharia Informática</h4>
+    </span>
+
+    <script>
+        var s = 20;
+        textElement.textContent = s;
+
+        var textElement = document.getElementById('textToHighlight');
+        if (s >= 18.1) {
+            textElement.classList.add('gr');
+        }
+        else if (s < 18.1) {
+            textElement.classList.add('re');
+        }
+         else {
+           
+        }
+    </script>
 </html>
