@@ -132,7 +132,21 @@
             <a href="property-details.html"><img src="cursosimg/Engenharia Física e Tecnologica.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>18.8</h6>
-            <h4><a href="property-details.html">Engenharia Física e Tecnológica</a></h4>
+            <span id="textToHighlight"><h4>Engenharia Física e Tecnológica</h4></span>
+            <script>
+        var s = <?php echo $_SESSION['media']; ?>;
+
+        var textElement = document.getElementById('textToHighlight');
+        if (s >= 18.8) {
+            textElement.classList.add('gr');
+        }
+        else if (s < 18.8) {
+            textElement.classList.add('re');
+        }
+         else {
+
+        }
+    </script>
             <div class="main-button">
               <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-fisica-tecnologica/">Mais informação</a>
             </div>
