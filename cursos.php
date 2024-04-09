@@ -80,22 +80,22 @@
           <a class="is_active" href="#!" data-filter="*">Mostrar todos</a>
         </li>
         <li>
-          <a href="#!" data-filter=".adv">Realista</a>
+          <a href="#!" data-filter=".adv" id="real">Realista</a>
         </li>
         <li>
-          <a href="#!" data-filter=".str">Investigação</a>
+          <a href="#!" data-filter=".str" id="inv">Investigação</a>
         </li>
         <li>
-          <a href="#!" data-filter=".rac">Artístico</a>
+          <a href="#!" data-filter=".rac" id="art">Artístico</a>
         </li>
         <li>
-          <a href="#!" data-filter=".soc">Social</a>
+          <a href="#!" data-filter=".soc" id="soc">Social</a>
         </li>
         <li>
-          <a href="#!" data-filter=".ent">Enterprising</a>
+          <a href="#!" data-filter=".ent" id="ent">Enterprising</a>
         </li>
         <li>
-          <a href="#!" data-filter=".con">Convencional</a>
+          <a href="#!" data-filter=".con" id="con">Convencional</a>
         </li>
       </ul>
       <div class="row properties-box">
