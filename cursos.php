@@ -77,10 +77,10 @@
           <h4>Nesta página estão presentes os cursos que achamos mais relevantes nas universidades mais populares, cada curso tem a respetiva média de entrada e universidade. Os cursos estão organizados pelos resultados do <a href="quizz.php"> quiz</a>, se quiseres ver todos os cursos existentes <a href="https://www.dges.gov.pt/guias/indest.asp" target="_blank">clica aqui</a></h4><br><br>      
           <ul class="properties-filter">
         <li>
-          <a href="#!" data-filter="*">Mostrar todos</a>
+          <a class="is_active" href="#!" data-filter="*">Mostrar todos</a>
         </li>
         <li>
-          <a class="is_active" href="#!" data-filter=".adv" id="real">Realista</a>
+          <a href="#!" data-filter=".adv" id="real">Realista</a>
         </li>
         <li>
           <a href="#!" data-filter=".str" id="inv">Investigação</a>
