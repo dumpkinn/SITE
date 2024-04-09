@@ -506,9 +506,9 @@
   <script src="assets/js/custom.js"></script>
 
   </body>
-              <span id="textToHighlight">
+              <h4 id="textToHighlight">
         Engenharia Informática
-    </span>
+    </h4>
 
     <script>
         var s = 20;
