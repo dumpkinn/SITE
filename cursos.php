@@ -2,7 +2,14 @@
 <html lang="en">
 
   <head>
-
+    <style>
+        .gr{
+            color: green;
+        }
+        .re{
+            color: red;
+        }
+    </style>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -94,7 +101,29 @@
             <a href="property-details.html"><img src="cursosimg/Engenharia Informática.png" alt=""></a>
             <span class="category">IS. Técnico</span>
             <h6>18.1</h6>
-            <h4><a href="property-details.html">Engenharia Informática</a></h4>
+            <span id="textToHighlight">
+        <?php echo "<h4>Engenharia Informática</h4>"; ?>
+    </span>
+
+    <script>
+        // Get the value of $s from PHP
+        var s = <?php echo $_SESSION['media']; ?>;
+
+        // Get the element to change color
+        var textElement = document.getElementById('textToHighlight');
+
+        // Check if s is bigger than one
+        if (s >= 18.1) {
+            // If true, apply the highlight class
+            textElement.classList.add('gr');
+        }
+        else if (s < 18.1) {
+            textElement.classList.add('re');
+        }
+         else {
+           
+        }
+    </script>
             <div class="main-button">
               <a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/">Mais informação</a>
             </div>
