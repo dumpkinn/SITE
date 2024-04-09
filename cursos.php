@@ -80,7 +80,7 @@
           <a class="is_active" href="#!" data-filter="*">Mostrar todos</a>
         </li>
         <li>
-          <a href="#!" data-filter=".adv" id="real">Realista</a>
+          <a class="is_active" href="#!" data-filter=".adv" id="real">Realista</a>
         </li>
         <li>
           <a href="#!" data-filter=".str" id="inv">Investigação</a>
