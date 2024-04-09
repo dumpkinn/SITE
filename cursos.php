@@ -507,7 +507,7 @@
 
   </body>
               <span id="textToHighlight">
-        <h4>Engenharia Informática</h4>
+        Engenharia Informática
     </span>
 
     <script>
