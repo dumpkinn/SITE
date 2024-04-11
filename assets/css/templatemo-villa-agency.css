@@ -17,7 +17,7 @@ figure, header, nav, section, article, aside, footer, figcaption, figcaption {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin-left: 25%;
+    margin: auto;
 }
 body{
     background-color:#1e1e1e;
