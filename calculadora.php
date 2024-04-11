@@ -51,7 +51,7 @@ session_start();
   <div class="lol">
     <br><br>
     <div class="container2">
-        <h1>Introduz as classificações</h1>
+        <h1>Introduz as classificações</h1><br>
         <form action="calc.php" id="myForm" method="post">
             <div class="category">
                 <h2 class="calc">Português</h2>
