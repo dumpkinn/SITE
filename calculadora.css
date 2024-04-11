@@ -12,11 +12,6 @@ body{
 .category {
     margin-bottom: 20px;
 }
-
-h2 {
-    margin-bottom: 10px;
-}
-
 input[type="number"] {
     width: 100px;
     padding: 5px;
@@ -32,8 +27,11 @@ input[type="number"]::-webkit-outer-spin-button {
     -webkit-appearance: none;
     margin: 0;
 }
+.calc h2 {
+    margin-bottom: 10px;
+}
 
-button {
+.calc button {
     display: block;
     width: 100%;
     padding: 10px;
@@ -46,6 +44,6 @@ button {
     transition: background-color 0.3s;
 }
 
-button:hover {
+.calc button:hover {
     background-color: #0056b3;
 }

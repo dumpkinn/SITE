@@ -52,68 +52,68 @@ session_start();
         <h1>Introduz as classificações</h1>
         <form action="calc.php" id="myForm" method="post">
             <div class="category">
-                <h2>Português</h2>
+                <h2 class="calc">Português</h2>
                 <input type="number" name="por10" min="0" max="20" step="1"required>
                 <input type="number" name="por11" min="0" max="20" step="1"required>
                 <input type="number" name="por12" min="0" max="20" step="1"required>
             </div>
 
             <div class="category">
-                <h2>Ed. Física</h2>
+                <h2 class="calc">Ed. Física</h2>
                 <input type="number" name="mat10" min="0" max="20" step="1"required>
                 <input type="number" name="mat11" min="0" max="20" step="1"required>
                 <input type="number" name="mat12" min="0" max="20" step="1"required>
             </div>
 
             <div class="category">
-                <h2>Opção de curso</h2>
+                <h2 class="calc">Opção de curso</h2>
                 <input type="number" name="edf10" min="0" max="20" step="1"required>
                 <input type="number" name="edf11" min="0" max="20" step="1"required>
                 <input type="number" name="edf12" min="0" max="20" step="1"required>
             </div>
 
             <div class="category">
-                <h2>Filosofia</h2>
+                <h2 class="calc">Filosofia</h2>
                 <input type="number" name="fil10" min="0" max="20" step="1"required>
                 <input type="number" name="fil11" min="0" max="20" step="1"required>
             </div>
 
             <div class="category">
-                <h2>Inglês</h2>
+                <h2 class="calc">Inglês</h2>
                 <input type="number" name="ing10" min="0" max="20" step="1"required>
                 <input type="number" name="ing11" min="0" max="20" step="1"required>
             </div>
 
             <div class="category">
-                <h2>Opção 1</h2>
+                <h2 class="calc">Opção 1</h2>
                 <input type="number" name="fq10" min="0" max="20" step="1"required>
                 <input type="number" name="fq11" min="0" max="20" step="1"required>
             </div>
 
             <div class="category">
-                <h2>Opção 2</h2>
+                <h2 class="calc">Opção 2</h2>
                 <input type="number" name="bi10" min="0" max="20" step="1"required>
                 <input type="number" name="bi11" min="0" max="20" step="1"required>
             </div>
 
             <div class="category">
-                <h2>Opção 12º</h2>
+                <h2 class="calc">Opção 12º</h2>
                 <input type="number" name="op1" min="0" max="20" step="1"required>
             </div>
 
             <div class="category">
-                <h2>Opção 12º</h2>
+                <h2 class="calc">Opção 12º</h2>
                 <input type="number" name="op2" min="0" max="20" step="1"required>
             </div>
             <hr>
             <div class="category">
-                <h2>Exame</h2>
+                <h2 class="calc">Exame</h2>
                 <input type="number" name="ex1" min="0" max="20" step="1"required>
                 <input type="number" name="ex2" min="0" max="20" step="1">
                 <input type="number" name="ex3" min="0" max="20" step="1">
                 <h6>(deixa vazio as caixas que não precisas)</h6>
             </div>
-            <div class="popup" ><button type="submit" id="fixrafada">Submeter</button>
+            <div class="popup" ><button type="submit" id="fixrafada" class="calc">Submeter</button>
             <span class="popuptext" id="myPopup">A tua média é <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
             </span>
             </div>
