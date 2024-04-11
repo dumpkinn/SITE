@@ -49,6 +49,7 @@ session_start();
     </div>
   </header>
   <div class="lol">
+    <br><br>
     <div class="container2">
         <h1>Introduz as classificações</h1>
         <form action="calc.php" id="myForm" method="post">
