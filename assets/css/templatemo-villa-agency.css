@@ -19,9 +19,10 @@ figure, header, nav, section, article, aside, footer, figcaption, figcaption {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: auto;
 }
-body{
+.lol body{
     background-color:#1e1e1e;
 }
+
 .category {
     margin-bottom: 20px;
 }

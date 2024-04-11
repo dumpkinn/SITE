@@ -21,7 +21,7 @@ session_start();
       </div>
     </div>
   </div>
-  <body>
+  <body class="lol">
   <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
