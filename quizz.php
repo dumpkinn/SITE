@@ -666,15 +666,10 @@ const popup = document.getElementById('popup');
 const closeButton = document.getElementById('closeButton');
 
 function doesUrlContainSubstring(substring) {
-  // Get the current URL
   var url = window.location.href;
-  
-  // Check if the URL contains the substring
   if (url.indexOf(substring) !== -1) {
-      // Substring found in the URL
       return true;
   } else {
-      // Substring not found in the URL
       return false;
   }
 }
