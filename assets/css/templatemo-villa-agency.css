@@ -17,6 +17,9 @@ figure, header, nav, section, article, aside, footer, figcaption, figcaption {
   width: 100%;
   background-color: #023e73;
 }
+.hugs h1{
+  color: white;
+}
 .container2 {
     max-width: 600px;
     background-color: #fff;
