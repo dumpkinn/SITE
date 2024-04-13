@@ -51,7 +51,7 @@ window.onload = function() {
                 <nav class="main-nav">
                   <div class="sao">
                     <a href="index.html" class="logo">
-                        <h1>RUMO AO FUTURO</h1>
+                        <a href="index.html"><h1>RUMO AO FUTURO</h1></a>
                     </a>
                     </div>
                     <ul class="nav">

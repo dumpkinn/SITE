@@ -60,7 +60,6 @@ button:hover {
                     </a>
                     </div>
                     <ul class="nav">
-                      <li><a href="index.html">Início</a></li>
                       <li><a href="cursos.php">Cursos</a></li>
                       <li><a href="calculadora.php">Calculadora</a></li>
                       <li><a href="quizz.php" class="active">Quiz</a></li>
@@ -78,7 +77,7 @@ button:hover {
 <div class="container3">
     <center><h1 id="inicio">QUIZ</h1></center>
     <br><br>
-    <div class="accordion-body">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.html"> calcula-a aqui.</a></div>
+    <div class="accordion-body">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.php"> calcula-a aqui.</a></div>
     <br><br><br>
 <form action="quiz.php" id="myForm" method="post">
 <h1>Questão 1</h1><br>
