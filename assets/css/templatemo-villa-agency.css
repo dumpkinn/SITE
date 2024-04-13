@@ -16,7 +16,6 @@ figure, header, nav, section, article, aside, footer, figcaption, figcaption {
 .hugs{
   width: 100%;
   vertical-align: middle;
-  height: 80px;
   background-color: #023e73;
 }
 .hugs h1{
