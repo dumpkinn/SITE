@@ -74,6 +74,16 @@ button:hover {
         </div>
     </div>
   </header>
+          <div class="page-heading header-text">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <span class="breadcrumb">Descobre / Futuro</span>
+          <h3>QUIZ</h3>
+        </div>
+      </div>
+    </div>
+  </div>
 <div class="container3">
     <center><h1 id="inicio">QUIZ</h1></center>
     <br><br>

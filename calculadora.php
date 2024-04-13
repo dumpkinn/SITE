@@ -47,6 +47,16 @@ session_start();
         </div>
     </div>
   </header>
+        <div class="page-heading header-text">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <span class="breadcrumb">Calcula / Média</span>
+          <h3>CALCULADORA</h3>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="lol">
     <br><br>
     <div class="container2">

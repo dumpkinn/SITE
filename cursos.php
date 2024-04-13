@@ -73,7 +73,7 @@ window.onload = function() {
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <span class="breadcrumb"><a href="#">Cursos</a> / Recomendados</span>
+          <span class="breadcrumb">Cursos / Recomendados</span>
           <h3>Cursos</h3>
         </div>
       </div>
