@@ -586,7 +586,7 @@ body {
 .header-area .main-nav .nav li:last-child a i {
   background-color: #f35525;
   display: inline-block;
-  width: 1000000px;
+  width: 40px;
   height: 40px;
   text-align: center;
   line-height: 40px;
@@ -616,7 +616,7 @@ body {
   cursor: pointer;
   position: absolute;
   top: 23px;
-  width: 32px;
+  width: 100px;
   height: 40px;
   text-indent: -9999em;
   z-index: 99;
