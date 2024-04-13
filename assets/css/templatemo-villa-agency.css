@@ -31,7 +31,7 @@ figure, header, nav, section, article, aside, footer, figcaption, figcaption {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: auto;
 }
-.fcontainer2:before {
+.container2:before {
   content: '';
   position: absolute;
   top: 100%;
