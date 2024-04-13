@@ -517,7 +517,7 @@ body {
   transition: all 0.3s ease 0s;
   display: inline-block;
 }
-.sao{
+.main-nav{
   margin: 0;
   position: absolute;
   top: 50%;
