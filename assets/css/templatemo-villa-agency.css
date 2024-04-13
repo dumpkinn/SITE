@@ -11,7 +11,7 @@ figure, header, nav, section, article, aside, footer, figcaption, figcaption {
   outline: 0;
 }
 .sao{
-  margin-top: 25px;
+  margin-top: 50%;
 }
 .container2 {
     max-width: 600px;
