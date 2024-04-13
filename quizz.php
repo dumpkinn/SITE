@@ -56,7 +56,7 @@ button:hover {
                 <nav class="main-nav">
                   <div class="sao">
                     <a href="index.html" class="logo">
-                        <a href="index.html"><h1>RUMO AO FUTURO</h1></a>
+                        <h1>RUMO AO FUTURO</h1>
                     </a>
                     </div>
                     <ul class="nav">
