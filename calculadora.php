@@ -57,7 +57,6 @@ session_start();
       </div>
     </div>
   </div>
-  <div class="lol">
     <br><br>
     <div class="container2">
         <h1>Introduz as classificações</h1><br>
