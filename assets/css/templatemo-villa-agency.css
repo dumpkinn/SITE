@@ -165,7 +165,7 @@ span.cc{ color:#6d84b4 }
 }
 .container3{
   width: 850px;
-  margin-left: 25%;
+  margin: auto;
 }
 .clearfix:after {
   content: ".";
