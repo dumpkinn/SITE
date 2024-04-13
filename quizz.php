@@ -14,6 +14,7 @@ session_start();
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+    <link rel="icon" href="icon.png" type="image/gif" sizes="16x16">
     <style type="text/css">
     button {
     display: block;
