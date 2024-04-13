@@ -60,8 +60,9 @@ session_start();
   </div>
     <br><br>
     <div class="container2">
+        
         <div class="hugs"><h1>Introduz as classificações</h1></div><br>
-        <form action="calc.php" id="myForm" method="post">
+        <form action="calc.php" id="myForm" method="post" class="jhk">
             <div class="category">
                 <h2 class="calc">Português</h2>
                 <input type="number" name="por10" min="0" max="20" step="1"required>
