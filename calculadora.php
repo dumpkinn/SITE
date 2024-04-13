@@ -29,7 +29,7 @@ session_start();
                 <nav class="main-nav">
                   <div class="sao">
                     <a href="index.html" class="logo">
-                        <h1>RUMO AO FUTURO</h1>
+                        <img src="LOGO.png" width="300">
                     </a>
                     </div>
                     <ul class="nav">
