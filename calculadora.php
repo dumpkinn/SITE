@@ -59,8 +59,8 @@ session_start();
     </div>
   </div>
     <br><br>
+    <div class="form-container">
     <div class="container2">
-        
         <div class="hugs"><h1>Introduz as classificações</h1></div><br>
         <form action="calc.php" id="myForm" method="post" class="jhk">
             <div class="category">
@@ -144,6 +144,7 @@ session_start();
         });
         });
         </script>
+    </div>
     </div>
       <footer>
     <div class="container">
