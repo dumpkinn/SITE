@@ -37,7 +37,6 @@
                     </a>
                     </div>
                     <ul class="nav">
-                      <li><a href="index.html">Início</a></li>
                       <li><a href="cursos.php">Cursos</a></li>
                       <li><a href="calculadora.php">Calculadora</a></li>
                       <li><a href="quizz.php">Quiz</a></li>
