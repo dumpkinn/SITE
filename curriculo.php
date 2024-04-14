@@ -129,7 +129,7 @@
             <ul>
               <li>
                 <img src="assets/images/info-icon-01.png" alt="" style="max-width: 52px;">
-                <h4>Inteligência Artificial<br><span>Correção automática</span></h4>
+                <h4>IA<br><span>Correção automática</span></h4>
               </li>
               <li>
                 <img src="assets/images/info-icon-02.png" alt="" style="max-width: 52px;">
@@ -137,11 +137,11 @@
               </li>
               <li>
                 <img src="assets/images/info-icon-03.png" alt="" style="max-width: 52px;">
-                <h4>Pagamento<br><span>Não se preocupe é de GRAÇA!</span></h4>
+                <h4>Pagamento<br><span>É DE GRAÇA!</span></h4>
               </li>
               <li>
                 <img src="assets/images/info-icon-04.png" alt="" style="max-width: 52px;">
-                <h4>Assegure-se<br><span>Vai ter o currículo dos seus sonhos!</span></h4>
+                <h4>Assegure-se<br><span>Vai ter o melhor currículo!</span></h4>
               </li>
             </ul>
           </div>
