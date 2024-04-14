@@ -69,7 +69,7 @@
       <div class="row">
         <div class="col-lg-8">
           <div class="main-image">
-            <form action="" id="contact-form">
+            <form action="" id="contact-form" class="curr">
               <div class="col-lg-12">
                 <fieldset>
                   <label for="message">Introduz o teu currículo</label><br>
