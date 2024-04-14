@@ -65,7 +65,7 @@
 <div class="cima">
 <div class="contact-content">
   <div class="single-property section">
-    <div class="container2">
+    <div class="container">
       <div class="row">
         <div class="col-lg-8">
           <div class="main-image">
