@@ -32,17 +32,6 @@ figure, header, nav, section, article, aside, footer, figcaption, figcaption {
     margin: auto;
     position: relative;
 }
-.col-lg-12:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1; 
-    box-shadow: 0 0 100px rgba(0, 0, 0, 0.5);
-    border-radius: 10px;
-}
 .container2:before {
     content: '';
     position: absolute;
