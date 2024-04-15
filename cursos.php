@@ -337,6 +337,20 @@ window.onload = function() {
 
         }
     </script>
+    <script>
+    var numLoads = parseInt(getCookie('pageLoads'), 10);
+
+if (isNaN(numLoads) || numLoads <= 0) { setCookie('pageLoads', 1); }
+else { setCookie('pageLoads', numLoads + 1); }
+
+console.log(getCookie('pageLoads'));
+ if(numLoads % 2 == 0) {
+}
+ else {
+    location.reload();
+    setCookie('pageLoads', numLoads + 1);
+}
+</script>
             <div class="main-button">
               <a href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22902">Mais informação</a>
             </div>
