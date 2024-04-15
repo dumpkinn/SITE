@@ -338,41 +338,33 @@ window.onload = function() {
         }
     </script>
     <script>
-// Function to reload the page
+
 function reloadPage() {
     location.reload();
 }
 
-// Function to check if the page has been visited an even number of times
 function isEvenVisits() {
-    // Get the visit count from localStorage
+
     let visitCount = localStorage.getItem('visitCount');
-    
-    // If visitCount is not available, initialize it to 0
+
     if (!visitCount) {
         visitCount = 0;
     }
-    
-    // Increment the visit count
+
     visitCount++;
-    
-    // Store the updated visit count back to localStorage
+
     localStorage.setItem('visitCount', visitCount);
-    
-    // Check if the visit count is even
+
     return visitCount % 2 === 0;
 }
 
-// Function to reload the page after 2 seconds
+
 function reloadPageAfterTwoSeconds() {
     setTimeout(function() {
         reloadPage();
-    }, 2000); // 2000 milliseconds = 2 seconds
+    }, 500);
 }
-
-// Check if the page has been visited an even number of times
 if (isEvenVisits()) {
-    // Reload the page after 2 seconds
     reloadPageAfterTwoSeconds();
 }
 </script>
