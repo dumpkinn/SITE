@@ -338,6 +338,7 @@ window.onload = function() {
         }
     </script>
     <script>
+// Function to reload the page
 function reloadPage() {
     location.reload();
 }
@@ -362,10 +363,17 @@ function isEvenVisits() {
     return visitCount % 2 === 0;
 }
 
+// Function to reload the page after 2 seconds
+function reloadPageAfterTwoSeconds() {
+    setTimeout(function() {
+        reloadPage();
+    }, 2000); // 2000 milliseconds = 2 seconds
+}
+
 // Check if the page has been visited an even number of times
 if (isEvenVisits()) {
-    // Reload the page
-    reloadPage();
+    // Reload the page after 2 seconds
+    reloadPageAfterTwoSeconds();
 }
 </script>
             <div class="main-button">
