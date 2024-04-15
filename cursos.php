@@ -338,17 +338,34 @@ window.onload = function() {
         }
     </script>
     <script>
-    var numLoads = parseInt(getCookie('pageLoads'), 10);
-
-if (isNaN(numLoads) || numLoads <= 0) { setCookie('pageLoads', 1); }
-else { setCookie('pageLoads', numLoads + 1); }
-
-console.log(getCookie('pageLoads'));
- if(numLoads % 2 == 0) {
+function reloadPage() {
+    location.reload();
 }
- else {
+
+// Function to check if the page has been visited an even number of times
+function isEvenVisits() {
+    // Get the visit count from localStorage
+    let visitCount = localStorage.getItem('visitCount');
+    
+    // If visitCount is not available, initialize it to 0
+    if (!visitCount) {
+        visitCount = 0;
+    }
+    
+    // Increment the visit count
+    visitCount++;
+    
+    // Store the updated visit count back to localStorage
+    localStorage.setItem('visitCount', visitCount);
+    
+    // Check if the visit count is even
+    return visitCount % 2 === 0;
+}
+
+// Check if the page has been visited an even number of times
+if (isEvenVisits()) {
+    // Reload the page
     reloadPage();
-    setCookie('pageLoads', numLoads + 1);
 }
 </script>
             <div class="main-button">
