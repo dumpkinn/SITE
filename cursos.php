@@ -348,7 +348,7 @@ function isEvenVisits() {
     let visitCount = localStorage.getItem('visitCount');
 
     if (!visitCount) {
-        visitCount = 0;
+        visitCount = 1;
     }
 
     visitCount++;
