@@ -347,7 +347,7 @@ console.log(getCookie('pageLoads'));
  if(numLoads % 2 == 0) {
 }
  else {
-    location.reload();
+    reloadPage();
     setCookie('pageLoads', numLoads + 1);
 }
 </script>
