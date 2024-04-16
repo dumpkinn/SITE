@@ -716,7 +716,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>17.6</span>
 										</div>
-										<span id="textToHighligh4"><h3><a href="#">Desenho</a>
+										<span id="textToHighligh4"><h3 class="vlt-post-title"><a href="#">Desenho</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
