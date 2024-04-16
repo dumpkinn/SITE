@@ -1323,7 +1323,7 @@ session_start();
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
 
-                                        var textElement = document.getElementById('textToHighlight25');
+                                        var textElement = document.getElementById('textToHighlight24');
                                         if (s >= 17.4) {
                                         textElement.classList.add('gr');
                                         }
@@ -1348,12 +1348,12 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>16.0</span>
 										</div>
-										<span id="textToHighlight26"><h3 class="vlt-post-title"><a href="#">Matemática</a>
+										<span id="textToHighlight25"><h3 class="vlt-post-title"><a href="#">Matemática</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
 
-                                        var textElement = document.getElementById('textToHighlight26');
+                                        var textElement = document.getElementById('textToHighlight25');
                                         if (s >= 16) {
                                         textElement.classList.add('gr');
                                         }
@@ -1414,7 +1414,7 @@ session_start();
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
 
-                                        var textElement = document.getElementById('textToHighlight28');
+                                        var textElement = document.getElementById('textToHighlight27');
                                         if (s >= 15.1) {
                                         textElement.classList.add('gr');
                                         }
