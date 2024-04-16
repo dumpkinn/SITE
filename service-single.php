@@ -729,7 +729,6 @@
             </span>
             </div>
         </form>
-        <div class="vlt-gap-120"></div>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <script>
         $(document).ready(function(){
@@ -771,6 +770,7 @@
   }
 </script>
 	</main>
+	<div class="vlt-gap-120"></div>
 	<!--Footer-->
 	<footer class="vlt-footer vlt-footer--style-1 vlt-footer--fixed">
 		<div class="container">
