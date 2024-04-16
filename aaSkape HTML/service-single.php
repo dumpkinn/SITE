@@ -559,135 +559,217 @@
 			</div>
 			<div id="content"></div>
 			<!--Section-->
-			<section>
-				<div class="vlt-gap-100"></div>
-				<div class="container">
-					<div class="row">
-						<div class="col-md-11 offset-md-1">
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">Description</span>
-							</div>
-							<div class="vlt-gap-30"></div>
-						</div>
-						<div class="col-md-5 offset-md-1">
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
-								<h4>Behold you lesser our let <br>seed there for and light great <br>lights that seasons.</h4>
-							</div>
-							<div class="vlt-gap-40--sm"></div>
-						</div>
-						<div class="col-md-5">
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
-								<p class="fz-3">Gathered hath days beginning fowl divided image i can't given is life air. Created without stars life moved second two forth make.</p>
-							</div>
-							<div class="vlt-gap-30"></div>
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="200">
-								<p class="fz-3">Creature also hath every fruitful them third own. She'd called he created two after created morning make also open stars upon, herb without fowl said itself good. Fruitful seed of, blessed be were.</p>
-							</div>
-							<div class="vlt-gap-50"></div>
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="300">
-								<div class="has-black-color">
-									<!--Styled list-->
-									<ul class="vlt-styled-list vlt-styled-list--style-3">
-										<li>Product design
-										</li>
-										<li>Brand design
-										</li>
-										<li>Web &amp; Mobile design
-										</li>
-										<li>Graphic &amp; Print design
-										</li>
-										<li>Illustration
-										</li>
-										<li>UI / UX design
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="vlt-gap-120"></div>
-				<div class="container">
-					<div class="row">
-						<div class="col-md-5 offset-md-6">
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
-								<!--Section title-->
-								<div class="vlt-section-title vlt-section-title--style-2">
-									<h2 class="vlt-section-title__title">Work</h2>
-								</div>
-							</div>
-							<div class="vlt-gap-60--sm"></div>
-						</div>
-						<div class="col-md-10 offset-md-1">
-							<!--Particle image--><img class="vlt-particle" src="assets/img/root/square-plus-pattern-long.png" data-animation-name="fadeInUp" alt="" style="position: absolute; top: -126px; left: -100px; max-width: 210px; --animate-delay: .5s;" loading="lazy">
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
-								<div class="vlt-isotope-grid" data-columns="2" data-layout="cellsByRow" data-x-gap="100|100" data-y-gap="0|0">
-									<div class="grid-sizer"></div>
-									<div class=" grid-item filter-design">
-										<!--Portfolio item-->
-										<article class="vlt-work vlt-work--style-6">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img/service-work-01.png" alt="" loading="lazy">
-											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title" data-marquee=""><span data-marquee-text="Dual Shock">Dual Shock</span><span data-marquee-text="Dual Shock">Dual Shock</span><span data-marquee-text="Dual Shock">Dual Shock</span></h5>
-											</div>
-										</article>
-									</div>
-									<div class=" grid-item filter-design">
-										<!--Portfolio item-->
-										<article class="vlt-work vlt-work--style-6">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img/service-work-02.png" alt="" loading="lazy">
-											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title" data-marquee=""><span data-marquee-text="Bang &amp; Olufsen">Bang &amp; Olufsen</span><span data-marquee-text="Bang &amp; Olufsen">Bang &amp; Olufsen</span><span data-marquee-text="Bang &amp; Olufsen">Bang &amp; Olufsen</span></h5>
-											</div>
-										</article>
-									</div>
-									<div class=" grid-item filter-design">
-										<!--Portfolio item-->
-										<article class="vlt-work vlt-work--style-6">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img/service-work-03.png" alt="" loading="lazy">
-											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title" data-marquee=""><span data-marquee-text="Mobile App">Mobile App</span><span data-marquee-text="Mobile App">Mobile App</span><span data-marquee-text="Mobile App">Mobile App</span></h5>
-											</div>
-										</article>
-									</div>
-									<div class=" grid-item filter-photography">
-										<!--Portfolio item-->
-										<article class="vlt-work vlt-work--style-6">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img/service-work-04.png" alt="" loading="lazy">
-											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title" data-marquee=""><span data-marquee-text="Photography">Photography</span><span data-marquee-text="Photography">Photography</span><span data-marquee-text="Photography">Photography</span></h5>
-											</div>
-										</article>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!--Page navigation-->
-			<section class="vlt-page-navigation vlt-page-navigation--style-1 has-black-color">
-				<div class="vlt-gap-130"></div>
-				<div class="container">
-					<div class="text-center">
-						<!--Stroke text-->
-						<div class="vlt-stroke-text vlt-stroke-text--lg"><a href="service-single.html" target="_self">Next service</a>
-						</div>
-					</div>
-				</div>
-				<div class="vlt-gap-130"></div>
-			</section>
-		</div>
+			<style type="text/css">
+.container2 {
+    max-width: 600px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    position: relative;
+}
+.container2:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1; 
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+.hugs{
+  width: 100%;
+  vertical-align: middle;
+  background-color: #023e73;
+  border-radius: 10px 10px 0px 0px;
+}
+.hugs h1{
+  color: white;
+  text-align: center;
+  margin: auto;
+}
+.calc h2 {
+    margin-bottom: 10px;
+}
+.popup button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.popup button:hover {
+    background-color: #0056b3;
+}
+.cima{
+  margin-top: 280px;
+}
+.cfg{
+  margin-left: 200px;
+}
+.container3 figcaption{
+  text-align: center;
+}
+.cererr img{
+  width: 50px;
+}
+/* Popup css */
+.popup {
+  position: relative;
+  cursor: pointer;
+}
+.popup .popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+			</style>
+   <div class="vlt-gap-120"></div>
+   <div class="form-container">
+    <div class="container2">
+        <div class="hugs"><h1>Introduz as classificações</h1></div><br>
+        <form action="calc.php" id="myForm" method="post" class="jhk">
+            <div class="category">
+                <h2 class="calc">Português</h2>
+                <input type="number" name="por10" min="0" max="20" step="1"required>
+                <input type="number" name="por11" min="0" max="20" step="1"required>
+                <input type="number" name="por12" min="0" max="20" step="1"required>
+            </div>
+
+            <div class="category">
+                <h2 class="calc">Ed. Física</h2>
+                <input type="number" name="mat10" min="0" max="20" step="1"required>
+                <input type="number" name="mat11" min="0" max="20" step="1"required>
+                <input type="number" name="mat12" min="0" max="20" step="1"required>
+            </div>
+
+            <div class="category">
+                <h2 class="calc">Opção de curso</h2>
+                <input type="number" name="edf10" min="0" max="20" step="1"required>
+                <input type="number" name="edf11" min="0" max="20" step="1"required>
+                <input type="number" name="edf12" min="0" max="20" step="1"required>
+            </div>
+
+            <div class="category">
+                <h2 class="calc">Filosofia</h2>
+                <input type="number" name="fil10" min="0" max="20" step="1"required>
+                <input type="number" name="fil11" min="0" max="20" step="1"required>
+            </div>
+
+            <div class="category">
+                <h2 class="calc">Inglês</h2>
+                <input type="number" name="ing10" min="0" max="20" step="1"required>
+                <input type="number" name="ing11" min="0" max="20" step="1"required>
+            </div>
+
+            <div class="category">
+                <h2 class="calc">Opção 1</h2>
+                <input type="number" name="fq10" min="0" max="20" step="1"required>
+                <input type="number" name="fq11" min="0" max="20" step="1"required>
+            </div>
+
+            <div class="category">
+                <h2 class="calc">Opção 2</h2>
+                <input type="number" name="bi10" min="0" max="20" step="1"required>
+                <input type="number" name="bi11" min="0" max="20" step="1"required>
+            </div>
+
+            <div class="category">
+                <h2 class="calc">Opção 12º</h2>
+                <input type="number" name="op1" min="0" max="20" step="1"required>
+            </div>
+
+            <div class="category">
+                <h2 class="calc">Opção 12º</h2>
+                <input type="number" name="op2" min="0" max="20" step="1"required>
+            </div>
+            <hr>
+            <div class="category">
+                <h2 class="calc">Exame</h2>
+                <input type="number" name="ex1" min="0" max="20" step="1">
+                <input type="number" name="ex2" min="0" max="20" step="1">
+                <input type="number" name="ex3" min="0" max="20" step="1">
+                <h6>(deixa vazio as caixas do exame que não precisas)</h6>
+            </div>
+            <div class="popup" ><button type="submit" id="fixrafada">Submeter</button>
+            <span class="popuptext" id="myPopup">A tua média é <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
+            </span>
+            </div>
+        </form>
+        <div class="vlt-gap-120"></div>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script>
+        $(document).ready(function(){
+         $('#myForm').submit(function(e){
+          //e.preventDefault();
+           /*$.ajax({
+            type: 'POST',
+            url: $(this).attr('action'),
+            data: $(this).serialize(),
+            
+        });*/
+        });
+        });
+        </script>
+    </div>
+    </div>
+<script>
+  function myFunction() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+  }
+
+  function doesUrlContainSubstring(substring) {
+        // Get the current URL
+        var url = window.location.href;
+        
+        // Check if the URL contains the substring
+        if (url.indexOf(substring) !== -1) {
+            // Substring found in the URL
+            return true;
+        } else {
+            // Substring not found in the URL
+            return false;
+        }
+  }
+
+  if (doesUrlContainSubstring('media')) {
+    myFunction();
+  }
+</script>
 	</main>
 	<!--Footer-->
 	<footer class="vlt-footer vlt-footer--style-1 vlt-footer--fixed">
