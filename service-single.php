@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js vlt-is--service-single vlt-is--header-fullscreen vlt-is--footer-style-1 vlt-is--footer-fixed" lang="en">
-
+<?php session_start(); ?>
 <head>
 	<meta charset="utf-8">
 	<title>Skape - Service Single</title>
