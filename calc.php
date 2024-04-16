@@ -35,6 +35,6 @@ if (empty($ex3)==true) {
 $medex= ($ex1+$ex2+$ex3)/3;
 $fmedia= ($med+$medex)/2;
 $_SESSION['media'] = $fmedia;
-header("Location: calculadora.php?media=true#fixrafada");
+header("Location: service-single.php?media=true#fixrafada");
 exit();
 ?>  
