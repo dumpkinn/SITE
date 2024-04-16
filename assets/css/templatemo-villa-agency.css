@@ -10,7 +10,22 @@ figure, header, nav, section, article, aside, footer, figcaption, figcaption {
   border: 0;
   outline: 0;
 }
-
+@media screen and (max-width: 760px) {
+  
+  .display{
+    flex-direction:column;
+    height:auto;
+    overflow: none;
+    
+  }
+  .content,.cinema{
+    width:100%;
+  }
+  .cinema{
+    min-height:50vh;
+  }
+  
+}
 .sao{
     margin-top: 2%;
 }
