@@ -1463,13 +1463,13 @@ session_start();
 						<div class=" grid-item conv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia e Gestão de Sistemas de Informação.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia e Gestão Industrial.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>18.7</span>
 										</div>
-										<span id="textToHighight30"><h3 class="vlt-post-title"><a href="#">Enegenharia e Gestão Industrial</a>
+										<span id="textToHighlight30"><h3 class="vlt-post-title"><a href="#">Enegenharia e Gestão Industrial</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
