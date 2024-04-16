@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<?php
+session_start();
+?>
+  <!--aqui para cima -->
     <br><br>
     <div class="form-container">
     <div class="container2">
