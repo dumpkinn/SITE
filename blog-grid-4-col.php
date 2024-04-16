@@ -583,6 +583,11 @@ session_start();
 							<li data-filter=".conv"><span>Convencional</span></li>
 						</ul>
 					</div>
+					<style type="text/css">
+						#textToHighlight h3.vlt-post-title {
+    color: inherit !important;
+}
+					</style>
 					<div class="vlt-gap-90"></div>
 					<div class="vlt-isotope-grid" data-columns="4" data-layout="masonry" data-x-gap="30|30" data-y-gap="70|70" data-controls="#vlt-filter-blog-04" data-load-more-selector="#vlt-load-more-blog-04">
 						<div class="grid-sizer"></div>
