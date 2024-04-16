@@ -583,11 +583,6 @@ session_start();
 							<li data-filter=".conv"><span>Convencional</span></li>
 						</ul>
 					</div>
-					<style type="text/css">
-						#textToHighlight h3.vlt-post-title {
-    color: inherit !important;
-}
-					</style>
 					<div class="vlt-gap-90"></div>
 					<div class="vlt-isotope-grid" data-columns="4" data-layout="masonry" data-x-gap="30|30" data-y-gap="70|70" data-controls="#vlt-filter-blog-04" data-load-more-selector="#vlt-load-more-blog-04">
 						<div class="grid-sizer"></div>
@@ -1655,3 +1650,139 @@ session_start();
 </body>
 
 </html>
+<style type="text/css">
+	#textToHighlight h3.vlt-post-title {
+        color: inherit !important;
+    }
+    #textToHighlight1 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight2 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight3 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight4 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight5 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight6 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight7 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight8 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight9 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight10 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight11 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight12 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight13 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight14 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight15 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight16 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight17 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight18 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight19 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight20 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight21 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight22 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight23 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight24 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight25 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight26 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight27 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight28 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight29 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight30 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight31 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight32 h3.vlt-post-title {
+        color: inherit !important;
+    }
+
+    #textToHighlight33 h3.vlt-post-title {
+        color: inherit !important;
+    }
+</style>
