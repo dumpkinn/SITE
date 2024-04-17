@@ -689,57 +689,75 @@
 
             <div class="category">
                 <h2 class="calc">Ed. Física</h2>
+                <div class="two-number-input">
                 <input type="number" name="mat10" min="0" max="20" step="1"required>
                 <input type="number" name="mat11" min="0" max="20" step="1"required>
                 <input type="number" name="mat12" min="0" max="20" step="1"required>
+                </div>
             </div>
 
             <div class="category">
                 <h2 class="calc">Opção de curso</h2>
+                <div class="two-number-input">
                 <input type="number" name="edf10" min="0" max="20" step="1"required>
                 <input type="number" name="edf11" min="0" max="20" step="1"required>
                 <input type="number" name="edf12" min="0" max="20" step="1"required>
+                </div>
             </div>
 
             <div class="category">
                 <h2 class="calc">Filosofia</h2>
+                <div class="two-number-input">
                 <input type="number" name="fil10" min="0" max="20" step="1"required>
                 <input type="number" name="fil11" min="0" max="20" step="1"required>
+                </div>
             </div>
 
             <div class="category">
                 <h2 class="calc">Inglês</h2>
+                <div class="two-number-input">
                 <input type="number" name="ing10" min="0" max="20" step="1"required>
                 <input type="number" name="ing11" min="0" max="20" step="1"required>
+                </div>
             </div>
 
             <div class="category">
                 <h2 class="calc">Opção 1</h2>
+                <div class="two-number-input">
                 <input type="number" name="fq10" min="0" max="20" step="1"required>
                 <input type="number" name="fq11" min="0" max="20" step="1"required>
+                </div>
             </div>
 
             <div class="category">
                 <h2 class="calc">Opção 2</h2>
+                <div class="two-number-input">
                 <input type="number" name="bi10" min="0" max="20" step="1"required>
                 <input type="number" name="bi11" min="0" max="20" step="1"required>
+                </div>
             </div>
 
             <div class="category">
                 <h2 class="calc">Opção 12º</h2>
+                <div class="two-number-input">
                 <input type="number" name="op1" min="0" max="20" step="1"required>
+                </div>
             </div>
 
             <div class="category">
                 <h2 class="calc">Opção 12º</h2>
+                <div class="two-number-input">
                 <input type="number" name="op2" min="0" max="20" step="1"required>
+                </div>
             </div>
             <hr>
             <div class="category">
                 <h2 class="calc">Exame</h2>
+                <div class="two-number-input">
                 <input type="number" name="ex1" min="0" max="20" step="1">
                 <input type="number" name="ex2" min="0" max="20" step="1">
                 <input type="number" name="ex3" min="0" max="20" step="1">
+                </div>
                 <h6>(deixa vazio as caixas do exame que não precisas)</h6>
             </div>
             <div class="popup" ><button type="submit" id="fixrafada">Submeter</button>
