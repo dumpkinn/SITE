@@ -69,6 +69,6 @@ $_SESSION['rf'] = $rf;
 $_SESSION['rd'] = $rd;
 $_SESSION['id'] = $id;
 var_dump($_SESSION['rf']);
-header("Location: quizz.php?result=true");
+header("Location: quizzzz.php?result=true");
 exit();
 ?>
