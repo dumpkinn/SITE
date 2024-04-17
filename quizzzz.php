@@ -21,6 +21,39 @@
 	<link rel="stylesheet" href="assets/css/vlt-main.min.css">
 	<!--Custom-->
 	<link rel="stylesheet" href="assets/css/custom.css">
+    <style type="text/css">
+    button {
+    display: block;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+.container3 button{
+    width: 791px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+        .img_div { float: left; }
+        [type=radio] { 
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+[type=radio] img {
+  cursor: pointer;
+}
+[type=radio]:checked img {
+  outline: 2px solid #f00;
+}
+    </style>
 </head>
 
 <body>
