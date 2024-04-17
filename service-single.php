@@ -667,6 +667,7 @@
         display: inline-block;
         box-sizing: border-box;
         border-color: #023e73;
+        text-align: center;
 
     }
 </style>
