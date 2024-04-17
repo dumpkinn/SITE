@@ -93,10 +93,10 @@ session_start();
 								<li ><a href="index.html"><span>Home</span></a>
 									
 								</li>
-								<li ><a href="blog-grid-4-col.php"><span>Cursos</span></a>
+								<li ><a href="blog-grid-4-col.php"><span>Cursos</span></a></li>
 									
 								<li ><a href="service-single.php"><span>Calculadora</span></a></li>
-								<li ><a href="blog-grid-1-col.html"><span>Quiz</span></a></li>
+								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
 								<li ><a href="blog-grid-1-col.html"><span>Mapa</span></a></li>
 								<li ><a href="blog-grid-1-col.html"><span>Curriculo</span></a></li>
 									
