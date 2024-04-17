@@ -1161,7 +1161,7 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-<button with=100% type="submit" id="popupButton">Submeter</button>
+<button class="sub" type="submit" id="popupButton">Submeter</button>
 </div>
 </form>
 </div>
@@ -1177,6 +1177,9 @@ button:hover {
 </form>
 </div>
 <style type="text/css">
+    .sub{
+        width: 100%;
+    }
     .overlay {
   display: none;
   position: fixed;
