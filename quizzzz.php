@@ -645,6 +645,7 @@ button:hover {
    <div class="vlt-gap-120"></div>
    <div class="form-container">
     <div class="container2">
+    <div class="container3">
     <div class="accordion-body">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.php"> calcula-a aqui.</a></div>
     <br><br><br>
 <form action="quiz.php" id="myForm" method="post">
@@ -1163,6 +1164,7 @@ button:hover {
 <button type="submit" id="popupButton">Submeter</button>
 </div>
 </form>
+</div>
 </div>
  <div class="overlay" id="overlay">
 <div class="sadfsdag" id="popup">
