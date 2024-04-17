@@ -3,7 +3,7 @@
 <?php session_start(); ?>
 <head>
 	<meta charset="utf-8">
-	<title>Skape - Service Single</title>
+	<title>Quiz</title>
 	<meta name="description" content="Creative &amp; Modern Agency HTML5 Template">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -632,7 +632,7 @@ button:hover {
 			<div class="vlt-page-title vlt-page-title--style-2 jarallax"><img class="jarallax-img" src="assets/img/service-image-08.png" alt="" loading="lazy">
 				<div class="vlt-page-title__overlay"></div>
 				<div class="container">
-					<h1 class="vlt-page-title__title lax" data-lax-translate-y="0 0, vh (vw*0.25)" data-lax-opacity="1 1, (vh*0.5) 0" data-lax-anchor=".vlt-page-title">Creative &amp; Design
+					<h1 class="vlt-page-title__title lax" data-lax-translate-y="0 0, vh (vw*0.25)" data-lax-opacity="1 1, (vh*0.5) 0" data-lax-anchor=".vlt-page-title">Calculadora
 					</h1>
 				</div>
 			</div>
@@ -1161,7 +1161,7 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-<button class="sub" type="submit" id="popupButton">Submeter</button>
+<button width="100%" type="submit" id="popupButton">Submeter</button>
 </div>
 </form>
 </div>
