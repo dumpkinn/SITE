@@ -655,10 +655,9 @@
   animation: fadeIn 1s
 }
     .two-number-input {
-        width: 100px; /* Adjust width as needed */
+        width: 400px; /* Adjust width as needed */
         padding: 5px;
         font-size: 16px;
-        border: 1px solid #000000;
         border-radius: 5px;
         box-sizing: border-box;
     }
