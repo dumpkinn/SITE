@@ -355,7 +355,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>17.6</span>
 										</div>
-										<span id="textToHighligh4"><h3 class="vlt-post-title"><a href="#">Desenho</a>
+										<span id="textToHighlight4"><h3 class="vlt-post-title"><a href="#">Desenho</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -1221,8 +1221,7 @@ session_start();
 						</div>
 					</div>
 					<div class="vlt-gap-100"></div>
-					<div class="text-center">
-					</div>
+					<div class="text-center">					</div>
 				</div>
 				<div class="vlt-gap-120"></div>
 			</section>
