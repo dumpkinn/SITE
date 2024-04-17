@@ -659,7 +659,7 @@
         width: 100px; /* Adjust width as needed */
         padding: 5px;
         font-size: 16px;
-        border: 1px solid #ccc;
+        border: 1px solid #000000;
         border-radius: 5px;
         box-sizing: border-box;
     }
@@ -668,6 +668,8 @@
         width: calc(50% - 2.5px); /* Subtracting padding and border width */
         display: inline-block;
         box-sizing: border-box;
+        border-collapse: collapse;
+
     }
 </style>
 
