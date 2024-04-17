@@ -93,10 +93,10 @@ session_start();
 								<li ><a href="index.html"><span>Home</span></a>
 									
 								</li>
-								<li ><a href="blog-grid-4-col.php"><span>Cursos</span></a>
+								<li ><a href="blog-grid-4-col.php"><span>Cursos</span></a></li>
 									
 								<li ><a href="service-single.php"><span>Calculadora</span></a></li>
-								<li ><a href="blog-grid-1-col.html"><span>Quiz</span></a></li>
+								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
 								<li ><a href="blog-grid-1-col.html"><span>Mapa</span></a></li>
 								<li ><a href="blog-grid-1-col.html"><span>Curriculo</span></a></li>
 									
@@ -166,198 +166,21 @@ session_start();
 							<!--Menu-->
 							<ul class="sf-menu" data-back-text="Back">
 								<li class="menu-item-has-children"><a href="index.html"><span>Home</span></a>
-									<ul class="sub-menu">
-										<li><a href="homepage-01.html"><span>Home 01</span></a>
-										</li>
-										<li><a href="homepage-02.html"><span>Home 02</span></a>
-										</li>
-										<li><a href="homepage-03.html"><span>Home 03</span></a>
-										</li>
-										<li><a href="homepage-04.html"><span>Home 04</span></a>
-										</li>
-										<li><a href="homepage-05.html"><span>Home 05</span></a>
-										</li>
-										<li><a href="homepage-06.html"><span>Home 06</span></a>
-										</li>
-										<li><a href="homepage-07.html"><span>Home 07</span></a>
-										</li>
-										<li><a href="homepage-08.html"><span>Home 08</span></a>
-										</li>
-										<li><a href="homepage-09.html"><span>Home 09</span></a>
-										</li>
-										<li><a href="homepage-10.html"><span>Home 10</span></a>
-										</li>
-										<li><a href="homepage-11.html"><span>Home 11</span></a>
-										</li>
-										<li><a href="homepage-12.html"><span>Home 12</span></a>
-										</li>
-									</ul>
+									
 								</li>
-								<li class="menu-item-has-children"><a href="work-asymmetric-01.html"><span>Work</span></a>
-									<ul class="sub-menu">
-										<li class="menu-item-has-children left"><a href="work-asymmetric-01.html"><span>Asymmetric</span></a>
-											<ul class="sub-menu">
-												<li><a href="work-asymmetric-01.html"><span>Asymmetric 01</span></a>
-												</li>
-												<li><a href="work-asymmetric-02.html"><span>Asymmetric 02</span></a>
-												</li>
-												<li><a href="work-asymmetric-03.html"><span>Asymmetric 03</span></a>
-												</li>
-											</ul>
-										</li>
-										<li class="menu-item-has-children left"><a href="work-masonry-1-col.html"><span>Masonry</span></a>
-											<ul class="sub-menu">
-												<li><a href="work-masonry-1-col.html"><span>Masonry 1 Col</span></a>
-												</li>
-												<li><a href="work-masonry-2-col.html"><span>Masonry 2 Col</span></a>
-												</li>
-												<li><a href="work-masonry-3-col.html"><span>Masonry 3 Col</span></a>
-												</li>
-												<li><a href="work-masonry-4-col.html"><span>Masonry 4 Col</span></a>
-												</li>
-											</ul>
-										</li>
-										<li class="menu-item-has-children left current-menu-item"><a href="work-grid-1-col.html"><span>Grid</span></a>
-											<ul class="sub-menu">
-												<li class=" current-menu-item"><a href="work-grid-1-col.html"><span>Grid 1 Col</span></a>
-												</li>
-												<li><a href="work-grid-2-col.html"><span>Grid 2 Col</span></a>
-												</li>
-												<li><a href="work-grid-3-col.html"><span>Grid 3 Col</span></a>
-												</li>
-												<li><a href="work-grid-4-col.html"><span>Grid 4 Col</span></a>
-												</li>
-											</ul>
-										</li>
-										<li class="menu-item-has-children left"><a href="work-wide-1-col.html"><span>Wide</span></a>
-											<ul class="sub-menu">
-												<li><a href="work-wide-1-col.html"><span>Wide 1 Col</span></a>
-												</li>
-												<li><a href="work-wide-2-col.html"><span>Wide 2 Col</span></a>
-												</li>
-												<li><a href="work-wide-3-col.html"><span>Wide 3 Col</span></a>
-												</li>
-												<li><a href="work-wide-4-col.html"><span>Wide 4 Col</span></a>
-												</li>
-											</ul>
-										</li>
-										<li class="menu-item-has-children left"><a href="work-tooltip-01.html"><span>Tooltip</span></a>
-											<ul class="sub-menu">
-												<li><a href="work-tooltip-01.html"><span>Tooltip 01</span></a>
-												</li>
-												<li><a href="work-tooltip-02.html"><span>Tooltip 02</span></a>
-												</li>
-												<li><a href="work-tooltip-02-dark.html"><span>Tooltip 02 Dark</span></a>
-												</li>
-											</ul>
-										</li>
-										<li class="menu-item-has-children left"><a href="work-carousel-grid.html"><span>Carousel</span></a>
-											<ul class="sub-menu">
-												<li><a href="work-carousel-grid.html"><span>Carousel Grid</span></a>
-												</li>
-												<li><a href="work-carousel-masonry.html"><span>Carousel Masonry</span></a>
-												</li>
-												<li><a href="work-carousel-wide.html"><span>Carousel Wide</span></a>
-												</li>
-											</ul>
-										</li>
-										<li class="menu-item-has-children left"><a href="single-work-01.html"><span>Single Work</span></a>
-											<ul class="sub-menu">
-												<li><a href="single-work-01.html"><span>Work 01</span></a>
-												</li>
-												<li><a href="single-work-02.html"><span>Work 02</span></a>
-												</li>
-												<li><a href="single-work-03.html"><span>Work 03</span></a>
-												</li>
-												<li><a href="single-work-04.html"><span>Work 04</span></a>
-												</li>
-											</ul>
-										</li>
-									</ul>
+								<li class="menu-item-has-children"><a href="work-asymmetric-01.html"><span>Cursos</span></a>
+									 
 								</li>
-								<li class="menu-item-has-children left"><a href="about-us.html"><span>Pages</span></a>
-									<ul class="sub-menu">
-										<li class="menu-item-has-children left"><a href="about-us.html"><span>About</span></a>
-											<ul class="sub-menu">
-												<li><a href="about-us.html"><span>About Us</span></a>
-												</li>
-												<li><a href="about-me.html"><span>About Me</span></a>
-												</li>
-											</ul>
-										</li>
-										<li class="menu-item-has-children left"><a href="services-01.html"><span>Services</span></a>
-											<ul class="sub-menu">
-												<li><a href="services-01.html"><span>Services 01</span></a>
-												</li>
-												<li><a href="services-02.html"><span>Services 02</span></a>
-												</li>
-												<li><a href="service-single.html"><span>Service Single</span></a>
-												</li>
-											</ul>
-										</li>
-										<li><a href="careers.html"><span>Careers</span></a>
-										</li>
-										<li><a href="careers-single.html"><span>Careers Single</span></a>
-										</li>
-										<li><a href="our-team.html"><span>Our Team</span></a>
-										</li>
-										<li><a href="coming-soon.html"><span>Coming Soon</span></a>
-										</li>
-										<li><a href="page-404.html"><span>Page 404</span></a>
-										</li>
-									</ul>
+								<li class="menu-item-has-children left"><a href="about-us.html"><span>Calculadora</span></a>
+									
 								</li>
-								<li class="menu-item-has-children left"><a href="blog-grid-1-col.html"><span>Blog</span></a>
-									<ul class="sub-menu">
-										<li class="menu-item-has-children left"><a href="blog-grid-1-col.html"><span>Grid</span></a>
-											<ul class="sub-menu">
-												<li><a href="blog-grid-1-col.html"><span>Grid 1 Col</span></a>
-												</li>
-												<li><a href="blog-grid-2-col.html"><span>Grid 2 Col</span></a>
-												</li>
-												<li><a href="blog-grid-3-col.html"><span>Grid 3 Col</span></a>
-												</li>
-												<li><a href="blog-grid-4-col.html"><span>Grid 4 Col</span></a>
-												</li>
-											</ul>
-										</li>
-										<li class="menu-item-has-children left"><a href="blog-masonry-2-col.html"><span>Masonry</span></a>
-											<ul class="sub-menu">
-												<li><a href="blog-masonry-2-col.html"><span>Masonry 2 Col</span></a>
-												</li>
-												<li><a href="blog-masonry-3-col.html"><span>Masonry 3 Col</span></a>
-												</li>
-												<li><a href="blog-masonry-4-col.html"><span>Masonry 4 Col</span></a>
-												</li>
-											</ul>
-										</li>
-										<li><a href="blog-listing.html"><span>Listing</span></a>
-										</li>
-										<li><a href="blog-right-sidebar.html"><span>Right Sidebar</span></a>
-										</li>
-										<li><a href="blog-tooltip.html"><span>Tooltip</span></a>
-										</li>
-										<li class="menu-item-has-children left"><a href="single-post-01.html"><span>Single Post</span></a>
-											<ul class="sub-menu">
-												<li><a href="single-post-01.html"><span>Post 01</span></a>
-												</li>
-												<li><a href="single-post-02.html"><span>Post 02</span></a>
-												</li>
-												<li><a href="single-post-03.html"><span>Post 03</span></a>
-												</li>
-												<li><a href="single-post-04.html"><span>Post 04</span></a>
-												</li>
-											</ul>
-										</li>
-									</ul>
+								<li class="menu-item-has-children left"><a href="quizzzz.php"><span>Quiz</span></a>
+									
+								<li class="menu-item-has-children left"><a href="contact-01.html"><span>Mapa</span></a>
+									
 								</li>
-								<li class="menu-item-has-children left"><a href="contact-01.html"><span>Contact</span></a>
-									<ul class="sub-menu">
-										<li><a href="contact-01.html"><span>Contact 01</span></a>
-										</li>
-										<li><a href="contact-02.html"><span>Contact 02</span></a>
-										</li>
-									</ul>
+								<li class="menu-item-has-children left"><a href="contact-01.html"><span>Currículo</span></a>
+									
 								</li>
 							</ul>
 						</div>
