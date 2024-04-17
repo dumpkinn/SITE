@@ -1161,7 +1161,7 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 
-<button type="submit" id="popupButton">Submeter</button>
+<button with=100% type="submit" id="popupButton">Submeter</button>
 </div>
 </form>
 </div>
