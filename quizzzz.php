@@ -89,6 +89,8 @@ button:hover {
        -moz-filter: brightness(1.2) grayscale(.5) opacity(.9);
             filter: brightness(1.2) grayscale(.5) opacity(.9);
 }
+.visa{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_-obTn0DZXkN1gEqr15R0Od_Icndc__lKLE88hBjjg&s);}
+.mastercard{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6HyM_SlUH34PMKesxgDd3WTMh_db7rvsD6r7Uisf1Q&s);}
     </style>
 </head>
 
