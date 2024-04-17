@@ -654,6 +654,22 @@
   -webkit-animation: fadeIn 1s;
   animation: fadeIn 1s
 }
+<style>
+    .two-number-input {
+        width: 100px; /* Adjust width as needed */
+        padding: 5px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    .two-number-input input {
+        width: calc(50% - 2.5px); /* Subtracting padding and border width */
+        display: inline-block;
+        box-sizing: border-box;
+    }
+</style>
 
 			</style>
    <div class="vlt-gap-120"></div>
@@ -663,9 +679,11 @@
         <form action="calc.php" id="myForm" method="post" class="jhk">
             <div class="category">
                 <h2 class="calc">Português</h2>
+                <div class="two-number-input">
                 <input type="number" name="por10" min="0" max="20" step="1"required>
                 <input type="number" name="por11" min="0" max="20" step="1"required>
                 <input type="number" name="por12" min="0" max="20" step="1"required>
+                </div>
             </div>
 
             <div class="category">
