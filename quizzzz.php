@@ -663,7 +663,7 @@
     <br><br><br>
 <form action="quiz.php" id="myForm" method="post">
 <h1>Questão 1</h1><br>
-          <div class="img_div"><figcaption>Ir para o escritório</figcaption><img src="q11.png"><br><br>
+          <div class="img_div"><figcaption>Ir para o escritório</figcaption><img src="quizimg/q11.png"><br><br>
           <div class="cc-selector">
           <input type="radio" name="q1" id="visa" value="-1"/>
           <label class="drinkcard-cc visa"  for="visa"></label>
@@ -671,7 +671,7 @@
           <label class="drinkcard-cc mastercard"  for="mastercard"></label>
           </div>
           </div>
-          <div class="img_div"><figcaption>Investigador</figcaption><img src="q12.png"><br><br>
+          <div class="img_div"><figcaption>Investigador</figcaption><img src="quizimg/q12.png"><br><br>
           <div class="cc-selector">
           <input type="radio" name="q1" value="2" id="visa1"/>
           <label class="drinkcard-cc visa" for="visa1"></label>
@@ -679,7 +679,7 @@
           <label class="drinkcard-cc mastercard"  for="mastercard1"></label>
           </div>
           </div>
-          <div class="img_div"><figcaption>Arquiteto e Engenheiro</figcaption><img src="q13.png"><br><br>
+          <div class="img_div"><figcaption>Arquiteto e Engenheiro</figcaption><img src="quizimg/q13.png"><br><br>
           <div class="cc-selector">
           <input type="radio" name="q1" value="1" id="visa2"/>
           <label class="drinkcard-cc visa"  for="visa2"></label>
@@ -687,7 +687,7 @@
           <label class="drinkcard-cc mastercard"  for="mastercard2"></label>
           </div>
           </div>
-          <div class="img_div"><figcaption>Fotografia Creativa</figcaption><img src="q14.png"><br><br>
+          <div class="img_div"><figcaption>Fotografia Creativa</figcaption><img src="quizimg/q14.png"><br><br>
           <div class="cc-selector">
           <input type="radio" name="q1" value="-2" id="visa3"/>
           <label class="drinkcard-cc visa"  for="visa3"></label>
@@ -697,7 +697,7 @@
           </div><br>
           <br><br><br><br><br>
 <h1>Questão 2</h1><br>     
-<div class="img_div"><figcaption>Leiloeiro</figcaption><img src="q21.png"><br><br>
+<div class="img_div"><figcaption>Leiloeiro</figcaption><img src="quizimg/q21.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q2" id="visa4" value="-2"/>
   <label class="drinkcard-cc visa"  for="visa4"></label>
@@ -705,7 +705,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard4"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Professor</figcaption><img src="q22.png"><br><br>
+  <div class="img_div"><figcaption>Professor</figcaption><img src="quizimg/q22.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q2" value="-1" id="visa5"/>
   <label class="drinkcard-cc visa" for="visa5"></label>
@@ -713,7 +713,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard5"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Mecânico</figcaption><img src="q23.png"><br><br>
+  <div class="img_div"><figcaption>Mecânico</figcaption><img src="quizimg/q23.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q2" value="1" id="visa6"/>
   <label class="drinkcard-cc visa"  for="visa6"></label>
@@ -721,7 +721,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard6"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Químico</figcaption><img src="q24.png"><br><br>
+  <div class="img_div"><figcaption>Químico</figcaption><img src="quizimg/q24.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q2" value="2" id="visa7"/>
   <label class="drinkcard-cc visa"  for="visa7"></label>
@@ -731,7 +731,7 @@
   </div><br>
   <br><br><br><br><br>   
 <h1>Questão 3</h1><br>
-<div class="img_div"><figcaption>Monitoriza e regista</figcaption><img src="q31.png"><br><br>
+<div class="img_div"><figcaption>Monitoriza e regista</figcaption><img src="quizimg/q31.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q3" id="visa8" value="2"/>
   <label class="drinkcard-cc visa"  for="visa8"></label>
@@ -739,7 +739,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard8"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Vende e convence</figcaption><img src="q32.png"><br><br>
+  <div class="img_div"><figcaption>Vende e convence</figcaption><img src="quizimg/q32.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q3" value="1" id="visa9"/>
   <label class="drinkcard-cc visa" for="visa9"></label>
@@ -747,7 +747,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard9"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Desenha e pinta</figcaption><img src="q33.png"><br><br>
+  <div class="img_div"><figcaption>Desenha e pinta</figcaption><img src="quizimg/q33.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q3" value="-2" id="visa10"/>
   <label class="drinkcard-cc visa"  for="visa10"></label>
@@ -755,7 +755,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard10"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Ajuda</figcaption><img src="q34.png"><br><br>
+  <div class="img_div"><figcaption>Ajuda</figcaption><img src="quizimg/q34.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q3" value="-1" id="visa11"/>
   <label class="drinkcard-cc visa"  for="visa11"></label>
@@ -765,7 +765,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 4</h1><br>
-<div class="img_div"><figcaption>Trabalhador Social</figcaption><img src="q41.png"><br><br>
+<div class="img_div"><figcaption>Trabalhador Social</figcaption><img src="quizimg/q41.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q4" id="visa12" value="-1"/>
   <label class="drinkcard-cc visa"  for="visa12"></label>
@@ -773,7 +773,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard12"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Admistrador</figcaption><img src="q42.png"><br><br>
+  <div class="img_div"><figcaption>Admistrador</figcaption><img src="quizimg/q42.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q4" value="2" id="visa13"/>
   <label class="drinkcard-cc visa" for="visa13"></label>
@@ -781,7 +781,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard13"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Bombeiro</figcaption><img src="q43.png"><br><br>
+  <div class="img_div"><figcaption>Bombeiro</figcaption><img src="quizimg/q43.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q4" value="1" id="visa14"/>
   <label class="drinkcard-cc visa"  for="visa14"></label>
@@ -789,7 +789,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard14"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Gerente</figcaption><img src="q44.png"><br><br>
+  <div class="img_div"><figcaption>Gerente</figcaption><img src="quizimg/q44.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q4" value="-2" id="visa15"/>
   <label class="drinkcard-cc visa"  for="visa15"></label>
@@ -800,7 +800,7 @@
   <br><br><br><br><br>
   
 <h1>Questão 5</h1><br>
-<div class="img_div"><figcaption>Criação de joalharia</figcaption><img src="q51.png"><br><br>
+<div class="img_div"><figcaption>Criação de joalharia</figcaption><img src="quizimg/q51.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q5" id="visa16" value="1"/>
   <label class="drinkcard-cc visa"  for="visa16"></label>
@@ -808,7 +808,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard16"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Guiar crianças</figcaption><img src="q52.png"><br><br>
+  <div class="img_div"><figcaption>Guiar crianças</figcaption><img src="quizimg/q52.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q5" value="-2" id="visa17"/>
   <label class="drinkcard-cc visa" for="visa17"></label>
@@ -816,7 +816,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard17"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Diagnósticos</figcaption><img src="q53.png"><br><br>
+  <div class="img_div"><figcaption>Diagnósticos</figcaption><img src="quizimg/q53.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q5" value="2" id="visa18"/>
   <label class="drinkcard-cc visa"  for="visa18"></label>
@@ -824,7 +824,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard18"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Tirar notas</figcaption><img src="q54.png"><br><br>
+  <div class="img_div"><figcaption>Tirar notas</figcaption><img src="quizimg/q54.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q5" value="-1" id="visa19"/>
   <label class="drinkcard-cc visa"  for="visa19"></label>
@@ -834,7 +834,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 6</h1><br>  
-<div class="img_div"><figcaption>Esboça e desenha</figcaption><img src="q61.png"><br><br>
+<div class="img_div"><figcaption>Esboça e desenha</figcaption><img src="quizimg/q61.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q6" id="visa20" value="1"/>
   <label class="drinkcard-cc visa"  for="visa20"></label>
@@ -842,7 +842,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard20"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Mecânico</figcaption><img src="q62.png"><br><br>
+  <div class="img_div"><figcaption>Mecânico</figcaption><img src="quizimg/q62.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q6" value="2" id="visa21"/>
   <label class="drinkcard-cc visa" for="visa21"></label>
@@ -850,7 +850,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard21"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Ajuda defecientes</figcaption><img src="q63.png"><br><br>
+  <div class="img_div"><figcaption>Ajuda defecientes</figcaption><img src="quizimg/q63.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q6" value="-2" id="visa22"/>
   <label class="drinkcard-cc visa"  for="visa22"></label>
@@ -858,7 +858,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard22"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Gerente de negócios</figcaption><img src="q64.png"><br><br>
+  <div class="img_div"><figcaption>Gerente de negócios</figcaption><img src="quizimg/q64.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q6" value="-1" id="visa23"/>
   <label class="drinkcard-cc visa"  for="visa23"></label>
@@ -868,7 +868,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 7</h1><br>
-<div class="img_div"><figcaption>Estudar</figcaption><img src="q71.png"><br><br>
+<div class="img_div"><figcaption>Estudar</figcaption><img src="quizimg/q71.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q7" id="visa24" value="2"/>
   <label class="drinkcard-cc visa"  for="visa24"></label>
@@ -876,7 +876,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard24"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Estilista e decorar</figcaption><img src="q72.png"><br><br>
+  <div class="img_div"><figcaption>Estilista e decorar</figcaption><img src="quizimg/q72.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q7" value="-2" id="visa25"/>
   <label class="drinkcard-cc visa" for="visa25"></label>
@@ -884,7 +884,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard25"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Faz negócios</figcaption><img src="q73.png"><br><br>
+  <div class="img_div"><figcaption>Faz negócios</figcaption><img src="quizimg/q73.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q7" value="-1" id="visa26"/>
   <label class="drinkcard-cc visa"  for="visa26"></label>
@@ -892,7 +892,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard26"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Arranja</figcaption><img src="q74.png"><br><br>
+  <div class="img_div"><figcaption>Arranja</figcaption><img src="quizimg/q74.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q7" value="1" id="visa28"/>
   <label class="drinkcard-cc visa"  for="visa28"></label>
@@ -902,7 +902,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 8</h1><br> 
-<div class="img_div"><figcaption>Conselheiro Social</figcaption><img src="q81.png"><br><br>
+<div class="img_div"><figcaption>Conselheiro Social</figcaption><img src="quizimg/q81.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q8" id="visa29" value="-2"/>
   <label class="drinkcard-cc visa"  for="visa29"></label>
@@ -910,7 +910,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard29"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Cientista molecular</figcaption><img src="q82.png"><br><br>
+  <div class="img_div"><figcaption>Cientista molecular</figcaption><img src="quizimg/q82.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q8" value="2" id="visa30"/>
   <label class="drinkcard-cc visa" for="visa30"></label>
@@ -918,7 +918,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard30"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Contabilista</figcaption><img src="q83.png"><br><br>
+  <div class="img_div"><figcaption>Contabilista</figcaption><img src="quizimg/q83.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q8" value="-1" id="visa31"/>
   <label class="drinkcard-cc visa"  for="visa31"></label>
@@ -926,7 +926,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard31"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Veterinário</figcaption><img src="q84.png"><br><br>
+  <div class="img_div"><figcaption>Veterinário</figcaption><img src="quizimg/q84.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q8" value="1" id="visa32"/>
   <label class="drinkcard-cc visa"  for="visa32"></label>
@@ -936,7 +936,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 9</h1><br>
-<div class="img_div"><figcaption>CEO</figcaption><img src="q91.png"><br><br>
+<div class="img_div"><figcaption>CEO</figcaption><img src="quizimg/q91.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q9" id="visa33" value="-2"/>
   <label class="drinkcard-cc visa"  for="visa33"></label>
@@ -944,7 +944,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard33"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Admistração</figcaption><img src="q92.png"><br><br>
+  <div class="img_div"><figcaption>Admistração</figcaption><img src="quizimg/q92.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q9" value="1" id="visa34"/>
   <label class="drinkcard-cc visa" for="visa34"></label>
@@ -952,7 +952,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard34"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Ganhar conhecimento</figcaption><img src="q93.png"><br><br>
+  <div class="img_div"><figcaption>Ganhar conhecimento</figcaption><img src="quizimg/q93.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q9" value="2" id="visa35"/>
   <label class="drinkcard-cc visa"  for="visa35"></label>
@@ -960,7 +960,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard35"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Arquitétura e terreno</figcaption><img src="q94.png"><br><br>
+  <div class="img_div"><figcaption>Arquitétura e terreno</figcaption><img src="quizimg/q94.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q9" value="-1" id="visa36"/>
   <label class="drinkcard-cc visa"  for="visa36"></label>
@@ -970,7 +970,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 10</h1><br>
-<div class="img_div"><figcaption>Tecníco Dental</figcaption><img src="q101.png"><br><br>
+<div class="img_div"><figcaption>Tecníco Dental</figcaption><img src="quizimg/q101.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q10" id="visa37" value="2"/>
   <label class="drinkcard-cc visa"  for="visa37"></label>
@@ -978,7 +978,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard37"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Anfitrião</figcaption><img src="q102.png"><br><br>
+  <div class="img_div"><figcaption>Anfitrião</figcaption><img src="quizimg/q102.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q10" value="-2" id="visa38"/>
   <label class="drinkcard-cc visa" for="visa38"></label>
@@ -986,7 +986,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard38"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Desenha</figcaption><img src="q103.png"><br><br>
+  <div class="img_div"><figcaption>Desenha</figcaption><img src="quizimg/q103.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q10" value="1" id="visa39"/>
   <label class="drinkcard-cc visa"  for="visa39"></label>
@@ -994,7 +994,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard39"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Secretário de Informação</figcaption><img src="q104.png"><br><br>
+  <div class="img_div"><figcaption>Secretário de Informação</figcaption><img src="quizimg/q104.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q10" value="-1" id="visa40"/>
   <label class="drinkcard-cc visa"  for="visa40"></label>
@@ -1004,7 +1004,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 11</h1><br>
-<div class="img_div"><figcaption>Controlador</figcaption><img src="q111.png"><br><br>
+<div class="img_div"><figcaption>Controlador</figcaption><img src="quizimg/q111.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q11" id="visa41" value="-1"/>
   <label class="drinkcard-cc visa"  for="visa41"></label>
@@ -1012,7 +1012,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard41"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Corretor de bolsa</figcaption><img src="q112.png"><br><br>
+  <div class="img_div"><figcaption>Corretor de bolsa</figcaption><img src="quizimg/q112.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q11" value="-2" id="visa42"/>
   <label class="drinkcard-cc visa" for="visa42"></label>
@@ -1020,7 +1020,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard42"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Analista de infromção</figcaption><img src="q113.png"><br><br>
+  <div class="img_div"><figcaption>Analista de infromção</figcaption><img src="quizimg/q113.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q11" value="1" id="visa43"/>
   <label class="drinkcard-cc visa"  for="visa43"></label>
@@ -1028,7 +1028,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard43"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Engenheiro</figcaption><img src="q114.png"><br><br>
+  <div class="img_div"><figcaption>Engenheiro</figcaption><img src="quizimg/q114.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q11" value="2" id="visa44"/>
   <label class="drinkcard-cc visa"  for="visa44"></label>
@@ -1038,7 +1038,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 12</h1><br>
-<div class="img_div"><figcaption>Ciência</figcaption><img src="q121.png"><br><br>
+<div class="img_div"><figcaption>Ciência</figcaption><img src="quizimg/q121.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q12" id="visa45" value="2"/>
   <label class="drinkcard-cc visa"  for="visa45"></label>
@@ -1046,7 +1046,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard45"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Ferramentas</figcaption><img src="q122.png"><br><br>
+  <div class="img_div"><figcaption>Ferramentas</figcaption><img src="quizimg/q122.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q12" value="1" id="visa46"/>
   <label class="drinkcard-cc visa" for="visa46"></label>
@@ -1054,7 +1054,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard46"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Suporte médico</figcaption><img src="q123.png"><br><br>
+  <div class="img_div"><figcaption>Suporte médico</figcaption><img src="quizimg/q123.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q12" value="-1" id="visa47"/>
   <label class="drinkcard-cc visa"  for="visa47"></label>
@@ -1062,7 +1062,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard47"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Teatro e arte</figcaption><img src="q124.png"><br><br>
+  <div class="img_div"><figcaption>Teatro e arte</figcaption><img src="quizimg/q124.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q12" value="-2" id="visa48"/>
   <label class="drinkcard-cc visa"  for="visa48"></label>
@@ -1072,7 +1072,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 13</h1><br>
-<div class="img_div"><figcaption>Pensamento lógico</figcaption><img src="q131.png"><br><br>
+<div class="img_div"><figcaption>Pensamento lógico</figcaption><img src="quizimg/q131.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q13" id="visa49" value="2"/>
   <label class="drinkcard-cc visa"  for="visa49"></label>
@@ -1080,7 +1080,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard49"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Ordenar e organizar</figcaption><img src="q132.png"><br><br>
+  <div class="img_div"><figcaption>Ordenar e organizar</figcaption><img src="quizimg/q132.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q13" value="1" id="visa50"/>
   <label class="drinkcard-cc visa" for="visa50"></label>
@@ -1088,7 +1088,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard50"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Dar direções</figcaption><img src="q133.png"><br><br>
+  <div class="img_div"><figcaption>Dar direções</figcaption><img src="quizimg/q133.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q13" value="-1" id="visa51"/>
   <label class="drinkcard-cc visa"  for="visa51"></label>
@@ -1096,7 +1096,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard51"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Ensinar e explicar</figcaption><img src="q134.png"><br><br>
+  <div class="img_div"><figcaption>Ensinar e explicar</figcaption><img src="quizimg/q134.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q13" value="-2" id="visa52"/>
   <label class="drinkcard-cc visa"  for="visa52"></label>
@@ -1106,7 +1106,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 14</h1><br>
-<div class="img_div"><figcaption>Cuida dos idosos</figcaption><img src="q141.png"><br><br>
+<div class="img_div"><figcaption>Cuida dos idosos</figcaption><img src="quizimg/q141.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q14" id="visa53" value="-1"/>
   <label class="drinkcard-cc visa"  for="visa53"></label>
@@ -1114,7 +1114,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard53"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Agente imobiliário</figcaption><img src="q142.png"><br><br>
+  <div class="img_div"><figcaption>Agente imobiliário</figcaption><img src="quizimg/q142.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q14" value="1" id="visa60"/>
   <label class="drinkcard-cc visa" for="visa60"></label>
@@ -1122,7 +1122,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard60"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Fashion Designer</figcaption><img src="q143.png"><br><br>
+  <div class="img_div"><figcaption>Fashion Designer</figcaption><img src="quizimg/q143.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q14" value="-2" id="visa54"/>
   <label class="drinkcard-cc visa"  for="visa54"></label>
@@ -1130,7 +1130,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard54"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Resolver problemas</figcaption><img src="q144.png"><br><br>
+  <div class="img_div"><figcaption>Resolver problemas</figcaption><img src="quizimg/q144.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q14" value="2" id="visa55"/>
   <label class="drinkcard-cc visa"  for="visa55"></label>
@@ -1140,7 +1140,7 @@
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 15</h1><br>
-<div class="img_div"><figcaption>Eletrónicos</figcaption><img src="q151.png"><br><br>
+<div class="img_div"><figcaption>Eletrónicos</figcaption><img src="quizimg/q151.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q15" id="visa56" value="2"/>
   <label class="drinkcard-cc visa"  for="visa56"></label>
@@ -1148,7 +1148,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard56"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Escrita creativa</figcaption><img src="q152.png"><br><br>
+  <div class="img_div"><figcaption>Escrita creativa</figcaption><img src="quizimg/q152.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q15" value="-2" id="visa57"/>
   <label class="drinkcard-cc visa" for="visa57"></label>
@@ -1156,7 +1156,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard57"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Arquivar</figcaption><img src="q153.png"><br><br>
+  <div class="img_div"><figcaption>Arquivar</figcaption><img src="quizimg/q153.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q15" value="1" id="visa58"/>
   <label class="drinkcard-cc visa"  for="visa58"></label>
@@ -1164,7 +1164,7 @@
   <label class="drinkcard-cc mastercard"  for="mastercard58"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Vendedor</figcaption><img src="q154.png"><br><br>
+  <div class="img_div"><figcaption>Vendedor</figcaption><img src="quizimg/q154.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q15" value="-1" id="visa59"/>
   <label class="drinkcard-cc visa"  for="visa59"></label>
