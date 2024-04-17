@@ -33,8 +33,16 @@
     font-size: 16px;
     transition: background-color 0.3s;
 }
-.container3 button{
-    width: 791px;
+.container3 img{
+  width: 200px;
+
+}
+.container3 figcaption{
+  text-align: center;
+}
+.container3{
+  width: 850px;
+  margin: auto;
 }
 
 button:hover {
