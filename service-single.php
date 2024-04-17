@@ -3,7 +3,7 @@
 <?php session_start(); ?>
 <head>
 	<meta charset="utf-8">
-	<title>Skape - Service Single</title>
+	<title>Calculadora</title>
 	<meta name="description" content="Creative &amp; Modern Agency HTML5 Template">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
