@@ -1222,7 +1222,6 @@ session_start();
 					</div>
 					<div class="vlt-gap-100"></div>
 					<div class="text-center">
-						<div id="vlt-load-more-blog-04"><a class="vlt-isotope-load-more" href="ajax/blog-04-load-more.html"><i class="icon-arrow-down"></i></a></div>
 					</div>
 				</div>
 				<div class="vlt-gap-120"></div>
