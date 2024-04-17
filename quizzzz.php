@@ -1166,20 +1166,35 @@ button:hover {
 </div>
 </form>
 </div>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-        <script>
-        $(document).ready(function(){
-         $('#myForm').submit(function(e){
-          //e.preventDefault();
-          /* $.ajax({
-            type: 'POST',
-            url: $(this).attr('action'),
-            data: $(this).serialize(),
-            
-        });*/
-        });
-        });
-</script>
+<style type="text/css">
+    .overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+.sadfsdag {
+  background-color: white;
+  width: 400px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.sadfsdag button{
+    width: 100%;
+    float: center;
+}
+</style>
 <script type="text/javascript">
     const popupButton = document.getElementById('popupButton');
 const overlay = document.getElementById('overlay');
