@@ -654,7 +654,6 @@
   -webkit-animation: fadeIn 1s;
   animation: fadeIn 1s
 }
-<style>
     .two-number-input {
         width: 100px; /* Adjust width as needed */
         padding: 5px;
@@ -665,10 +664,10 @@
     }
 
     .two-number-input input {
-        width: calc(50% - 2.5px); /* Subtracting padding and border width */
+        width: calc(25% - 2.5px); /* Subtracting padding and border width */
         display: inline-block;
         box-sizing: border-box;
-        border-collapse: collapse;
+        border-color: #023e73;
 
     }
 </style>
