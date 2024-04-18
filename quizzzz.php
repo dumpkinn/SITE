@@ -32,6 +32,7 @@
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
+    width: 100%;
 }
 .container3 img{
   width: 200px;
