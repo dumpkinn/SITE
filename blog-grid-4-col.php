@@ -1222,10 +1222,7 @@ session_start();
 					<!--Widget-->
 					<div class="vlt-widget vlt-widget--text vlt-widget--white">
 						<ul>
-							<li><a href="#">About</a></li>
-							<li><a href="#">Work</a></li>
-							<li><a href="#">Blog</a></li>
-							<li><a href="#">Contact</a></li>
+							<li>Todos os direitos </li>
 						</ul>
 					</div>
 				</div>
@@ -1233,22 +1230,19 @@ session_start();
 					<!--Widget-->
 					<div class="vlt-widget vlt-widget--text vlt-widget--white">
 						<ul>
-							<li><a href="#">Twitter</a></li>
-							<li><a href="#">Instagram</a></li>
-							<li><a href="#">Facebook</a></li>
-							<li><a href="#">LinkedIn</a></li>
+							<li>Code Crusaders Lda.</li>
 						</ul>
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">
 					<!--Widget-->
 					<div class="vlt-widget vlt-widget--text vlt-widget--white">
-						<p>38 NW Primrose Street <br>Fort Walton Beach, <br>FL 32547</p>
+						<p>32 Américo Rodrigues Barbosa
 					</div>
 				</div>
 				<div class="col-lg-2 col-sm-6">
 					<!--Widget-->
-					<div class="vlt-widget vlt-widget--text vlt-widget--white"><a href="mailto:hello@skape.com">hello@skape.com</a></div>
+					<div class="vlt-widget vlt-widget--text vlt-widget--white"><a href="mailto:codeecrusaders@gmail.com">codeecrusaders@gmail.com</a></div>
 				</div>
 			</div>
 		</div>
