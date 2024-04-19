@@ -137,23 +137,42 @@
 						<div class="vlt-nav--fullscreen__navigation">
 							<!--Navigation-->
 							<!--Menu-->
-							<ul class="sf-menu" data-back-text="Back">
+							<ul class="sf-menu" data-back-text="Voltar">
 								<li class="menu-item-has-children"><a href="index.html"><span>Início</span></a>
-									
+									<ul class="sub-menu">
+										<li><a href="blog-grid-4-col.html"><span>Prosseguir</span></a>
+										</li>
+									</ul>
 								</li>
-								<li class="menu-item-has-children"><a href="work-asymmetric-01.html"><span>Cursos</span></a>
-									 
+								<li class="menu-item-has-children"><a href="blog-grid-4-col.php"><span>Cursos</span></a>
+									<ul class="sub-menu">
+										<li><a href="blog-grid-4-col.html"><span>Prosseguir</span></a>
+										</li>
+									</ul>
 								</li>
-								<li class="menu-item-has-children left"><a href="about-us.html"><span>Calculadora</span></a>
-									
+								<li class="menu-item-has-children"><a href="service-single.php"><span>Calculadora</span></a>
+									<ul class="sub-menu">
+										<li><a href="service-single.php"><span>Prosseguir</span></a>
+										</li>
+									</ul>
 								</li>
-								<li class="menu-item-has-children left"><a href="quizzzz.php"><span>Quiz</span></a>
-									
-								<li class="menu-item-has-children left"><a href="contact-02.html"><span>Mapa</span></a>
-									
+								<li class="menu-item-has-children"><a href="quizzzz.php"><span>Quiz</span></a>
+									<ul class="sub-menu">
+										<li><a href="quizzzz.php"><span>Prosseguir</span></a>
+										</li>
+									</ul>
 								</li>
-								<li class="menu-item-has-children left"><a href="contact-01.html"><span>Currículo</span></a>
-									
+								<li class="menu-item-has-children"><a href="contact-02.html"><span>Mapa</span></a>
+									<ul class="sub-menu">
+										<li><a href="contact-02.html"><span>Prosseguir</span></a>
+										</li>
+									</ul>
+								</li>
+								<li class="menu-item-has-children"><a href="index.html"><span>Currículo</span></a>
+									<ul class="sub-menu">
+										<li><a href="youtube.com"><span>Prosseguir</span></a>
+										</li>
+									</ul>
 								</li>
 							</ul>
 						</div>
