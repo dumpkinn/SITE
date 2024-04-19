@@ -1,17 +1,7 @@
-	<!DOCTYPE html>
-<html class="no-js vlt-is--blog-grid-4-col vlt-is--header-fullscreen vlt-is--footer-style-1 vlt-is--footer-fixed" lang="en">
-<?php
-session_start();
-?>
+<!DOCTYPE html>
+<html class="no-js vlt-is--service-single vlt-is--header-fullscreen vlt-is--footer-style-1 vlt-is--footer-fixed" lang="en">
+<?php session_start(); ?>
 <head>
-<style>
-        .gr{
-            color: green;
-        }
-        .re{
-            color: red;
-        }
-    </style>
 	<meta charset="utf-8">
 	<title>Quiz</title>
 	<meta name="description" content="Creative &amp; Modern Agency HTML5 Template">
@@ -31,6 +21,86 @@ session_start();
 	<link rel="stylesheet" href="assets/css/vlt-main.min.css">
 	<!--Custom-->
 	<link rel="stylesheet" href="assets/css/custom.css">
+    <style type="text/css">
+    button {
+    display: block;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    width: 100%;
+}
+.container3 img{
+  width: 200px;
+
+}
+.container3 figcaption{
+  text-align: center;
+}
+.container3{
+  width: 850px;
+  margin: auto;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+        .img_div { float: left; }
+        [type=radio] { 
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+[type=radio] img {
+  cursor: pointer;
+}
+[type=radio]:checked img {
+  outline: 2px solid #f00;
+}
+.cc-selector input{
+    margin:0;padding:0;
+    -webkit-appearance:none;
+       -moz-appearance:none;
+            appearance:none;
+}
+.cc-selector-2 input{
+    position:absolute;
+    z-index:999;
+}
+.cc-selector-2 input:active +.drinkcard-cc, .cc-selector input:active +.drinkcard-cc{opacity: .9;}
+.cc-selector-2 input:checked +.drinkcard-cc, .cc-selector input:checked +.drinkcard-cc{
+    -webkit-filter: none;
+       -moz-filter: none;
+            filter: none;
+}
+.cc-selector-2 input{ margin: 5px 0 0 12px; }
+.cc-selector-2 label{ margin-left: 7px; }
+.drinkcard-cc{
+    cursor:pointer;
+    background-size:contain;
+    background-repeat:no-repeat;
+    display:inline-block;
+    width:100px;height:70px;
+    -webkit-transition: all 100ms ease-in;
+       -moz-transition: all 100ms ease-in;
+            transition: all 100ms ease-in;
+    -webkit-filter: brightness(1.8) grayscale(1) opacity(.7);
+       -moz-filter: brightness(1.8) grayscale(1) opacity(.7);
+            filter: brightness(1.8) grayscale(1) opacity(.7);
+}
+.drinkcard-cc:hover{
+    -webkit-filter: brightness(1.2) grayscale(.5) opacity(.9);
+       -moz-filter: brightness(1.2) grayscale(.5) opacity(.9);
+            filter: brightness(1.2) grayscale(.5) opacity(.9);
+}
+.visa{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_-obTn0DZXkN1gEqr15R0Od_Icndc__lKLE88hBjjg&s);}
+.mastercard{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6HyM_SlUH34PMKesxgDd3WTMh_db7rvsD6r7Uisf1Q&s);}
+    </style>
 </head>
 
 <body>
