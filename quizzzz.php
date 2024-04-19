@@ -114,25 +114,25 @@ button:hover {
 .vrmh:hover;{color: #e82e31;
 }
       @media print {
-        *:after {
+        body:after {
           content: ' - PRINT';
           display: inline;
         }
       }
       @media only screen and (min-width: 320px) {
-        *:after {
+        body:after {
           content: ' - PHONE';
           display: inline;
         }
       }
       @media only screen and (min-width: 768px) {
-        *:after {
+        body:after {
           content: ' - TABLET';
           display: inline;
         }
       }
       @media only screen and (min-width: 980px) {
-        *:after {
+        body:after {
           content: ' - DESKTOP';
           display: inline;
         }
