@@ -107,12 +107,6 @@
 			</div>
 		</nav>
 	</div>
-	<!--Site overlay-->
-	<div class="vlt-site-overlay"></div>
-	<!--Main-->
-	<main class="vlt-main">
-		<!--Page content-->
-		<div class="vlt-page-content">
 			<!--Page title-->
 			<div class="vlt-page-title vlt-page-title--style-2 jarallax"><img class="jarallax-img" src="assets/img/service-image-08.png" alt="" loading="lazy">
 				<div class="vlt-page-title__overlay"></div>
