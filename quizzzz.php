@@ -114,8 +114,6 @@ button:hover {
 .vrmh:hover;{color: #e82e31;
 }
     </style>
-}
-}
 </head>
 
 <body>
