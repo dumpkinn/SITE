@@ -159,34 +159,31 @@ button:hover {
 						<div class="vlt-nav--fullscreen__navigation">
 							<!--Navigation-->
 							<!--Menu-->
-							<ul class="sf-menu" data-back-text="Back">
-								<li class="menu-item-has-children"><a href="index.html"><span>Home</span></a>
+<ul class="sf-menu" data-back-text="Back">
+								<li ><a href="index.html"><span>Home</span></a>
 									
 								</li>
-								<li class="menu-item-has-children"><a href="work-asymmetric-01.html"><span>Cursos</span></a>
-									 
-								</li>
-								<li class="menu-item-has-children left"><a href="about-us.html"><span>Calculadora</span></a>
+								<li ><a href="blog-grid-4-col.php"><span>Cursos</span></a></li>
 									
-								</li>
-								<li class="menu-item-has-children left"><a href="quizzzz.php"><span>Quiz</span></a>
+								<li ><a href="service-single.php"><span>Calculadora</span></a></li>
+								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
+								<li ><a href="blog-grid-1-col.html"><span>Mapa</span></a></li>
+								<li ><a href="blog-grid-1-col.html"><span>Curriculo</span></a></li>
 									
-								<li class="menu-item-has-children left"><a href="contact-01.html"><span>Mapa</span></a>
-									
-								</li>
-								<li class="menu-item-has-children left"><a href="contact-01.html"><span>Currículo</span></a>
-									
-								</li>
 							</ul>
 						</div>
 					</div>
 				</div>
-				<div class="vlt-nav-row">
-					<div class="vlt-gap-60"></div>
-				</div>
 			</div>
 		</nav>
 	</div>
+	<div class="d-lg-none d-sm-block">
+		<header class="vlt-header vlt-header--fullscreen">
+			<div class="vlt-navbar vlt-navbar--main vlt-navbar--transparent vlt-navbar--sticky vlt-navbar--white-text-on-top vlt-navbar--transparent vlt-navbar--sticky vlt-navbar--white-text-on-top">
+				<div class="container">
+					<div class="vlt-navbar-inner">
+						<div class="vlt-navbar-inner--left">
+							<div class="d-flex align-items-center justify-content-center h-100">
 	<!--Site overlay-->
 	<div class="vlt-site-overlay"></div>
 	<!--Main-->
