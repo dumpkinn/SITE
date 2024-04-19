@@ -111,7 +111,10 @@ button:hover {
 }
 .vlt-swiper-button-prev{color: #ffffff;
 }
-.vrmh:hover;{color: #e82e31;
+.vrmh:hover{color: #e82e31;
+}
+.vrmh{transition: 0.3s;}
+    </style>
 }
     </style>
 </head>
