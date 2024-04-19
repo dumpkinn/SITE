@@ -138,6 +138,12 @@
 							<!--Navigation-->
 							<!--Menu-->
 							<ul class="sf-menu" data-back-text="Voltar">
+								<li class="menu-item-has-children"><a href="index.html"><span>Início</span></a>
+									<ul class="sub-menu">
+										<li><a href="blog-grid-4-col.html"><span>Prosseguir</span></a>
+										</li>
+									</ul>
+								</li>
 								<li class="menu-item-has-children"><a href="blog-grid-4-col.php"><span>Cursos</span></a>
 									<ul class="sub-menu">
 										<li><a href="blog-grid-4-col.html"><span>Prosseguir</span></a>
