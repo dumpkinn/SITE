@@ -97,7 +97,7 @@ session_start();
 									
 								<li ><a href="service-single.php"><span>Calculadora</span></a></li>
 								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
-								<li ><a href="careers-single.html"><span>Mapa</span></a></li>
+								<li ><a href="contact-02.html"><span>Mapa</span></a></li>
 								<li ><a href="blog-grid-1-col.html"><span>Curriculo</span></a></li>
 									
 							</ul>
@@ -159,7 +159,7 @@ session_start();
 								</li>
 								<li class="menu-item-has-children left"><a href="quizzzz.php"><span>Quiz</span></a>
 									
-								<li class="menu-item-has-children left"><a href="careers-single.html"><span>Mapa</span></a>
+								<li class="menu-item-has-children left"><a href="contact-02.html"><span>Mapa</span></a>
 									
 								</li>
 								<li class="menu-item-has-children left"><a href="contact-01.html"><span>Currículo</span></a>
