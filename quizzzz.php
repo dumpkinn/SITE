@@ -113,6 +113,30 @@ button:hover {
 }
 .vrmh:hover;{color: #e82e31;
 }
+      @media print {
+        h3:after {
+          content: ' - PRINT';
+          display: inline;
+        }
+      }
+      @media only screen and (min-width: 320px) {
+        h3:after {
+          content: ' - PHONE';
+          display: inline;
+        }
+      }
+      @media only screen and (min-width: 768px) {
+        h3:after {
+          content: ' - TABLET';
+          display: inline;
+        }
+      }
+      @media only screen and (min-width: 980px) {
+        h3:after {
+          content: ' - DESKTOP';
+          display: inline;
+        }
+      }
     </style>
 </head>
 
