@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+	<!DOCTYPE html>
 <html class="no-js vlt-is--blog-grid-4-col vlt-is--header-fullscreen vlt-is--footer-style-1 vlt-is--footer-fixed" lang="en">
 <?php
 session_start();
@@ -101,23 +101,6 @@ session_start();
 								<li ><a href="blog-grid-1-col.html"><span>Curriculo</span></a></li>
 									
 							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="vlt-nav-row">
-					<div class="vlt-nav--fullscreen__footer">
-						<div class="container">
-							<div class="d-flex justify-content-between align-items-end">
-								<!--Widget-->
-								<div class="vlt-widget vlt-widget--socials"><a class="vlt-social-icon vlt-social-icon--style-1" href="#">Fb.</a><a class="vlt-social-icon vlt-social-icon--style-1" href="#">Tw.</a><a class="vlt-social-icon vlt-social-icon--style-1" href="#">In.</a><a class="vlt-social-icon vlt-social-icon--style-1" href="#">Ln.</a></div>
-								<!--Widget-->
-								<div class="vlt-widget vlt-widget--html">
-									<div class="text-right">
-										<!--Simple link--><a class="vlt-simple-link vlt-simple-link--sm" href="mailto:hello@skape.com" target="_self">hello@skape.com</a><br>
-										<!--Simple link--><a class="vlt-simple-link vlt-simple-link--sm" href="tel:8589235899" target="_self">858-923-5899</a>
-									</div>
-								</div>
-							</div>
 						</div>
 					</div>
 				</div>
