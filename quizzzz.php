@@ -139,7 +139,7 @@ button:hover {
       }
     </style>
 </head>
-
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 <body>
 	<!--Site preloader-->
 	<div class="vlt-site-preloader" data-animate-to="M0 0h202v66H0z"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204" height="68">
