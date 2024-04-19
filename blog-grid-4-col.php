@@ -90,14 +90,14 @@ session_start();
 							<!--Navigation-->
 							<!--Menu-->
 							<ul class="sf-menu" data-back-text="Back">
-								<li ><a href="index.html"><span>Home</span></a>
+								<li ><a href="index.html"><span>Início</span></a>
 									
 								</li>
 								<li ><a href="blog-grid-4-col.php"><span>Cursos</span></a></li>
 									
 								<li ><a href="service-single.php"><span>Calculadora</span></a></li>
 								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
-								<li ><a href="blog-grid-1-col.html"><span>Mapa</span></a></li>
+								<li ><a href="careers-single.html"><span>Mapa</span></a></li>
 								<li ><a href="blog-grid-1-col.html"><span>Curriculo</span></a></li>
 									
 							</ul>
@@ -148,7 +148,7 @@ session_start();
 							<!--Navigation-->
 							<!--Menu-->
 							<ul class="sf-menu" data-back-text="Back">
-								<li class="menu-item-has-children"><a href="index.html"><span>Home</span></a>
+								<li class="menu-item-has-children"><a href="index.html"><span>Início</span></a>
 									
 								</li>
 								<li class="menu-item-has-children"><a href="work-asymmetric-01.html"><span>Cursos</span></a>
@@ -159,7 +159,7 @@ session_start();
 								</li>
 								<li class="menu-item-has-children left"><a href="quizzzz.php"><span>Quiz</span></a>
 									
-								<li class="menu-item-has-children left"><a href="contact-01.html"><span>Mapa</span></a>
+								<li class="menu-item-has-children left"><a href="careers-single.html"><span>Mapa</span></a>
 									
 								</li>
 								<li class="menu-item-has-children left"><a href="contact-01.html"><span>Currículo</span></a>
