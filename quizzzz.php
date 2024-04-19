@@ -168,7 +168,7 @@ button:hover {
 								<li ><a href="service-single.php"><span>Calculadora</span></a></li>
 								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
 								<li ><a href="contact-02.html"><span>Mapa</span></a></li>
-								<li ><a href="blog-grid-1-col.html"><span>Curriculo</span></a></li>
+								<li ><a href="blog-grid-1-col.html"><span>Currículo</span></a></li>
 									
 							</ul>
 						</div>
@@ -383,7 +383,7 @@ button:hover {
   <label class="drinkcard-cc mastercard"  for="mastercard12"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Admistrador</figcaption><img src="quizimg/q42.png"><br><br>
+  <div class="img_div"><figcaption>Administrador</figcaption><img src="quizimg/q42.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q4" value="2" id="visa13"/>
   <label class="drinkcard-cc visa" for="visa13"></label>
@@ -460,7 +460,7 @@ button:hover {
   <label class="drinkcard-cc mastercard"  for="mastercard21"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Ajuda defecientes</figcaption><img src="quizimg/q63.png"><br><br>
+  <div class="img_div"><figcaption>Ajuda deficientes</figcaption><img src="quizimg/q63.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q6" value="-2" id="visa22"/>
   <label class="drinkcard-cc visa"  for="visa22"></label>
@@ -554,7 +554,7 @@ button:hover {
   <label class="drinkcard-cc mastercard"  for="mastercard33"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Admistração</figcaption><img src="quizimg/q92.png"><br><br>
+  <div class="img_div"><figcaption>Administração</figcaption><img src="quizimg/q92.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q9" value="1" id="visa34"/>
   <label class="drinkcard-cc visa" for="visa34"></label>
@@ -570,7 +570,7 @@ button:hover {
   <label class="drinkcard-cc mastercard"  for="mastercard35"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Arquitétura e terreno</figcaption><img src="quizimg/q94.png"><br><br>
+  <div class="img_div"><figcaption>Arquitetura e terreno</figcaption><img src="quizimg/q94.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q9" value="-1" id="visa36"/>
   <label class="drinkcard-cc visa"  for="visa36"></label>
@@ -580,7 +580,7 @@ button:hover {
   </div><br>
   <br><br><br><br><br>
 <h1>Questão 10</h1><br>
-<div class="img_div"><figcaption>Tecníco Dental</figcaption><img src="quizimg/q101.png"><br><br>
+<div class="img_div"><figcaption>Décnico dentário</figcaption><img src="quizimg/q101.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q10" id="visa37" value="2"/>
   <label class="drinkcard-cc visa"  for="visa37"></label>
@@ -630,7 +630,7 @@ button:hover {
   <label class="drinkcard-cc mastercard"  for="mastercard42"></label>
   </div>
   </div>
-  <div class="img_div"><figcaption>Analista de infromção</figcaption><img src="quizimg/q113.png"><br><br>
+  <div class="img_div"><figcaption>Analista de informação</figcaption><img src="quizimg/q113.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q11" value="1" id="visa43"/>
   <label class="drinkcard-cc visa"  for="visa43"></label>
