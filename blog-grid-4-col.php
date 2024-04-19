@@ -99,7 +99,7 @@ session_start();
 								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
 
 
-								<li ><a href="blog-grid-1-col.html"><span>Mapa</span></a></li>
+								<li ><a href="contact-02.html"><span>Mapa</span></a></li>
 								<li ><a href="blog-grid-1-col.html"><span>Currículo</span></a></li>									
 							</ul>
 						</div>
