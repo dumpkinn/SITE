@@ -1,29 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Text Fill Animation</title>
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f0f0f0;
+<style type="text/css">
+    .kosa {
+  position: relative;
+  width: 300px; /* Adjust the width of the container */
+  height: 200px; /* Adjust the height of the container */
+  overflow: hidden;
+}
+
+.kosa::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background-image: url('cursos.png'); /* Replace 'your-image.jpg' with the path to your image */
+  background-size: auto 100%; /* Ensure the background image covers the height of the container */
+  background-repeat: no-repeat;
+  background-position: left center; /* Start the image from the left edge */
+  animation: drawImage 2s forwards; /* Apply the animation */
+}
+
+@keyframes drawImage {
+  0% {
+    width: 0; /* Start with no width */
   }
+  100% {
+    width: 100%; /* End with full width */
+  }
+}
 </style>
-</head>
-<body>
-<svg width="400" height="200">
-  <!-- Text Outline -->
-  <text x="50" y="100" font-family="Arial" font-size="48" fill="none" stroke="black" stroke-width="2">HELLO</text>
-  <!-- Animated Fill -->
-  <rect x="50" y="70" width="300" height="60" fill="none" stroke="black" stroke-width="2">
-    <animate attributeName="fill" from="none" to="black" dur="2s" fill="freeze" />
-  </rect>
-</svg>
-</body>
-</html>
+<div class="kosa">
+  <!-- Your content here -->
+</div>

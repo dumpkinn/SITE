@@ -417,7 +417,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>15.0</span>
 										</div>
-										<span id="textToHighlight6"><h3 class="vlt-post-title"><a href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22902">Engenharia de Materias</a>
+										<span id="textToHighlight6"><h3 class="vlt-post-title"><a href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22902">Engenharia de Materiais</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
