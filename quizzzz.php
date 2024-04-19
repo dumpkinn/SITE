@@ -2,6 +2,8 @@
 <html class="no-js vlt-is--service-single vlt-is--header-fullscreen vlt-is--footer-style-1 vlt-is--footer-fixed" lang="en">
 <?php session_start(); ?>
 <head>
+	<script src="https://kit.fontawesome.com/e686372ebd.js" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/da9e2d50d8.js" crossorigin="anonymous"></script>
 	<meta charset="utf-8">
 	<title>Quiz</title>
 	<meta name="description" content="Creative &amp; Modern Agency HTML5 Template">
@@ -32,7 +34,7 @@
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
-    width: 100%;
+    width: 96%;
 }
 .container3 img{
   width: 200px;
@@ -47,7 +49,7 @@
 }
 
 button:hover {
-    background-color: #0056b3;
+   
 }
         .img_div { float: left; }
         [type=radio] { 
@@ -100,7 +102,20 @@ button:hover {
 }
 .visa{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_-obTn0DZXkN1gEqr15R0Od_Icndc__lKLE88hBjjg&s);}
 .mastercard{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6HyM_SlUH34PMKesxgDd3WTMh_db7rvsD6r7Uisf1Q&s);}
+
+.vlt-swiper-button-next:hover{color: #e82e31;
+}
+.vlt-swiper-button-prev:hover{color: #e82e31;
+}
+.vlt-swiper-button-next{color: #ffffff;
+}
+.vlt-swiper-button-prev{color: #ffffff;
+}
+.vrmh:hover;{color: #e82e31;
+}
     </style>
+}
+}
 </head>
 
 <body>
@@ -272,7 +287,12 @@ button:hover {
     <div class="accordion-body">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.php"> calcula-a aqui.</a></div>
     <br><br><br>
 <form action="quiz.php" id="myForm" method="post">
-<h1>Questão 1</h1><br>
+<!--Content slider-->
+									<div class="vlt-content-slider " data-navigation-anchor=".vlt-careers-single-slider-anchor" data-gap="" data-loop="" data-speed="" data-autoplay="" data-autoplay-speed="" data-slides-centered="" data-slide-settings="{}" data-free-mode="" data-slider-offset="" data-mousewheel="">
+										<div class="swiper-container">
+											<div class="swiper-wrapper">
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 1</h1><br>
           <div class="img_div"><figcaption>Ir para o escritório</figcaption><img src="quizimg/q11.png"><br><br>
           <div class="cc-selector">
           <input type="radio" name="q1" id="visa" value="-1"/>
@@ -304,9 +324,10 @@ button:hover {
           <input type="radio" name="u1" value="2" id="mastercard3"/>
           <label class="drinkcard-cc mastercard"  for="mastercard3"></label>
           </div>
-          </div><br>
-          <br><br><br><br><br>
-<h1>Questão 2</h1><br>     
+          </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 2</h1><br>     
 <div class="img_div"><figcaption>Leiloeiro</figcaption><img src="quizimg/q21.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q2" id="visa4" value="-2"/>
@@ -338,9 +359,10 @@ button:hover {
   <input type="radio" name="u2" value="-2" id="mastercard7"/>
   <label class="drinkcard-cc mastercard"  for="mastercard7"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>   
-<h1>Questão 3</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 3</h1><br>
 <div class="img_div"><figcaption>Monitoriza e regista</figcaption><img src="quizimg/q31.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q3" id="visa8" value="2"/>
@@ -372,9 +394,10 @@ button:hover {
   <input type="radio" name="u3" value="1" id="mastercard11"/>
   <label class="drinkcard-cc mastercard"  for="mastercard11"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 4</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 4</h1><br>
 <div class="img_div"><figcaption>Trabalhador Social</figcaption><img src="quizimg/q41.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q4" id="visa12" value="-1"/>
@@ -406,10 +429,10 @@ button:hover {
   <input type="radio" name="u4" value="2" id="mastercard15"/>
   <label class="drinkcard-cc mastercard"  for="mastercard15"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-  
-<h1>Questão 5</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 5</h1><br>
 <div class="img_div"><figcaption>Criação de joalharia</figcaption><img src="quizimg/q51.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q5" id="visa16" value="1"/>
@@ -441,9 +464,10 @@ button:hover {
   <input type="radio" name="u5" value="1" id="mastercard19"/>
   <label class="drinkcard-cc mastercard"  for="mastercard19"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 6</h1><br>  
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 6</h1><br>  
 <div class="img_div"><figcaption>Esboça e desenha</figcaption><img src="quizimg/q61.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q6" id="visa20" value="1"/>
@@ -475,9 +499,10 @@ button:hover {
   <input type="radio" name="u6" value="1" id="mastercard23"/>
   <label class="drinkcard-cc mastercard"  for="mastercard23"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 7</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 7</h1><br>
 <div class="img_div"><figcaption>Estudar</figcaption><img src="quizimg/q71.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q7" id="visa24" value="2"/>
@@ -509,9 +534,10 @@ button:hover {
   <input type="radio" name="u7" value="-2" id="mastercard28"/>
   <label class="drinkcard-cc mastercard"  for="mastercard28"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 8</h1><br> 
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 8</h1><br> 
 <div class="img_div"><figcaption>Conselheiro Social</figcaption><img src="quizimg/q81.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q8" id="visa29" value="-2"/>
@@ -543,9 +569,10 @@ button:hover {
   <input type="radio" name="u8" value="-1" id="mastercard32"/>
   <label class="drinkcard-cc mastercard"  for="mastercard32"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 9</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 9</h1><br>
 <div class="img_div"><figcaption>CEO</figcaption><img src="quizimg/q91.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q9" id="visa33" value="-2"/>
@@ -577,9 +604,10 @@ button:hover {
   <input type="radio" name="u9" value="1" id="mastercard36"/>
   <label class="drinkcard-cc mastercard"  for="mastercard36"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 10</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 10</h1><br>
 <div class="img_div"><figcaption>Décnico dentário</figcaption><img src="quizimg/q101.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q10" id="visa37" value="2"/>
@@ -611,9 +639,10 @@ button:hover {
   <input type="radio" name="u10" value="1" id="mastercard40"/>
   <label class="drinkcard-cc mastercard"  for="mastercard40"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 11</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 11</h1><br>
 <div class="img_div"><figcaption>Controlador</figcaption><img src="quizimg/q111.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q11" id="visa41" value="-1"/>
@@ -645,9 +674,10 @@ button:hover {
   <input type="radio" name="u11" value="-2" id="mastercard44"/>
   <label class="drinkcard-cc mastercard"  for="mastercard44"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 12</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 12</h1><br>
 <div class="img_div"><figcaption>Ciência</figcaption><img src="quizimg/q121.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q12" id="visa45" value="2"/>
@@ -679,9 +709,10 @@ button:hover {
   <input type="radio" name="u12" value="2" id="mastercard48"/>
   <label class="drinkcard-cc mastercard"  for="mastercard48"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 13</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 13</h1><br>
 <div class="img_div"><figcaption>Pensamento lógico</figcaption><img src="quizimg/q131.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q13" id="visa49" value="2"/>
@@ -713,9 +744,10 @@ button:hover {
   <input type="radio" name="u13" value="2" id="mastercard52"/>
   <label class="drinkcard-cc mastercard"  for="mastercard52"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 14</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 14</h1><br>
 <div class="img_div"><figcaption>Cuida dos idosos</figcaption><img src="quizimg/q141.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q14" id="visa53" value="-1"/>
@@ -747,9 +779,10 @@ button:hover {
   <input type="radio" name="u14" value="-2" id="mastercard55"/>
   <label class="drinkcard-cc mastercard"  for="mastercard55"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-<h1>Questão 15</h1><br>
+  </div>
+												</div>
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 15</h1><br>
 <div class="img_div"><figcaption>Eletrónicos</figcaption><img src="quizimg/q151.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q15" id="visa56" value="2"/>
@@ -781,10 +814,26 @@ button:hover {
   <input type="radio" name="u15" value="1" id="mastercard59"/>
   <label class="drinkcard-cc mastercard"  for="mastercard59"></label>
   </div>
-  </div><br>
-  <br><br><br><br><br>
-
-<button width="100%" type="submit" id="popupButton">Submeter</button>
+  </div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div>
+	<button width="20%" type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
+</div>
+									<!--Slider controls-->
+									<div class="vlt-slider-controls vlt-slider-controls--style-3 vlt-careers-single-slider-anchor has-white-color has-black-background-color position-absolute b-0 r-0" styles="margin-right:20px;">
+										<div class="vlt-swiper-button-prev"><i class="fa-solid fa-arrow-left" ></i></i>
+										</div><span class="sep">|</span>
+										<div class="vlt-swiper-button-next"><i class="fa-solid fa-arrow-right" ></i>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="vlt-gap-120"></div>
+						</div>
+						<div class="col-md-5 offset-md-1">
 </div>
 </form>
 </div>
