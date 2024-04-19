@@ -115,8 +115,6 @@ button:hover {
 }
 .vrmh{transition: 0.3s;}
     </style>
-}
-    </style>
 </head>
 <body>
 	<!--Site preloader-->
