@@ -22,7 +22,7 @@ $bi2= $_POST['bi11'];
 $ex1= $_POST['ex1'];
 $ex2= $_POST['ex2'];
 $ex3= $_POST['ex3'];
-$med= round(((($mat1+$mat2+$mat3)/3)+(($por1+$por2+$por3)/3)+(($edf1+$edf2+$edf3)/3)+(($fq1+$fq2)/2)+(($bi1+$bi2)/2)+(($fil1+$fil2)/2)+(($ing1+$ing2)/2)+$op1+$op2)/9 , 2);
+$med= round((round(($mat1+$mat2+$mat3)/3 , 0)+round(($por1+$por2+$por3)/3 , 0)+round(($edf1+$edf2+$edf3)/3 , 0)+round(($fq1+$fq2)/2 , 0)+round(($bi1+$bi2)/2 , 0)+round(($fil1+$fil2)/2 , 0)+round(($ing1+$ing2)/2 , 0)+$op1+$op2)/9 , 2);
 if (empty($ex1)==true) {
     $ex1=$med;
 }
