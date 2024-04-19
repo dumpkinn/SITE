@@ -97,10 +97,9 @@ session_start();
 									
 								<li ><a href="service-single.php"><span>Calculadora</span></a></li>
 								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
-
-
 								<li ><a href="contact-02.html"><span>Mapa</span></a></li>
-								<li ><a href="blog-grid-1-col.html"><span>Currículo</span></a></li>									
+								<li ><a href="blog-grid-1-col.html"><span>Currículo</span></a></li>
+									
 							</ul>
 						</div>
 					</div>
@@ -148,8 +147,8 @@ session_start();
 						<div class="vlt-nav--fullscreen__navigation">
 							<!--Navigation-->
 							<!--Menu-->
-														<ul class="sf-menu" data-back-text="Voltar">
-																							<li class="menu-item-has-children"><a href="index.html"><span>Início</span></a>
+								<ul class="sf-menu" data-back-text="Voltar">
+								<li class="menu-item-has-children"><a href="index.html"><span>Início</span></a>
 									<ul class="sub-menu">
 										<li><a href="blog-grid-4-col.html"><span>Prosseguir</span></a>
 										</li>
