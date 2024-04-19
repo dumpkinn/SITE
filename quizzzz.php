@@ -113,33 +113,8 @@ button:hover {
 }
 .vrmh:hover;{color: #e82e31;
 }
-      @media print {
-        body:after {
-          content: ' - PRINT';
-          display: inline;
-        }
-      }
-      @media only screen and (min-width: 320px) {
-        body:after {
-          content: ' - PHONE';
-          display: inline;
-        }
-      }
-      @media only screen and (min-width: 768px) {
-        body:after {
-          content: ' - TABLET';
-          display: inline;
-        }
-      }
-      @media only screen and (min-width: 980px) {
-        body:after {
-          content: ' - DESKTOP';
-          display: inline;
-        }
-      }
     </style>
 </head>
-<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 <body>
 	<!--Site preloader-->
 	<div class="vlt-site-preloader" data-animate-to="M0 0h202v66H0z"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204" height="68">
