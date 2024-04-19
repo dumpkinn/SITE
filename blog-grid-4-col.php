@@ -97,9 +97,10 @@ session_start();
 									
 								<li ><a href="service-single.php"><span>Calculadora</span></a></li>
 								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
-								<li ><a href="contact-02.html"><span>Mapa</span></a></li>
-								<li ><a href="blog-grid-1-col.html"><span>Curriculo</span></a></li>
-									
+
+
+								<li ><a href="blog-grid-1-col.html"><span>Mapa</span></a></li>
+								<li ><a href="blog-grid-1-col.html"><span>Currículo</span></a></li>									
 							</ul>
 						</div>
 					</div>
@@ -217,7 +218,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>IS. Técnico</span><span>18.1</span>
 										</div>
-										<span id="textToHighlight"><h3 class="vlt-post-title"><a href="#">Engenharia Informática</a>
+										<span id="textToHighlight"><h3 class="vlt-post-title"><a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/">Engenharia Informática</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -247,7 +248,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Minho</span><span>17.7</span>
 										</div>
-										<span id="textToHighlight1"><h3 class="vlt-post-title"><a href="#">Arquitetura</a>
+										<span id="textToHighlight1"><h3 class="vlt-post-title"><a href="https://www.eaad.uminho.pt/pt/Ensino/Licenciaturas_e_Mestrados_Integrados/Mestrado-Integrado-em-Arquitetura/Paginas/default.aspx">Arquitetura</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -278,7 +279,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>18.1</span>
 										</div>
-										<span id="textToHighlight2"><h3 class="vlt-post-title"><a href="#">Gestão</a>
+										<span id="textToHighlight2"><h3 class="vlt-post-title"><a href="https://sigarra.up.pt/fep/pt/cur_geral.cur_view?pv_curso_id=1046">Gestão</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -308,7 +309,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>17.9</span>
 										</div>
-										<span id="textToHighlight3"><h3 class="vlt-post-title"><a href="#">Psicologia</a>
+										<span id="textToHighlight3"><h3 class="vlt-post-title"><a href="https://sigarra.up.pt/fpceup/pt/cur_geral.cur_view?pv_curso_id=22381">Psicologia</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -338,7 +339,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>17.6</span>
 										</div>
-										<span id="textToHighlight4"><h3 class="vlt-post-title"><a href="#">Desenho</a>
+										<span id="textToHighlight4"><h3 class="vlt-post-title"><a href="https://www.ulisboa.pt/curso/licenciatura/desenho">Desenho</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -368,7 +369,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>17.8</span>
 										</div>
-										<span id="textToHighlight5"><h3 class="vlt-post-title"><a href="#">Engenharia Mecânica</a>
+										<span id="textToHighlight5"><h3 class="vlt-post-title"><a href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22882">Engenharia Mecânica</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -398,7 +399,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>15.0</span>
 										</div>
-										<span id="textToHighlight6"><h3 class="vlt-post-title"><a href="#">Engenharia de Materias</a>
+										<span id="textToHighlight6"><h3 class="vlt-post-title"><a href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22902">Engenharia de Materias</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -428,7 +429,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Minho</span><span>13.4</span>
 										</div>
-										<span id="textToHighlight7"><h3 class="vlt-post-title"><a href="#">Engenharia de Polímeros</a>
+										<span id="textToHighlight7"><h3 class="vlt-post-title"><a href="https://www.eng.uminho.pt/pt/estudar/_layouts/15/uminho.portaisuoei.ui/pages/catalogocursodetail.aspx?itemid=4372&catid=13">Engenharia de Polímeros</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -458,7 +459,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>IU. Lisboa</span><span>16.7</span>
 										</div>
-										<span id="textToHighlight8"><h3 class="vlt-post-title"><a href="#">Gestão de Marketing</a>
+										<span id="textToHighlight8"><h3 class="vlt-post-title"><a href="https://www.iscte-iul.pt/curso/59/licenciatura-gestao-de-marketing">Gestão de Marketing</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -488,7 +489,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>16.0</span>
 										</div>
-										<span id="textToHighlight9"><h3 class="vlt-post-title"><a href="#">Design de Equipamento</a>
+										<span id="textToHighlight9"><h3 class="vlt-post-title"><a href="https://www.ulisboa.pt/curso/licenciatura/design-de-equipamento">Design de Equipamento</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -518,7 +519,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>IS. Técnico</span><span>14.9</span>
 										</div>
-										<span id="textToHighlight10"><h3 class="vlt-post-title"><a href="#">Engenharia do Ambiente</a>
+										<span id="textToHighlight10"><h3 class="vlt-post-title"><a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-do-ambiente/">Engenharia do Ambiente</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -548,7 +549,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>13.8</span>
 										</div>
-										<span id="textToHighlight11"><h3 class="vlt-post-title"><a href="#">Educação e Formação</a>
+										<span id="textToHighlight11"><h3 class="vlt-post-title"><a href="https://www.ulisboa.pt/curso/licenciatura/educacao-e-formacao">Educação e Formação</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -578,7 +579,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Minho</span><span>16.0</span>
 										</div>
-										<span id="textToHighlight12"><h3 class="vlt-post-title"><a href="#">Administração Pública</a>
+										<span id="textToHighlight12"><h3 class="vlt-post-title"><a href="https://www.eeg.uminho.pt/pt/estudar/Licenciaturas/Paginas/administracao-publica.aspx">Administração Pública</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -608,7 +609,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. NOVA Lisboa</span><span>17.6</span>
 										</div>
-										<span id="textToHighlight13"><h3 class="vlt-post-title"><a href="#">Direito</a>
+										<span id="textToHighlight13"><h3 class="vlt-post-title"><a href="https://novalaw.unl.pt/licenciatura/">Direito</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -638,7 +639,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>16.7</span>
 										</div>
-										<span id="textToHighlight14"><h3 class="vlt-post-title"><a href="#">Biologia</a>
+										<span id="textToHighlight14"><h3 class="vlt-post-title"><a href="https://www.ulisboa.pt/curso/licenciatura/biologia">Biologia</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -668,7 +669,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>17.0</span>
 										</div>
-										<span id="textToHighlight15"><h3 class="vlt-post-title"><a href="#">Física</a>
+										<span id="textToHighlight15"><h3 class="vlt-post-title"><a href="https://www.ulisboa.pt/curso/licenciatura/fisica">Física</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -698,7 +699,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Minho</span><span>12.8</span>
 										</div>
-										<span id="textToHighlight16"><h3 class="vlt-post-title"><a href="#">Química</a>
+										<span id="textToHighlight16"><h3 class="vlt-post-title"><a href="https://www.ecum.uminho.pt/pt/Ensino/Paginas/licenciaturas/Licenciatura-em-Quimica.aspx">Química</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -728,7 +729,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>14.4</span>
 										</div>
-										<span id="textToHighlight17"><h3 class="vlt-post-title"><a href="#">Geologia</a>
+										<span id="textToHighlight17"><h3 class="vlt-post-title"><a href="https://www.ulisboa.pt/curso/licenciatura/geologia">Geologia</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -758,7 +759,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Minho</span><span>18.6</span>
 										</div>
-										<span id="textToHighlight18"><h3 class="vlt-post-title"><a href="#">Medicina</a>
+										<span id="textToHighlight18"><h3 class="vlt-post-title"><a href="https://www.med.uminho.pt/pt/Medicina">Medicina</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -788,7 +789,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>17.1</span>
 										</div>
-										<span id="textToHighlight19"><h3 class="vlt-post-title"><a href="#">Design de Comunicação</a>
+										<span id="textToHighlight19"><h3 class="vlt-post-title"><a href="https://sigarra.up.pt/fbaup/pt/cur_geral.cur_view?pv_curso_id=1314">Design de Comunicação</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -818,7 +819,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>17.1</span>
 										</div>
-										<span id="textToHighlight20"><h3 class="vlt-post-title"><a href="#">Arte Multimédia</a>
+										<span id="textToHighlight20"><h3 class="vlt-post-title"><a href="https://www.ulisboa.pt/curso/licenciatura/arte-multimedia">Arte Multimédia</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -848,7 +849,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Minho</span><span>11.7</span>
 										</div>
-										<span id="textToHighlight21"><h3 class="vlt-post-title"><a href="#">Engenharia Têxtil</a>
+										<span id="textToHighlight21"><h3 class="vlt-post-title"><a href="https://www.eng.uminho.pt/pt/estudar/_layouts/15/uminho.portaisuoei.ui/pages/catalogocursodetail.aspx?itemid=3554&catid=10">Engenharia Têxtil</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -878,7 +879,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Minho</span><span>16.8</span>
 										</div>
-										<span id="textToHighlight22"><h3 class="vlt-post-title"><a href="#">Contabilidade</a>
+										<span id="textToHighlight22"><h3 class="vlt-post-title"><a href="https://www.eeg.uminho.pt/pt/estudar/Licenciaturas/Paginas/contabilidade.aspx">Contabilidade</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -909,7 +910,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Beira Interior</span><span>15.2</span>
 										</div>
-										<span id="textToHighlight23"><h3 class="vlt-post-title"><a href="#">Engenharia Civil</a>
+										<span id="textToHighlight23"><h3 class="vlt-post-title"><a href="https://www.ubi.pt/curso/9">Engenharia Civil</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -940,7 +941,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>17.4</span>
 										</div>
-										<span id="textToHighlight24"><h3 class="vlt-post-title"><a href="#">Economia</a>
+										<span id="textToHighlight24"><h3 class="vlt-post-title"><a href="https://cursos.fep.up.pt/licenciaturas/economia-licenciaturas/">Economia</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -970,7 +971,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>16.0</span>
 										</div>
-										<span id="textToHighlight25"><h3 class="vlt-post-title"><a href="#">Matemática</a>
+										<span id="textToHighlight25"><h3 class="vlt-post-title"><a href="https://www.ulisboa.pt/curso/licenciatura/matematica">Matemática</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -1000,7 +1001,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>IS. Técnico</span><span>17.8</span>
 										</div>
-										<span id="textToHighlight26"><h3 class="vlt-post-title"><a href="#">Engenharia Biomédica</a>
+										<span id="textToHighlight26"><h3 class="vlt-post-title"><a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-biomedica/">Engenharia Biomédica</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -1031,7 +1032,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. NOVA Lisboa</span><span>15.1</span>
 										</div>
-										<span id="textToHighlight27"><h3 class="vlt-post-title"><a href="#">Sociologia</a>
+										<span id="textToHighlight27"><h3 class="vlt-post-title"><a href="https://www.fcsh.unl.pt/cursos/licenciatura_em_sociologia/">Sociologia</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -1061,7 +1062,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>IS. Técnico</span><span>18.8</span>
 										</div>
-										<span id="textToHighlight29"><h3 class="vlt-post-title"><a href="#">Engenharia Física e Tecnológica</a>
+										<span id="textToHighlight29"><h3 class="vlt-post-title"><a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-fisica-tecnologica/">Engenharia Física e Tecnológica</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -1091,7 +1092,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>18.7</span>
 										</div>
-										<span id="textToHighlight30"><h3 class="vlt-post-title"><a href="#">Enegenharia e Gestão Industrial</a>
+										<span id="textToHighlight30"><h3 class="vlt-post-title"><a href="https://fe.up.pt/estudar/cursos/licenciatura-engenharia-gestao-industrial/">Enegenharia e Gestão Industrial</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -1121,7 +1122,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Minho</span><span>14.2</span>
 										</div>
-										<span id="textToHighlight31"><h3 class="vlt-post-title"><a href="#">Engenharia e Gestão de Sistemas de Informação</a>
+										<span id="textToHighlight31"><h3 class="vlt-post-title"><a href="https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=4078&catid=12">Engenharia e Gestão de Sistemas de Informação</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -1151,7 +1152,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Lisboa</span><span>15.4</span>
 										</div>
-										<span id="textToHighlight32"><h3 class="vlt-post-title"><a href="#">Ciências da Arte e do Património</a>
+										<span id="textToHighlight32"><h3 class="vlt-post-title"><a href="https://www.ulisboa.pt/curso/licenciatura/ciencias-da-arte-e-do-patrimonio">Ciências da Arte e do Património</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
@@ -1181,7 +1182,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>IS. Técnico</span><span>16.6</span>
 										</div>
-										<span id="textToHighlight33"><h3 class="vlt-post-title"><a href="#">Engenharia Naval e Oceânica</a>
+										<span id="textToHighlight33"><h3 class="vlt-post-title"><a href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-naval-e-oceanica/">Engenharia Naval e Oceânica</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
