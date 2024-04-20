@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Mapa</title>
+	<title>Currículo</title>
 	<meta name="description" content="Creative &amp; Modern Agency HTML5 Template">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -241,20 +241,41 @@
 				<div class="vlt-gap-100"></div>
 				<div class="container position-relative">
 					<!--Particle image--><img class="vlt-particle" src="assets/img/root/square-plus-pattern.png" data-animation-name="fadeInUp" alt="" style="position: absolute; top: -140px; right: -120px; max-width: 232px; --animate-delay: .5s;" loading="lazy">
+					<div class="expandable-wrapper">
+						<input type="checkbox" checked id="expandchk" />
+						<label for="expandchk">...</label>
+						<div class="expandable">
+						  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet mauris commodo quis imperdiet massa tincidunt. Mollis aliquam ut porttitor leo a diam sollicitudin. Scelerisque felis imperdiet proin fermentum leo vel orci porta. Duis ut diam quam nulla porttitor. Tincidunt ornare massa eget egestas. Vestibulum morbi blandit cursus risus at ultrices mi. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Tortor aliquam nulla facilisi cras fermentum. Tempus urna et pharetra pharetra massa massa. Sagittis purus sit amet volutpat consequat mauris nunc. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Adipiscing elit duis tristique sollicitudin nibh sit amet. Amet justo donec enim diam vulputate ut.
+						</p>
+						<p>
+						Arcu bibendum at varius vel pharetra vel turpis nunc. Duis ut diam quam nulla porttitor massa. Neque gravida in fermentum et sollicitudin ac orci. Diam quam nulla porttitor massa id neque. Sed tempus urna et pharetra pharetra massa massa ultricies mi. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Non consectetur a erat nam at. Ligula ullamcorper malesuada proin libero. Vulputate ut pharetra sit amet aliquam id. Volutpat sed cras ornare arcu. In fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit. Tempus imperdiet nulla malesuada pellentesque elit eget gravida.
+						</p>
+						</div>
+						
+						<style>
+						  div.expandable-wrapper { display:flex; flex-direction:column; }
+						  div.expandable-wrapper input[type="checkbox"] { display:none; order:999; }
+						  div.expandable-wrapper label { order:999; width:"100%"; text-align:center; background:#f1f1f1; }
+						  div.expandable { transition: ease-in-out 0.3s; overflow:hidden; }
+						  input[type=checkbox]:not(:checked)~label { opacity:0.5; background:white; }
+						  input[type=checkbox]:checked~label { opacity:1; }
+						  input[type=checkbox]:not(:checked)~div.expandable { max-height:100vmax; }
+						  input[type=checkbox]:checked~div.expandable { max-height:4rem;  }
+						</style>
 					<!--Contact form-->
 					<form class="vlt-contact-form vlt-contact-form--style-1 has-extra-light-gray-background-color" novalidate="novalidate">
 						
 						
 						<div class="vlt-form-group">
 							<textarea class="vlt-form-control" name="message" rows="5" placeholder=" "></textarea>
-							<label class="vlt-form-label">Message*</label>
+							<label class="vlt-form-label">Currículo</label>
 						</div>
-						<div class="message success">Your message is successfully sent...</div>
-						<div class="message danger">Sorry something went wrong!</div>
+						<div class="message success">O seu currículo foi submetido.</div>
+						<div class="message danger">Ocorreu um Erro!</div>
 						<div class="vlt-gap-40"></div>
 						<div class="text-center">
 							<!--Button-->
-							<button class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submit
+							<button class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter
 							</button>
 						</div>
 					</form>
