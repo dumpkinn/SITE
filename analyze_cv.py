@@ -8,7 +8,7 @@ tool = language_tool_python.LanguageTool('pt-PT')
 def calculate_size_score(cv_text):
     word_count = len(cv_text.split())
     return min(word_count / 60, 5)  # Adjusted threshold from 200 to 60
-
+ 
 def calculate_grammar_score(cv_text):
     # Check grammar and style using LanguageTool
     matches = tool.check(cv_text)
