@@ -124,7 +124,7 @@
 								<li ><a href="service-single.php"><span>Calculadora</span></a></li>
 								<li ><a href="quizzzz.php"><span>Quiz</span></a></li>
 								<li ><a href="contact-02.html"><span>Mapa</span></a></li>
-								<li ><a href="blog-grid-1-col.html"><span>Currículo</span></a></li>
+								<li ><a href="curriculo.html"><span>Currículo</span></a></li>
 									
 							</ul>
 						</div>
@@ -204,9 +204,9 @@
 										</li>
 									</ul>
 								</li>
-								<li class="menu-item-has-children"><a href="index.html"><span>Currículo</span></a>
+								<li class="menu-item-has-children"><a href="curriculo.html"><span>Currículo</span></a>
 									<ul class="sub-menu">
-										<li><a href="youtube.com"><span>Prosseguir</span></a>
+										<li><a href="curriculo.html"><span>Prosseguir</span></a>
 										</li>
 									</ul>
 								</li>
