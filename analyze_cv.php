@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 // Function to calculate size score
 function calculateSizeScore($cvText) {
     $wordCount = str_word_count($cvText);
-    return min($wordCount / 200, 5);
+    return min($wordCount / 50, 5);
 }
 
 // Function to calculate grammar score
