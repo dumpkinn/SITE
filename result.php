@@ -265,16 +265,15 @@
 										<h2>Page not found.</h2>
 										<div class="vlt-gap-10"></div>
 										<p class="fz-3">    <?php
-    // Retrieve scores from URL parameters
-    $sizeScore = $_GET['sizeScore'];
-    $grammarScore = $_GET['grammarScore'];
-    $keywordScore = $_GET['keywordScore'];
+									    $sizeScore = $_GET['sizeScore'];
+									    $grammarScore = $_GET['grammarScore'];
+									    $keywordScore = $_GET['keywordScore'];
 
-    // Display scores
-    echo "CV Size Score: $sizeScore";
-    echo "Grammar Score: $grammarScore";
-    echo "Keyword Score: $keywordScore";
-    ?></p>
+									    // Display scores
+									    echo "CV Size Score: $sizeScore";
+									    echo "Grammar Score: $grammarScore";
+ 									   echo "Keyword Score: $keywordScore";
+ 									   ?></p>
 										<div class="vlt-gap-60"></div>
 										<!--Button--><a class="vlt-btn vlt-btn--secondary vlt-btn--md" href="index.html" target="_self">Back to Home</a>
 									</div>
