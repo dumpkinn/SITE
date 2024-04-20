@@ -299,6 +299,11 @@
   </div>
   
   <script>
+	// Set the color of the first accordion title to red when the page loads
+	document.addEventListener("DOMContentLoaded", function() {
+	  document.querySelector('.accordion.active b').style.color = 'red';
+	});
+	
 	var acc = document.getElementsByClassName("accordion");
 	var i;
 	
@@ -308,10 +313,10 @@
 		var panel = this.nextElementSibling;
 		if (panel.style.maxHeight) {
 		  panel.style.maxHeight = null;
-		  this.querySelector('b').style.color = '#444'; // Change to desired color when closed
+		  this.querySelector('b').style.color = 'red'; // Change to desired color when closed
 		} else {
 		  panel.style.maxHeight = panel.scrollHeight + "px";
-		  this.querySelector('b').style.color = 'red'; // Default color when opened
+		  this.querySelector('b').style.color = '#444'; // Default color when opened
 		} 
 	  });
 	}
