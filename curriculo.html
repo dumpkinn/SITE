@@ -312,7 +312,11 @@
         panel.style.maxHeight = panel.scrollHeight + "px";
       } 
 	  var accordionTitle = this.querySelector('b');
-    accordionTitle.style.color = accordionTitle.style.color === 'red' ? '#444' : 'red';
+    if (!this.classList.contains('active')) {
+      accordionTitle.style.color = 'red'; // Change to desired color
+    } else {
+      accordionTitle.style.color = '#444'; // Default color when opened
+    }
 
     });
   }
