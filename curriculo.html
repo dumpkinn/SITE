@@ -44,42 +44,41 @@
     border-radius: 10px;
 }
 .accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
-}
-.rd{transition: 0.3s;}
-.rd:hover{color: #e82e31;}
-.active, .accordion:hover {
-  background-color: #ccc;
-}
-
-.accordion:after {
-  content: '\002B';
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
-}
-
-.panel {
-  padding: 0 18px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+  }
+  
+  .active, .accordion:hover {
+    background-color: #ccc;
+  }
+  
+  .accordion:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .active:after {
+    content: "\2212";
+  }
+  
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
 
 .kosa {
   position: relative;
@@ -294,56 +293,37 @@
 				<div class="vlt-gap-100"></div>
 				<div class="container position-relative">
 					<!--Particle image--><img class="vlt-particle" src="assets/img/root/square-plus-pattern.png" data-animation-name="fadeInUp" alt="" style="position: absolute; top: -140px; right: -120px; max-width: 232px; --animate-delay: .5s;" loading="lazy">
-					<button class="accordion" class="rd"><b>Como é que funciona?</b></button>
-                    <div class="panel">
-                    <p>Introduz o teu currículo na caixa de texto acima, depois de submeteres a nossa <strong>Inteligência artificial</strong> irá avaliar o teu currículo em diferentes parâmetros. Quando o teu currículo for avaliado, ele irá receber uma pontuação de um a cinco e uma e serão descritos os pontos fracos, de modo a melhorar a qualidade do currículo.</p>
-                    </div>
-
-                    <button class="accordion" class="rd"><b>Como é que foi feita?</b></button>
-                    <div class="panel">
-                    <p>A nossa <strong>inteligência artificial</strong> recebeu indicações iniciais como procurar por erros gramaticais, procurar por palávras chave que enriquecem o curricúlo, depois esta foi submetida a milhares de testes para avaliar currículos, estes currículos foram pré-avaliados por nós. No final, esta já conseguia obter resultados satisfatórios.</p>
-                    </div>
-
-                    <button class="accordion" class="rd"><b>Qual é a utilidade desta ferramenta?</b></button>
-                    <div class="panel">
-                    <p>Cada vez mais a <strong>inteligência artificial</strong> tem sido utilizada para escolher os currículos mais relevantes nas empresas que recebem milhares de candidaturas de emprego. Assim, ao criarmos o nosso próprio sistema é possível ter uma ideia de o que importa num currículo, bem como o que é que um computador procura num currículo ideal.</p>
-                    </div>
-					<script>
-						var acc = document.getElementsByClassName("accordion");
-                        var i;
-
-                        for (i = 0; i < acc.length; i++) {
-                        acc[i].addEventListener("click", function() {
-                        /* Toggle between adding and removing the "active" class,
-                        to highlight the button that controls the panel */
-                        this.classList.toggle("active");
-
-                        /* Toggle between hiding and showing the active panel */
-                        var panel = this.nextElementSibling;
-                        if (panel.style.display === "block") {
-                        panel.style.display = "none";
-                        } else {
-                        panel.style.display = "block";
-                        }
-                        });
-                        }
-					</script>
-					<script>
-						var acc = document.getElementsByClassName("accordion");
-						var i;
-						
-						for (i = 0; i < acc.length; i++) {
-						  acc[i].addEventListener("click", function() {
-							this.classList.toggle("active");
-							var panel = this.nextElementSibling;
-							if (panel.style.maxHeight) {
-							  panel.style.maxHeight = null;
-							} else {
-							  panel.style.maxHeight = panel.scrollHeight + "px";
-							}
-						  });
-						}
-						</script>
+					<button class="accordion"><b>Como é que funciona?</b></button>
+  <div class="panel">
+    <p>Introduz o teu currículo na caixa de texto acima, depois de submeteres a nossa <strong>Inteligência artificial</strong> irá avaliar o teu currículo em diferentes parâmetros. Quando o teu currículo for avaliado, ele irá receber uma pontuação de um a cinco e uma e serão descritos os pontos fracos, de modo a melhorar a qualidade do currículo.</p>
+  </div>
+  
+  <button class="accordion"><b>Como é que foi feita?</b></button>
+  <div class="panel">
+    <p>A nossa <strong>inteligência artificial</strong> recebeu indicações iniciais como procurar por erros gramaticais, procurar por palávras chave que enriquecem o curricúlo, depois esta foi submetida a milhares de testes para avaliar currículos, estes currículos foram pré-avaliados por nós. No final, esta já conseguia obter resultados satisfatórios.</p>
+  </div>
+  
+  <button class="accordion"><b>Qual é a utilidade desta ferramenta?</b></button>
+  <div class="panel">
+    <p>Cada vez mais a <strong>inteligência artificial</strong> tem sido utilizada para escolher os currículos mais relevantes nas empresas que recebem milhares de candidaturas de emprego. Assim, ao criarmos o nosso próprio sistema é possível ter uma ideia de o que importa num currículo, bem como o que é que um computador procura num currículo ideal.</p>
+  </div>
+  
+  <script>
+  var acc = document.getElementsByClassName("accordion");
+  var i;
+  
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var panel = this.nextElementSibling;
+      if (panel.style.maxHeight) {
+        panel.style.maxHeight = null;
+      } else {
+        panel.style.maxHeight = panel.scrollHeight + "px";
+      } 
+    });
+  }
+  </script>
 					<br><br><br><br>
 					<!--Contact form-->
 					<form action="analyze_cv.php" method="post" class="curr">
