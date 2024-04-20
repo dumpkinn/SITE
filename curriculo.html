@@ -299,28 +299,23 @@
   </div>
   
   <script>
-  var acc = document.getElementsByClassName("accordion");
-  var i;
-  
-  for (i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var panel = this.nextElementSibling;
-      if (panel.style.maxHeight) {
-        panel.style.maxHeight = null;
-      } else {
-        panel.style.maxHeight = panel.scrollHeight + "px";
-      } 
-	  var accordionTitle = this.querySelector('b');
-    if (!this.classList.contains('active')) {
-      accordionTitle.style.color = 'red'; // Change to desired color
-    } else {
-      accordionTitle.style.color = '#444'; // Default color when opened
-    }
-
-    });
-  }
-  </script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+	
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+		this.classList.toggle("active");
+		var panel = this.nextElementSibling;
+		if (panel.style.maxHeight) {
+		  panel.style.maxHeight = null;
+		  this.querySelector('b').style.color = 'red'; // Change to desired color when closed
+		} else {
+		  panel.style.maxHeight = panel.scrollHeight + "px";
+		  this.querySelector('b').style.color = '#444'; // Default color when opened
+		} 
+	  });
+	}
+	</script>
 					<br><br><br><br>
 					<!--Contact form-->
 					<form action="analyze_cv.php" method="post" class="curr">
