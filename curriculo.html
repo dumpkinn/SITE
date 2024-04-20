@@ -336,15 +336,15 @@
 					<form class="vlt-contact-form vlt-contact-form--style-1 has-extra-light-gray-background-color" novalidate="novalidate" action="analyze_cv.php" method="post">
 						
 						<div class="vlt-form-group">
-							<textarea class="vlt-form-control" name="message" rows="5" placeholder=" "></textarea>
-							<label class="vlt-form-label">Currículo</label>
+							<textarea class="vlt-form-control" name="message" rows="5" placeholder=" " id="cvText" name="cvText"></textarea>
+							<label class="vlt-form-label" for="cvText">Introduza aqui o seu Currículo</label>
 						</div>
 						<div class="message success">O seu currículo foi submetido.</div>
 						<div class="message danger">Ocorreu um Erro!</div>
 						<div class="vlt-gap-40"></div>
 						<div class="text-center">
 							<!--Button-->
-							<button class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter
+							<button class="vlt-btn vlt-btn--secondary vlt-btn--lg" type="submit">Submeter
 							</button>
 						</div>
 					</form>
