@@ -32,6 +32,8 @@
 }
 .mico{
 	background-color: #181414;
+	width: 100%;
+	height: 100%;
 }
 .maco{
 	float: left;
