@@ -882,7 +882,7 @@ button:hover {
 									</div>
 								</div>
 						  <div>
-	                      <button width="20%" type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
+	                      <button width="5%" type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
                           </div>
 							</div>
 							</div>
