@@ -24,9 +24,6 @@
 	<!--Custom-->
 	<link rel="stylesheet" href="assets/css/custom.css">
     <style type="text/css">
-    maco{
-    	margin-right: 10000px;
-    }
     button {
     display: block;
     padding: 10px;
