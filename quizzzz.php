@@ -872,9 +872,6 @@ button:hover {
 											</div>
 										</div>
 									</div>
-									<div>
-	<button width="20%" type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
-</div>
 									<!--Slider controls-->
 									<div class="maco">
 									<div class="vlt-slider-controls vlt-slider-controls--style-3 vlt-careers-single-slider-anchor has-white-color has-black-background-color">
@@ -886,6 +883,10 @@ button:hover {
 								</div>
 							</div>
 							</div>
+																<div>
+	<button width="20%" type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
+</div>
+
 							<div class="vlt-gap-120"></div>
 						</div>
 						<div class="col-md-5 offset-md-1">
