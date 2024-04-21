@@ -32,7 +32,7 @@
 	margin: auto;
 }
 .mico{
-	background-color: #181414;
+	background-color: #101010;
 	width: 1000px;
 	height: 100px;
 }
