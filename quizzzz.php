@@ -27,7 +27,8 @@
 .meco{
 	float: right;
 	width: 20px;
-	height: 100%;
+	margin-top: 1%;
+	margin-right: 18%;
 }
 .mico{
 	background-color: #181414;
