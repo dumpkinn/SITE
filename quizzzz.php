@@ -32,7 +32,7 @@
 }
 .mico{
 	background-color: #181414;
-	width: 1000px;
+	width: 900px;
 	height: 80px;
 }
 .maco{
