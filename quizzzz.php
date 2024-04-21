@@ -886,7 +886,7 @@ button:hover {
 							</div>
 							<div class="vlt-gap-120"></div>
 						</div>
-						<div class="col-md-5">
+						<div class="col-md-5 offset-md-1">
 </div>
 </form>
 </div>
