@@ -28,7 +28,6 @@
 	float: right;
 	width: 20px;
 	height: 100%;
-	margin: auto;
 }
 .mico{
 	background-color: #181414;
