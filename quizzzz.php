@@ -29,7 +29,7 @@
 	width: 20px;
 	margin-right: 18%;
 	height: 100%;
-	margin-top: 2%;
+	margin-top: 1%;
 }
 .maco{
 	float: left;
