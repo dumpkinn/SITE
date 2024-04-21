@@ -24,6 +24,13 @@
 	<!--Custom-->
 	<link rel="stylesheet" href="assets/css/custom.css">
     <style type="text/css">
+.meco{
+	float: right;
+	width: 5%;
+}
+.maco{
+	float: left;
+}
     button {
     display: block;
     padding: 10px;
@@ -881,8 +888,8 @@ button:hover {
 										</div>
 									</div>
 								</div>
-						  <div>
-	                      <button width="5%" type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
+						  <div class="meco">
+	                      <button type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
                           </div>
 							</div>
 							</div>
