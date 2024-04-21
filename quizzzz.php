@@ -29,10 +29,11 @@
 	width: 20px;
 	margin-right: 18%;
 	height: 100%;
+	margin: auto;
 }
 .mico{
 	background-color: #181414;
-	width: 100%;
+	width: 1000px;
 	height: 100%;
 }
 .maco{
