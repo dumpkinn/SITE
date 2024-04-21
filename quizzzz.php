@@ -887,6 +887,9 @@ button:hover {
 									</div>				
   					                <!--Slider controls-->
   					                <div class="swiper-container">
+  					                							  <div class="meco">
+	                      <button type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
+                          </div>
   					                <div class="mico">
 									<div class="maco">
 									<div class="vlt-slider-controls vlt-slider-controls--style-3 vlt-careers-single-slider-anchor has-white-color has-black-background-color">
@@ -896,9 +899,6 @@ button:hover {
 										</div>
 									</div>
 									</div>
-						  <div class="meco">
-	                      <button type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
-                          </div>
                           </div>
 							</div>
 							</div>
