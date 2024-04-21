@@ -25,7 +25,7 @@
 	<link rel="stylesheet" href="assets/css/custom.css">
     <style type="text/css">
     maco{
-    	float: left;
+    	margin-right: 10000000000000px;
     }
     button {
     display: block;
