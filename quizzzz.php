@@ -26,7 +26,7 @@
     <style type="text/css">
 .meco{
 	float: right;
-	width: 5%;
+	width: 20px;
 }
 .maco{
 	float: left;
