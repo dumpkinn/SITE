@@ -32,9 +32,9 @@
 	margin: auto;
 }
 .mico{
-	background-color: #101010;
+	background-color: #181414;
 	width: 1000px;
-	height: 100px;
+	height: 80px;
 }
 .maco{
 	float: left;
