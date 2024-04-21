@@ -31,7 +31,7 @@
 	margin-right: 18%;
 }
 .mico{
-	background-color: #181414;
+	background-color: #101010;
 	width: 900px;
 	height: 80px;
 }
