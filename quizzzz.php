@@ -897,7 +897,6 @@ button:hover {
 										<div class="vlt-swiper-button-next"><i class="fa-solid fa-arrow-right" ></i>
 										</div>
 									</div>
-								</div>
 						  <div class="meco">
 	                      <button type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
                           </div>
