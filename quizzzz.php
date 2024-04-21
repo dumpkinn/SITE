@@ -27,7 +27,6 @@
 .meco{
 	float: right;
 	width: 20px;
-	margin-right: 18%;
 	height: 100%;
 	margin: auto;
 }
