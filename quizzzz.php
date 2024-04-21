@@ -25,7 +25,10 @@
 	<link rel="stylesheet" href="assets/css/custom.css">
     <style type="text/css">
     maco{
-    	margin-right: 10000000000000px;
+    	width: 100px;
+    	height: 20px;
+    	float: left;
+    	text-align: left;
     }
     button {
     display: block;
