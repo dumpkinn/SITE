@@ -424,21 +424,123 @@ button:hover {
 							<button class="vlt-btn vlt-btn--secondary vlt-btn--lg" type="submit">Submeter
 							</button>
 						</div>
-					
-					<div class="img_div"><figcaption>Ir para o escritório</figcaption><img src="curimg/gear.png" width="30px" height="30px">
+					</form>
+					<div class="vlt-gap-120"></div>
+   <div class="form-container">
+    <div class="container2">
+    <div class="container3">
+    <div class="accordion-body">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.php"> calcula-a aqui.</a></div>
+    <br><br><br>
+<form action="quiz.php" id="myForm" method="post">
+<!--Content slider-->
+									<div class="vlt-content-slider " data-navigation-anchor=".vlt-careers-single-slider-anchor" data-gap="" data-loop="" data-speed="" data-autoplay="" data-autoplay-speed="" data-slides-centered="" data-slide-settings="{}" data-free-mode="" data-slider-offset="" data-mousewheel="">
+										<div class="swiper-container">
+											<div class="swiper-wrapper">
+												<div class="swiper-slide">
+													<h1 class="vrmh">Questão 1</h1><br>
+          <div class="img_div"><figcaption>Ir para o escritório</figcaption><img src="quizimg/q11.png"><br><br>
+          <div class="cc-selector">
+          <input type="radio" name="q1" id="visa" value="-1"/>
+          <label class="drinkcard-cc visa"  for="visa"></label>
+          <input type="radio" name="u1" id="mastercard" value="1" />
+          <label class="drinkcard-cc mastercard"  for="mastercard"></label>
+          </div>
+          </div>
+          <div class="img_div"><figcaption>Investigador</figcaption><img src="quizimg/q12.png"><br><br>
+          <div class="cc-selector">
+          <input type="radio" name="q1" value="2" id="visa1"/>
+          <label class="drinkcard-cc visa" for="visa1"></label>
+          <input type="radio" name="u1" value="-2" id="mastercard1"/>
+          <label class="drinkcard-cc mastercard"  for="mastercard1"></label>
+          </div>
+          </div>
+          <div class="img_div"><figcaption>Arquiteto e Engenheiro</figcaption><img src="quizimg/q13.png"><br><br>
+          <div class="cc-selector">
+          <input type="radio" name="q1" value="1" id="visa2"/>
+          <label class="drinkcard-cc visa"  for="visa2"></label>
+          <input type="radio" name="u1" value="-1" id="mastercard2"/>
+          <label class="drinkcard-cc mastercard"  for="mastercard2"></label>
+          </div>
+          </div>
+          <div class="img_div"><figcaption>Fotografia Creativa</figcaption><img src="quizimg/q14.png"><br><br>
+          <div class="cc-selector">
+          <input type="radio" name="q1" value="-2" id="visa3"/>
+          <label class="drinkcard-cc visa"  for="visa3"></label>
+          <input type="radio" name="u1" value="2" id="mastercard3"/>
+          <label class="drinkcard-cc mastercard"  for="mastercard3"></label>
+          </div>
+          </div>
+												</div>
+																		
+</form>
+</div>
+</div>
+ <div class="overlay" id="overlay">
 
-					</div>
-					<div class="img_div"><figcaption>Investigador</figcaption><img src="curimg/pap.png" width="30px" height="30px">
-					
-					</div>
-					<div class="img_div"><figcaption>Arquiteto e Engenheiro</figcaption><img src="curimg/car.png" width="30px" height="30px">
-					
-					</div>
-					<div class="img_div"><figcaption>Fotografia Creativa</figcaption><img src="curimg/shi.jpg" width="30px" height="30px">
-					
-					</div>
-				</div>
-			</form>
+    </div>
+</div>
+</div>
+</form>
+</div>
+<style type="text/css">
+    .sub{
+        width: 100%;
+    }
+    .overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+.sadfsdag {
+  background-color: white;
+  width: 400px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.sadfsdag button{
+    width: 100%;
+    float: center;
+}
+</style>
+<script type="text/javascript">
+    const popupButton = document.getElementById('popupButton');
+const overlay = document.getElementById('overlay');
+const popup = document.getElementById('popup');
+const closeButton = document.getElementById('closeButton');
+
+function doesUrlContainSubstring(substring) {
+  var url = window.location.href;
+  if (url.indexOf(substring) !== -1) {
+      return true;
+  } else {
+      return false;
+  }
+}
+
+if (doesUrlContainSubstring('result')) {
+  overlay.style.display = 'block';
+}
+
+closeButton.addEventListener('click', () => {
+  overlay.style.display = 'none';
+});
+</script>
+
+	</main>
+	<div class="vlt-gap-120"></div>
+			
 
 			</section>
 			
