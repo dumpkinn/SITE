@@ -24,6 +24,9 @@
 	<!--Custom-->
 	<link rel="stylesheet" href="assets/css/custom.css">
     <style type="text/css">
+    maco{
+    	float: left;
+    }
     button {
     display: block;
     padding: 10px;
@@ -876,13 +879,15 @@ button:hover {
 	<button width="20%" type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
 </div>
 									<!--Slider controls-->
-									<div class="vlt-slider-controls vlt-slider-controls--style-3 vlt-careers-single-slider-anchor has-white-color has-black-background-color position-absolute b-0 r-0" styles="margin-right:20px;">
+									<div class="maco">
+									<div class="vlt-slider-controls vlt-slider-controls--style-3 vlt-careers-single-slider-anchor has-white-color has-black-background-color position-absolute b-0 r-0">
 										<div class="vlt-swiper-button-prev"><i class="fa-solid fa-arrow-left" ></i></i>
 										</div><span class="sep">|</span>
 										<div class="vlt-swiper-button-next"><i class="fa-solid fa-arrow-right" ></i>
 										</div>
 									</div>
 								</div>
+							</div>
 							</div>
 							<div class="vlt-gap-120"></div>
 						</div>
