@@ -27,7 +27,7 @@
 .meco{
 	float: right;
 	width: 20px;
-	margin-right: 20px;
+	margin-right: 20%;
 }
 .maco{
 	float: left;
