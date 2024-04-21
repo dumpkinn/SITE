@@ -34,7 +34,7 @@
 .mico{
 	background-color: #181414;
 	width: 1000px;
-	height: 100%;
+	height: 100px;
 }
 .maco{
 	float: left;
