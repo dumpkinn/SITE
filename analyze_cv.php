@@ -19,6 +19,11 @@ function calculateKeywordScore($cvText) {
         $score += substr_count(strtolower($cvText), strtolower($keyword));
     }
 
+    // If more than 10 keywords are found, assign a score of 5
+    if ($score > 10) {
+        return 5;
+    }
+
     // Cap score at 5
     return min($score, 5);
 }
