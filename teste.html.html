@@ -1,0 +1,83 @@
+<style type="text/css">
+.container-image {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Alinha as imagens na horizontal */
+}
+ 
+.image {
+    flex: 0 1 calc(25% - 10px); /* 25% de largura para cada imagem, com margem de 10px entre elas */
+    margin-bottom: 20px; /* Espaçamento entre as linhas */
+    height: 200px; /* Altura fixa para as imagens */
+    overflow: hidden; /* Oculta partes da imagem que ultrapassam o container */
+    position: relative; /* Necessário para centralizar a imagem verticalmente */
+}
+ 
+.image img {
+    max-width: 100%; /* Limita a largura máxima da imagem */
+    height: auto; /* Altura automática para manter a proporção */
+    object-fit: cover; /* Ajusta a imagem dentro do container sem distorção */
+}
+ 
+/* Media query para ajustar o layout em telas maiores */
+@media screen and (min-width: 1025px) {
+    .container {
+        flex-direction: row; /* Mantém o layout horizontal */
+        align-items: center; /* Centraliza as imagens */
+    }
+}
+ 
+/* Media query para ajustar o layout em telas médias (ex: iPads) */
+@media screen and (max-width: 1024px) {
+    .container {
+        flex-direction: column; /* Muda o layout para empilhar as imagens verticalmente */
+        align-items: center; /* Centraliza as imagens */
+    }
+ 
+    .image {
+        flex: 0 1 calc(50% - 10px); /* 50% de largura para cada imagem em telas médias */
+        margin-bottom: 10px; /* Espaçamento entre as imagens */
+    }
+}
+ 
+/* Media query para ajustar o layout em telas pequenas (ex: smartphones) */
+@media screen and (max-width: 767px) {
+    .container {
+        flex-direction: column; /* Muda o layout para empilhar as imagens verticalmente */
+        align-items: center; /* Centraliza as imagens */
+    }
+ 
+    .image {
+        flex: 0 1 calc(100% - 20px); /* Ajusta a largura para caber no viewport */
+        max-width: calc(100% - 20px); /* Limita a largura máxima da imagem */
+        height: auto; /* Altura automática para as imagens */
+        margin-bottom: 10px; /* Espaçamento entre as imagens */
+    }
+}
+ 
+/* Media query para ajustar o layout em telas até 350px */
+@media screen and (max-width: 350px) {
+    .image {
+        flex: 0 1 calc(100% - 20px); /* Ajusta a largura para caber no viewport */
+        max-width: calc(100% - 20px); /* Limita a largura máxima da imagem */
+        height: auto; /* Altura automática para as imagens */
+        margin-bottom: 10px; /* Espaçamento entre as imagens */
+    }
+}
+ 
+/* Media query para ajustar o layout em telas até 250px */
+@media screen and (max-width: 250px) {
+    .image {
+        flex: 0 1 calc(100% - 20px); /* Ajusta a largura para caber no viewport */
+        max-width: calc(100% - 20px); /* Limita a largura máxima da imagem */
+        height: auto; /* Altura automática para as imagens */
+        margin-bottom: 10px; /* Espaçamento entre as imagens */
+    }
+}
+</style>
+<div class="container-image">
+<div class="image"><img src="curimg/pap.png" alt="Imagem 1"></div>
+<div class="image"><img src="curimg/car.png" alt="Imagem 2"></div>
+<div class="image"><img src="curimg/gear.png" alt="Imagem 3"></div>
+<div class="image"><img src="curimg/shi.jpg" alt="Imagem 4"></div>
+</div>
