@@ -1,39 +1,39 @@
-
 <?php
 
-// Função para calcular a pontuação de tamanho com base na contagem de palavras
+// Function to calculate the size score based on word count
 function calculateSizeScore($cvText) {
     $wordCount = str_word_count($cvText);
-    return min($wordCount / 60, 5); // Limite ajustado de 200 para 60
+    return min($wordCount / 60, 5); // Adjusted threshold from 200 to 60
 }
 
-// Função para calcular a pontuação de palavras-chave
+// Function to calculate the keyword score
 function calculateKeywordScore($cvText) {
-    // Definir palavras-chave para procurar
+    // Define keywords to search for
     $keywords = ['experiência', 'competências', 'formação', 'trabalho', 'educação'];
 
-    // Inicializar pontuação
+    // Initialize score
     $score = 0;
 
-    // Contar ocorrências de palavras-chave no texto do CV
+    // Count occurrences of keywords in CV text
     foreach ($keywords as $keyword) {
         $score += substr_count(strtolower($cvText), strtolower($keyword));
     }
 
-    // Limitar a pontuação a 5
+    // Cap score at 5
     return min($score, 5);
 }
 
 // Retrieve CV text from the form submission
 $cvText = $_POST['cvText'];
 
+// Calculate scores
 $sizeScore = calculateSizeScore($cvText);
 $keywordScore = calculateKeywordScore($cvText);
 
-// Calcular pontuação média
+// Calculate average score
 $averageScore = ($sizeScore + $keywordScore) / 2;
 
-// Redirecionar para a página de resultado com os parâmetros de URL
+// Redirect to result page with scores as URL parameters
 header("Location: result.php?sizeScore=$sizeScore&keywordScore=$keywordScore&averageScore=$averageScore");
 exit();
 
