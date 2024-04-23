@@ -258,23 +258,35 @@
 									<div class="text-center">
 										<div class="has-black-color">
 											<!--Stroke text-->
-											<div class="vlt-stroke-text vlt-stroke-text--lg">404
+											<div class="vlt-stroke-text vlt-stroke-text--lg">
+										<?php
+                                        $averageScore = $_GET['averageScore'];
+                                        echo "$averageScore";
+                                        ?>/5
 											</div>
 										</div>
 										<div class="vlt-gap-10"></div>
-										<h2>Page not found.</h2>
+										<h2>Recomendações</h2>
 										<div class="vlt-gap-10"></div>          
-	                                    <?php
-                                        $sizeScore = $_GET['sizeScore'];
-                                        $keywordScore = $_GET['keywordScore'];
-                                        $averageScore = $_GET['averageScore'];
-
-                                        echo "Size Score: $sizeScore";
-                                        echo "Keyword Score: $keywordScore";
-                                        echo "Average Score: $averageScore";
-                                        ?>
+                                        <p class="fz-3"><?php
+                                        	// Determine improvement message based on average score
+if ($averageScore >= 0 && $averageScore < 1) {
+    $message = "O seu currículo precisa de uma revisão completa para melhorar a sua atratividade. Destaque as suas habilidades e experiências de forma clara e concisa.";
+} elseif ($averageScore >= 1 && $averageScore < 2) {
+    $message = "Há margem para melhorias no seu currículo. Refine as suas realizações e experiências para torná-lo mais cativante e relevante para os empregadores.";
+} elseif ($averageScore >= 2 && $averageScore < 3) {
+    $message = "Está no caminho certo, mas o seu currículo ainda pode ser aprimorado. Adicione mais detalhes sobre as suas realizações e experiências para destacar-se.";
+} elseif ($averageScore >= 3 && $averageScore < 4) {
+    $message = "Está a progredir bem, mas ainda pode otimizar o seu currículo. Certifique-se de que as suas habilidades e conquistas sejam claramente comunicadas.";
+} elseif ($averageScore >= 4 && $averageScore <= 5) {
+    $message = "Parabéns! O seu currículo é excelente e altamente atrativo para os empregadores. Continue a atualizá-lo com as suas últimas conquistas e experiências.";
+} else {
+    $message = "Ocorreu um erro ao processar o resultado. Por favor, tente novamente mais tarde.";
+}
+?>
+</p>
 										<div class="vlt-gap-60"></div>
-										<!--Button--><a class="vlt-btn vlt-btn--secondary vlt-btn--md" href="index.html" target="_self">Back to Home</a>
+										<!--Button--><a class="vlt-btn vlt-btn--secondary vlt-btn--md" href="index.html" target="_self">Voltar ao Início</a>
 									</div>
 								</div>
 							</div>
