@@ -264,16 +264,13 @@
 										<div class="vlt-gap-10"></div>
 										<h2>Page not found.</h2>
 										<div class="vlt-gap-10"></div>
-										<p class="fz-3">    <?php
-									    $sizeScore = $_GET['sizeScore'];
-									    $grammarScore = $_GET['grammarScore'];
-									    $keywordScore = $_GET['keywordScore'];
+										<p class="fz-3">        <?php
+    // Retrieve average score from URL parameter
+    $averageScore = $_GET['averageScore'];
 
-									    // Display scores
-									    echo "CV Size Score: $sizeScore";
-									    echo "Grammar Score: $grammarScore";
- 									   echo "Keyword Score: $keywordScore";
- 									   ?></p>
+    // Display average score
+    echo "Average Score: $averageScore";
+    ?></p>
 										<div class="vlt-gap-60"></div>
 										<!--Button--><a class="vlt-btn vlt-btn--secondary vlt-btn--md" href="index.html" target="_self">Back to Home</a>
 									</div>
