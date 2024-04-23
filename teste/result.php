@@ -8,12 +8,12 @@
 <body>
     <h1>CV Analysis Result</h1>
     <?php
-    // Recuperar parâmetros de URL
+    // Retrieve parameters from URL
     $sizeScore = $_GET['sizeScore'];
     $keywordScore = $_GET['keywordScore'];
     $averageScore = $_GET['averageScore'];
 
-    // Exibir resultados
+    // Display scores
     echo "<p>Size Score: $sizeScore</p>";
     echo "<p>Keyword Score: $keywordScore</p>";
     echo "<p>Average Score: $averageScore</p>";
