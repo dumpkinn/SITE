@@ -283,6 +283,7 @@ if ($averageScore >= 0 && $averageScore < 1) {
 } else {
     $message = "Ocorreu um erro ao processar o resultado. Por favor, tente novamente mais tarde.";
 }
+echo "$message";
 ?>
 </p>
 										<div class="vlt-gap-60"></div>
