@@ -37,7 +37,6 @@ $keywordScore = calculateKeywordScore($cvText);
 
 // Calculate average score
 $averageScore = ($sizeScore + $keywordScore) / 2;
-round($averageScore, 2) = $averageScore;
 // Redirect to result page with scores as URL parameters
 header("Location: result.php?sizeScore=$sizeScore&keywordScore=$keywordScore&averageScore=$averageScore");
 exit();
