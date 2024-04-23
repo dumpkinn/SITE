@@ -261,6 +261,7 @@
 											<div class="vlt-stroke-text vlt-stroke-text--lg">
 										<?php
                                         $averageScore = $_GET['averageScore'];
+                                        $averageScore = round($averageScore, 1);
                                         echo "$averageScore";
                                         ?>/5
 											</div>
