@@ -252,14 +252,21 @@ session_start();
 					<div class="text-center">
 						<ul class="vlt-isotope-filters" id="vlt-filter-blog-04">
 							<li class="active" data-filter="*"><span>Todos</span></li>
-							<li data-filter=".real"><span>Realista</span></li>
-							<li data-filter=".inv"><span>Investigação</span></li>
-							<li data-filter=".art"><span>Artístico</span></li>
-							<li data-filter=".soc"><span>Social</span></li>
-							<li data-filter=".ent"><span>Enterprising</span></li>
-							<li data-filter=".conv"><span>Convencional</span></li>
+							<li data-filter=".real" id="real"><span>Realista</span></li>
+							<li data-filter=".inv" id="inv"><span>Investigação</span></li>
+							<li data-filter=".art" id="art"><span>Artístico</span></li>
+							<li data-filter=".soc" id="soc"><span>Social</span></li>
+							<li data-filter=".ent" id="ent"><span>Enterprising</span></li>
+							<li data-filter=".conv" id="con"><span>Convencional</span></li>
 						</ul>
 					</div>
+					<script>
+  var linkId = "<?php echo $_SESSION['id']; ?>";
+    window.onload = function() {
+        var link = document.getElementById(linkId);
+        link.click();
+    };
+</script>
 					<div class="vlt-gap-90"></div>
 					<div class="vlt-isotope-grid" data-columns="4" data-layout="masonry" data-x-gap="30|30" data-y-gap="70|70" data-controls="#vlt-filter-blog-04" data-load-more-selector="#vlt-load-more-blog-04">
 						<div class="grid-sizer"></div>
