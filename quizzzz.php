@@ -26,13 +26,13 @@
     <style type="text/css">
 .meco{
 	float: right;
-	width: 20px;
+	max-width: 20px;
 	margin-top: 1.2%;
 	margin-right: 18%;
 }
 .mico{
 	background-color: #101010;
-	width: 900px;
+	max-width: 900px;
 	height: 80px;
 }
 .maco{
@@ -51,14 +51,14 @@
     width: 96%;
 }
 .container3 img{
-  width: 200px;
+  max-width: 200px;
 
 }
 .container3 figcaption{
   text-align: center;
 }
 .container3{
-  width: 850px;
+  max-width: 850px;
   margin: auto;
 }
 
