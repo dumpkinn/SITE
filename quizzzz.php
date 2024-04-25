@@ -24,34 +24,37 @@
 	<!--Custom-->
 	<link rel="stylesheet" href="assets/css/custom.css">
     <style type="text/css">
-   @media (min-width:1281px) { 
-   	.meco{
-   	margin-top: 1.2%;
-	margin-right: 22%;
-} 
+.meco {
+    float: right;
+    max-width: 20px;
+    margin-top: 1.2%;
+    margin-right: 18%;
 }
-   @media (min-width:961px) { 
-   	.meco{
-   	margin-top: 1.2%;
-	margin-right: 22%;
-} 
+
+/* Media query for small devices */
+@media only screen and (max-width: 768px) {
+    .meco {
+        margin-top: 5%;
+        margin-right: 10%;
+    }
 }
-   @media (min-width:481px) { 
-   	.meco{
-   	margin-top: 1.2%;
-	margin-right: 22%;
-} 
+
+/* Media query for medium devices */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .meco {
+        margin-top: 2%;
+        margin-right: 15%;
+    }
 }
-   @media (min-width:320px) { 
-   	.meco{
-   	margin-top: 1.2%;
-	margin-right: 22%;
-} 
+
+/* Media query for large devices */
+@media only screen and (min-width: 1025px) {
+    .meco {
+        margin-top: 1.2%;
+        margin-right: 18%;
+    }
 }
-.meco{
-	float: right;
-	max-width: 20px;
-}
+
 
 .mico{
 	background-color: #101010;
