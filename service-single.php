@@ -343,7 +343,7 @@
         width: calc(25% - 2.5px); /* Subtracting padding and border width */
         display: inline-block;
         box-sizing: border-box;
-        border-color: #023e73;
+        border-color: #f02c34;
         text-align: center;
 
     }
