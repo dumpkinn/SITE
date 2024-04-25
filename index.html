@@ -29,11 +29,26 @@
 	<div class="vlt-site-preloader" data-animate-to="M0 0h202v66H0z">
 		<style type="text/css">
 .kosa {
-  position: relative;
-  
-  height: 100px;
-  overflow: hidden;
+    position: relative;
+    width: 90%; /* Adjusted from 900px to 90% */
+    height: 100px;
+    overflow: hidden;
 }
+
+/* Media query for small devices */
+@media only screen and (max-width: 768px) {
+    .kosa {
+        width: 95%; /* Adjusted width for small devices */
+    }
+}
+
+/* Media query for medium devices */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .kosa {
+        width: 80%; /* Adjusted width for medium devices */
+    }
+}
+
 .kul{
     position: relative;
 }
