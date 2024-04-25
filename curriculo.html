@@ -164,6 +164,25 @@ button {
   height: 100px; /* Adjust the height of the container */
   overflow: hidden;
 }
+/* Media query for small devices */
+@media only screen and (max-width: 768px) {
+    .kosa {
+        width: 0px; /* Adjusted width for small devices */
+    }
+    .kosa::before {
+    animation: drawSquare 0s forwards;
+    }
+}
+
+/* Media query for medium devices */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .kosa {
+        width: 0px; /* Adjusted width for medium devices */
+    }
+    .kosa::before {
+    animation: drawSquare 0s forwards;
+    }
+}
 .kul{
     position: relative;
 }
