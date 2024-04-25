@@ -27,7 +27,7 @@
    @media (min-width:1281px) { 
    	.meco{
    	margin-top: 1.2%;
-	margin-right: 2100%;
+	margin-right: 20%;
 } 
 }
    @media (min-width:961px) { 
