@@ -283,13 +283,13 @@ button:hover {
 								<ul class="sf-menu" data-back-text="Voltar">
 								<li class="menu-item-has-children"><a href="index.html"><span>Início</span></a>
 									<ul class="sub-menu">
-										<li><a href="blog-grid-4-col.html"><span>Prosseguir</span></a>
+										<li><a href="index.html"><span>Prosseguir</span></a>
 										</li>
 									</ul>
 								</li>
 								<li class="menu-item-has-children"><a href="blog-grid-4-col.php"><span>Cursos</span></a>
 									<ul class="sub-menu">
-										<li><a href="blog-grid-4-col.html"><span>Prosseguir</span></a>
+										<li><a href="blog-grid-4-col.php"><span>Prosseguir</span></a>
 										</li>
 									</ul>
 								</li>
@@ -349,10 +349,12 @@ button:hover {
 			</style>
    <div class="vlt-gap-120"></div>
    <div class="form-container">
+	<div class="row">
+	<div class="col-md-6 offset-md-3 text-center">
+    <div class="vlt-section-title vlt-section-title--style-1"><p class="vlt-section-title__text">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.php"> calcula-a aqui.</a></p></div></div></div>
+    <br><br><br>
     <div class="container2">
     <div class="container3">
-    <div class="accordion-body"><p class="vlt-section-title__text">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.php"> calcula-a aqui.</a></p></div>
-    <br><br><br>
 <form action="quiz.php" id="myForm" method="post">
 <!--Content slider-->
 									<div class="vlt-content-slider " data-navigation-anchor=".vlt-careers-single-slider-anchor" data-gap="" data-loop="" data-speed="" data-autoplay="" data-autoplay-speed="" data-slides-centered="" data-slide-settings="{}" data-free-mode="" data-slider-offset="" data-mousewheel="">
