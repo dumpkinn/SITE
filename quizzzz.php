@@ -33,7 +33,7 @@
 .mico{
 	background-color: #101010;
 	max-width: 900px;
-	max-height: 80px;
+	height: 80px;
 }
 .maco{
 	float: left;
