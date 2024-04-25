@@ -32,20 +32,20 @@
 }
    @media (min-width:961px) { 
    	.meco{
-   	margin-top: 1%;
-	margin-right: 16%;
+   	margin-top: 1.2%;
+	margin-right: 18%;
 } 
 }
    @media (min-width:481px) { 
    	.meco{
-   	margin-top: 0.75%;
-	margin-right: 12%;
+   	margin-top: 1.2%;
+	margin-right: 18%;
 } 
 }
    @media (min-width:320px) { 
    	.meco{
-   	margin-top: 0.5%;
-	margin-right: 10%;
+   	margin-top: 1.2%;
+	margin-right: 18%;
 } 
 }
 .meco{
