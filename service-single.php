@@ -283,7 +283,7 @@
 }
 
 .popup button:hover {
-    background-color: #0056b3;
+    background-color: #8f1a1e;
 }
 .cima{
   margin-top: 280px;
