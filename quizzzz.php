@@ -43,7 +43,7 @@
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
     .meco {
         margin-top: 1.5%;
-        margin-right: 16%;
+        margin-right: 19%;
     }
 }
 
