@@ -24,15 +24,38 @@
 	<!--Custom-->
 	<link rel="stylesheet" href="assets/css/custom.css">
     <style type="text/css">
+   @media (min-width:1281px) { 
+   	.meco{
+   	margin-top: 1.2%;
+	margin-right: 18%;
+} 
+}
+   @media (min-width:961px) { 
+   	.meco{
+   	margin-top: 1.2%;
+	margin-right: 18%;
+} 
+}
+   @media (min-width:481px) { 
+   	.meco{
+   	margin-top: 1.2%;
+	margin-right: 18%;
+} 
+}
+   @media (min-width:320px) { 
+   	.meco{
+   	margin-top: 100%;
+	margin-right: 18%;
+} 
+}
 .meco{
 	float: right;
-	width: 20px;
-	margin-top: 1.2%;
-	margin-right: 18%;
+	max-width: 20px;
 }
+
 .mico{
 	background-color: #101010;
-	width: 900px;
+	max-width: 900px;
 	height: 80px;
 }
 .maco{
@@ -51,14 +74,16 @@
     width: 96%;
 }
 .container3 img{
-  width: 200px;
+  max-width: 200px;
+  justify-content: center;
+  margin: auto;
 
 }
 .container3 figcaption{
   text-align: center;
 }
 .container3{
-  width: 850px;
+  max-width: 850px;
   margin: auto;
 }
 
@@ -351,9 +376,8 @@ button:hover {
    <div class="form-container">
 	<div class="row">
 	<div class="col-md-6 offset-md-3 text-center">
-    <div class="vlt-section-title vlt-section-title--style-1"><p class="vlt-section-title__text">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.php"> calcula-a aqui.</a></p></div></div></div>
+    <div class="vlt-section-title vlt-section-title--style-1"><p class="vlt-section-title__text">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="service-single.php"> calcula-a aqui.</a></p></div></div></div>
     <br><br><br>
-    <div class="container2">
     <div class="container3">
 <form action="quiz.php" id="myForm" method="post">
 <!--Content slider-->
