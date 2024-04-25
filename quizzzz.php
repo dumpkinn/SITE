@@ -885,17 +885,7 @@ button:hover {
   </div>
 												</div>
 											</div>
-										</div>
-									</div>	
-									</div>
-									</div>				
-									</div>
-									</div>	
-									</div>
-									</div>	
-									</div>
-									</div>	
-									
+										</div>			
   					                <!--Slider controls-->
   					                <div class="swiper-container">
   					                							  <div class="meco">
