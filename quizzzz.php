@@ -53,6 +53,7 @@
 .container3 img{
   max-width: 200px;
   justify-content: center;
+  margin: auto;
 
 }
 .container3 figcaption{
