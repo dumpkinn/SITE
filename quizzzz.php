@@ -24,12 +24,35 @@
 	<!--Custom-->
 	<link rel="stylesheet" href="assets/css/custom.css">
     <style type="text/css">
+   @media (min-width:1281px) { 
+   	.meco{
+   	margin-top: 1.2%;
+	margin-right: 18%;
+} 
+}
+   @media (min-width:961px) { 
+   	.meco{
+   	margin-top: 1%;
+	margin-right: 16%;
+} 
+}
+   @media (min-width:481px) { 
+   	.meco{
+   	margin-top: 0.75%;
+	margin-right: 12%;
+} 
+}
+   @media (min-width:320px) { 
+   	.meco{
+   	margin-top: 0.5%;
+	margin-right: 10%;
+} 
+}
 .meco{
 	float: right;
 	max-width: 20px;
-	margin-top: 1.2%;
-	margin-right: 18%;
 }
+
 .mico{
 	background-color: #101010;
 	max-width: 900px;
