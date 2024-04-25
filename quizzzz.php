@@ -34,16 +34,16 @@
 /* Media query for small devices */
 @media only screen and (max-width: 768px) {
     .meco {
-        margin-top: 5%;
-        margin-right: 10%;
+        margin-top: 2.5%;
+        margin-right: 15%;
     }
 }
 
 /* Media query for medium devices */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
     .meco {
-        margin-top: 2%;
-        margin-right: 15%;
+        margin-top: 1.5%;
+        margin-right: 16%;
     }
 }
 
