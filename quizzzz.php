@@ -353,8 +353,12 @@ button:hover {
 	<div class="col-md-6 offset-md-3 text-center">
     <div class="vlt-section-title vlt-section-title--style-1"><p class="vlt-section-title__text">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="calculadora.php"> calcula-a aqui.</a></p></div></div></div>
     <br><br><br>
-    <div class="container2">
-    <div class="container3">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-10 offset-md-1">
+							<div class="vlt-stretch-block to-left vlt-devide-section">
+								<div class="position-relative d-flex align-items-end justify-content-end">
+
 <form action="quiz.php" id="myForm" method="post">
 <!--Content slider-->
 									<div class="vlt-content-slider " data-navigation-anchor=".vlt-careers-single-slider-anchor" data-gap="" data-loop="" data-speed="" data-autoplay="" data-autoplay-speed="" data-slides-centered="" data-slide-settings="{}" data-free-mode="" data-slider-offset="" data-mousewheel="">
@@ -888,7 +892,10 @@ button:hover {
 											</div>
 										</div>
 									</div>				
-  					                <!--Slider controls-->
+										</div>
+									</div>
+								</div>
+							</div>
   					                <div class="swiper-container">
   					                							  <div class="meco">
 	                      <button type="submit" id="popupButton" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
