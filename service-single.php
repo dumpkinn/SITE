@@ -259,7 +259,7 @@
 .hugs{
   width: 100%;
   vertical-align: middle;
-  background-color: #023e73;
+  background-color: #f02c34;
   border-radius: 10px 10px 0px 0px;
 }
 .hugs h1{
@@ -274,7 +274,7 @@
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #007bff;
+    background-color: #f02c34;
     color: #fff;
     border: none;
     border-radius: 5px;
