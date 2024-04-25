@@ -34,8 +34,8 @@
 /* Media query for small devices */
 @media only screen and (max-width: 768px) {
     .meco {
-        margin-top: 2%;
-        margin-right: 15%;
+        margin-top: 2.3%;
+        margin-right: 20%;
     }
 }
 
