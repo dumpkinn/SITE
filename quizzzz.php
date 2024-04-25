@@ -353,7 +353,6 @@ button:hover {
 	<div class="col-md-6 offset-md-3 text-center">
     <div class="vlt-section-title vlt-section-title--style-1"><p class="vlt-section-title__text">Para cada uma das questões escolhe a opção que apresenta a situação em que preferias estar e a opção que menos gostarias de vivenciar. Quando submeteres as tuas respostas será assinalado um tipo de personalidade e terás a opção de veres os cursos que nós achamos que deves escolher. Para saberes que cursos tens média para entrar <a href="service-single.php"> calcula-a aqui.</a></p></div></div></div>
     <br><br><br>
-    <div class="vlt-stretch-block to-left vlt-devide-section">
     <div class="container3">
 <form action="quiz.php" id="myForm" method="post">
 <!--Content slider-->
@@ -887,8 +886,7 @@ button:hover {
 												</div>
 											</div>
 										</div>
-									</div>		
-									</div>		
+									</div>				
   					                <!--Slider controls-->
   					                <div class="swiper-container">
   					                							  <div class="meco">
