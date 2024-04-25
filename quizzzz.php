@@ -52,6 +52,7 @@
 }
 .container3 img{
   max-width: 200px;
+  justify-content: center;
 
 }
 .container3 figcaption{
