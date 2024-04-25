@@ -27,25 +27,25 @@
    @media (min-width:1281px) { 
    	.meco{
    	margin-top: 1.2%;
-	margin-right: 18%;
+	margin-right: 20%;
 } 
 }
    @media (min-width:961px) { 
    	.meco{
    	margin-top: 1.2%;
-	margin-right: 18%;
+	margin-right: 20%;
 } 
 }
    @media (min-width:481px) { 
    	.meco{
    	margin-top: 1.2%;
-	margin-right: 18%;
+	margin-right: 20%;
 } 
 }
    @media (min-width:320px) { 
    	.meco{
    	margin-top: 1.2%;
-	margin-right: 18%;
+	margin-right: 20%;
 } 
 }
 .meco{
