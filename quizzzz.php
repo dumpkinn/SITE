@@ -44,7 +44,7 @@
 }
    @media (min-width:320px) { 
    	.meco{
-   	margin-top: 100%;
+   	margin-top: 1.2%;
 	margin-right: 18%;
 } 
 }
