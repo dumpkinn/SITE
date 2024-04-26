@@ -2,7 +2,7 @@
 {"type" : "Feature","properties" : {"message" : "Zeca","img" :"curimg/profile.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-9.4055271, 38.7225020]}}
 ,{"type" : "Feature","properties" : {"message" : "Leca","img" :"curimg/profile.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-2.046064062349785, 41.521926339567756]}}
 ,{"type" : "Feature","properties" : {"message" : "Meca","img" :"curimg/profile.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [8.902103984026525,48.46546292958598]}}
-,{"type" : "Feature","properties" : {"message" : "Tinga","img" :"curimg/profile.jpg","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-8.323652101380077,41.404317747963916]}}
+,{"type" : "Feature","properties" : {"message" : "Tinga","img" :"curimg/tinga.jpg","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-8.323652101380077,41.404317747963916]}}
 ,{"type" : "Feature","properties" : {"message" : "Tiago","img" :"curimg/tiago.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-8.405231530162837,41.121193020753054]}}
  ]
 }
