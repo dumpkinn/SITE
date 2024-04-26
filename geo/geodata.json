@@ -5,7 +5,7 @@
 ,{"type" : "Feature","properties" : {"message" : "Tinga","img" :"curimg/tinga.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-8.323652101380077,41.404317747963916]}}
 ,{"type" : "Feature","properties" : {"message" : "Tiago","img" :"curimg/tiago.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-8.405231530162837,41.121193020753054]}}
 ,{"type" : "Feature","properties" : {"message" : "Salvador","img" :"curimg/sapinho.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [13.528556406954777,37.741047872527915]}}
-,{"type" : "Feature","properties" : {"message" : "Azevedo","img" :"curimg/azed.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [16.549728305744452,-21.785656078053066]}}
+,{"type" : "Feature","properties" : {"message" : "Azevedo","img" :"curimg/azevedo.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [16.549728305744452,-21.785656078053066]}}
  ]
 }
 
