@@ -293,7 +293,7 @@
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #f02c34;
+
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -302,7 +302,7 @@
 }
 
 .popup button:hover {
-    background-color: #8f1a1e;
+
 }
 .cima{
   margin-top: 280px;
