@@ -456,7 +456,7 @@
                 </div>
                 <h6>(deixa vazio as caixas do exame que não precisas)</h6>
             </div>
-            <div class="popup" ><button type="submit" id="fixrafada">Submeter</button>
+            <div class="popup" ><button type="submit" id="fixrafada" class="vlt-btn vlt-btn--secondary vlt-btn--lg">Submeter</button>
             <span class="popuptext" id="myPopup">A tua média é <?php echo isset($_SESSION['media']) ? $_SESSION['media'] : ''; ?>
             </span>
             </div>
