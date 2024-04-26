@@ -4,6 +4,7 @@
 ,{"type" : "Feature","properties" : {"message" : "Meca","img" :"curimg/profile.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [8.902103984026525,48.46546292958598]}}
 ,{"type" : "Feature","properties" : {"message" : "Tinga","img" :"curimg/tinga.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-8.323652101380077,41.404317747963916]}}
 ,{"type" : "Feature","properties" : {"message" : "Tiago","img" :"curimg/tiago.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-8.405231530162837,41.121193020753054]}}
+,{"type" : "Feature","properties" : {"message" : "Tiago","img" :"curimg/sapinho.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [13.528556406954777,37.741047872527915]}}
  ]
 }
 
