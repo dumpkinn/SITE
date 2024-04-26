@@ -291,15 +291,15 @@
                                         <p class="fz-3"><?php
                                         	// Determine improvement message based on average score
 if ($averageScore >= 0 && $averageScore < 1) {
-    $message = "O seu currículo precisa de uma revisão completa para melhorar a sua atratividade. Destaque as suas habilidades e experiências de forma clara e concisa.";
+    $message = "O teu currículo precisa de uma revisão completa para melhorar a sua atratividade. Destaque as suas habilidades e experiências de forma clara e concisa.";
 } elseif ($averageScore >= 1 && $averageScore < 2) {
-    $message = "Há margem para melhorias no seu currículo. Refine as suas realizações e experiências para torná-lo mais cativante e relevante para os empregadores.";
+    $message = "Há margem para melhorias no seu currículo. Refina as tuas realizações e experiências para tornar o teu currículo mais cativante e relevante para os empregadores.";
 } elseif ($averageScore >= 2 && $averageScore < 3) {
-    $message = "Está no caminho certo, mas o seu currículo ainda pode ser aprimorado. Adicione mais detalhes sobre as suas realizações e experiências para destacar-se.";
+    $message = "Estás no caminho certo, mas o teu currículo ainda pode ser aprimorado. Adiciona mais detalhes sobre as tuas realizações e experiências para destacar-se.";
 } elseif ($averageScore >= 3 && $averageScore < 4) {
-    $message = "Está a progredir bem, mas ainda pode otimizar o seu currículo. Certifique-se de que as suas habilidades e conquistas sejam claramente comunicadas.";
+    $message = "Estás a progredir bem, mas ainda podes otimizar o teu currículo. Certifica-te de que as tuas habilidades e conquistas estão claramente comunicadas.";
 } elseif ($averageScore >= 4 && $averageScore <= 5) {
-    $message = "Parabéns! O seu currículo é excelente e altamente atrativo para os empregadores. Continue a atualizá-lo com as suas últimas conquistas e experiências.";
+    $message = "Parabéns! O teu currículo é excelente e altamente atrativo para os empregadores. Continue a atualizá-lo com as tuas últimas conquistas e experiências.";
 } else {
     $message = "Ocorreu um erro ao processar o resultado. Por favor, tente novamente mais tarde.";
 }
