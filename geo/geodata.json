@@ -7,6 +7,7 @@
 ,{"type" : "Feature","properties" : {"message" : "Salvador","img" :"curimg/sapinho.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [13.528556406954777,37.741047872527915]}}
 ,{"type" : "Feature","properties" : {"message" : "Azevedo","img" :"curimg/azevedo.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [16.549728305744452,-21.785656078053066]}}
 ,{"type" : "Feature","properties" : {"message" : "Dinis","img" :"curimg/dinis.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-11.354002430320804,8.284647057978361]}}
+,{"type" : "Feature","properties" : {"message" : "Pedro","img" :"curimg/pedro.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-155.46594435047913,19.596670345019888]}}
  ]
 }
 
