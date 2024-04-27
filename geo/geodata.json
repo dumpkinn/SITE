@@ -14,6 +14,8 @@
 ,{"type" : "Feature","properties" : {"message" : "Luís","img" :"curimg/luis.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-42.61127867934573,68.67000787788842]}}
 ,{"type" : "Feature","properties" : {"message" : "Livia","img" :"curimg/livia.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-46.52032591883574,-9.554956909576262]}}
 ,{"type" : "Feature","properties" : {"message" : "Almeida","img" :"curimg/almeida.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [42.162173957509935,21.218424963288385]}}
+,{"type" : "Feature","properties" : {"message" : "Nori","img" :"curimg/nori.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [157.03862767128544,-66.22340332150003]}}
+,{"type" : "Feature","properties" : {"message" : "Catarina","img" :"curimg/catarina.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [111.03147435924313,25.664824628259467]}}
  ]
 }
 
