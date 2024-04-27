@@ -13,6 +13,7 @@
 ,{"type" : "Feature","properties" : {"message" : "Gabriela","img" :"curimg/gabriela.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [123.91173650601809,10.527490168537241]}}
 ,{"type" : "Feature","properties" : {"message" : "Luís","img" :"curimg/luis.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-42.61127867934573,68.67000787788842]}}
 ,{"type" : "Feature","properties" : {"message" : "Livia","img" :"curimg/livia.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-46.52032591883574,-9.554956909576262]}}
+,{"type" : "Feature","properties" : {"message" : "Almeida","img" :"curimg/almeida.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [42.162173957509935,21.218424963288385]}}
  ]
 }
 
