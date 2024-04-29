@@ -269,7 +269,7 @@ button:hover {
 						<div class="vlt-nav--fullscreen__navigation">
 							<!--Navigation-->
 							<!--Menu-->
-							<ul class="sf-menu" data-back-text="Back">
+							<ul class="sf-menu" data-back-text="Voltar">
 								<li ><a href="index.html"><span>Início</span></a>
 									
 								</li>
