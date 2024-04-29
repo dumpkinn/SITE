@@ -7,6 +7,16 @@
 ,{"type" : "Feature","properties" : {"message" : "Salvador","img" :"curimg/sapinho.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [13.528556406954777,37.741047872527915]}}
 ,{"type" : "Feature","properties" : {"message" : "Azevedo","img" :"curimg/azevedo.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [16.549728305744452,-21.785656078053066]}}
 ,{"type" : "Feature","properties" : {"message" : "Dinis","img" :"curimg/dinis.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-11.354002430320804,8.284647057978361]}}
+,{"type" : "Feature","properties" : {"message" : "Pedro","img" :"curimg/pedro.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-155.46594435047913,19.596670345019888]}}
+,{"type" : "Feature","properties" : {"message" : "Afonso","img" :"curimg/afonso.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [47.76165875395009,15.937607348763237]}}
+,{"type" : "Feature","properties" : {"message" : "Henrique","img" :"curimg/henrique.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-73.82797557438286,40.92174276298422]}}
+,{"type" : "Feature","properties" : {"message" : "Gabriela","img" :"curimg/gabriela.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [123.91173650601809,10.527490168537241]}}
+,{"type" : "Feature","properties" : {"message" : "Luís","img" :"curimg/luis.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-42.61127867934573,68.67000787788842]}}
+,{"type" : "Feature","properties" : {"message" : "Livia","img" :"curimg/livia.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-46.52032591883574,-9.554956909576262]}}
+,{"type" : "Feature","properties" : {"message" : "Almeida","img" :"curimg/almeida.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [42.162173957509935,21.218424963288385]}}
+,{"type" : "Feature","properties" : {"message" : "Nori","img" :"curimg/nori.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [157.03862767128544,-66.22340332150003]}}
+,{"type" : "Feature","properties" : {"message" : "Catarina","img" :"curimg/catarina.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [111.03147435924313,25.664824628259467]}}
+,{"type" : "Feature","properties" : {"message" : "João","img" :"curimg/joao.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [126.65162200364352,38.59082911098227]}}
  ]
 }
 
