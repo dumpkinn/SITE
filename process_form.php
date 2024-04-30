@@ -27,7 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Send email
     if (mail($to, $subject, $email_body, $headers)) {
         // Redirect back to HTML file
-        header("Location: your_html_file.html");
+        header("Location: contact-02.html");
         exit();
     } else {
         echo "Failed to send email. Please try again later.";
