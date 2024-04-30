@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = isset($_POST['message']) ? htmlspecialchars($_POST['message']) : '';
 
     // Set email parameters
-    $to = "your_email@example.com";
+    $to = "codeecrusaders@gmail.com";
     $subject = "New Contact Form Submission";
     $headers = "From: $name <$email>\r\n";
     $headers .= "Reply-To: $email\r\n";
