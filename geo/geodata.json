@@ -19,5 +19,5 @@
 ,{"type" : "Feature","properties" : {"message" : "João","img" :"curimg/joao.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [126.65162200364352,38.59082911098227]}}
 ,{"type" : "Feature","properties" : {"message" : "Amaro","img" :"curimg/amaro.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-22.99355160364352,-43.20804430364352]}}
  ]
-}0364352
+}
 
