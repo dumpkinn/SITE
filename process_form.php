@@ -18,6 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email_message .= "Message: $message\n";
     
     // Send the email
+    header("Location: your_html_page.html");
     mail($to, $subject, $email_message);
 }
 ?>
