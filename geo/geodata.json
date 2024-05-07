@@ -17,7 +17,7 @@
 ,{"type" : "Feature","properties" : {"message" : "Nori","img" :"curimg/nori.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [157.03862767128544,-66.22340332150003]}}
 ,{"type" : "Feature","properties" : {"message" : "Catarina","img" :"curimg/catarina.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [111.03147435924313,25.664824628259467]}}
 ,{"type" : "Feature","properties" : {"message" : "João","img" :"curimg/joao.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [126.65162200364352,38.59082911098227]}}
-,{"type" : "Feature","properties" : {"message" : "Amaro","img" :"curimg/amaro.jpeg","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-23.000317797972926,-43.242639651194]}}
+,{"type" : "Feature","properties" : {"message" : "Amaro","img" :"curimg/amaro.png","description" :"" ,"iconSize" : [30,30]},"geometry" : {"type" : "Point","coordinates" : [-23.000317797972926,-43.242639651194]}}
  ]
 }
 
