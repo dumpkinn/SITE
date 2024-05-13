@@ -294,7 +294,7 @@ session_start();
 						<div class=" grid-item real">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia Informática.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-informatica-e-de-computadores/"></a><img src="cursosimg/Engenharia Informática.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -355,7 +355,7 @@ session_start();
 						<div class=" grid-item ent">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Gestão.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://sigarra.up.pt/fep/pt/cur_geral.cur_view?pv_curso_id=1046"></a><img src="cursosimg/Gestão.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -385,7 +385,7 @@ session_start();
 						<div class=" grid-item soc">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Psicologia.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://sigarra.up.pt/fpceup/pt/cur_geral.cur_view?pv_curso_id=22381"></a><img src="cursosimg/Psicologia.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -415,7 +415,7 @@ session_start();
 						<div class=" grid-item art">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Desenho.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ulisboa.pt/curso/licenciatura/desenho"></a><img src="cursosimg/Desenho.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -445,7 +445,7 @@ session_start();
 						<div class=" grid-item real">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia Mecânica.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22882"></a><img src="cursosimg/Engenharia Mecânica.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -475,7 +475,7 @@ session_start();
 						<div class=" grid-item real">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia de materias.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22902"></a><img src="cursosimg/Engenharia de materias.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -505,7 +505,7 @@ session_start();
 						<div class=" grid-item conv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia de Polímeros.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.eng.uminho.pt/pt/estudar/_layouts/15/uminho.portaisuoei.ui/pages/catalogocursodetail.aspx?itemid=4372&catid=13"></a><img src="cursosimg/Engenharia de Polímeros.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -535,7 +535,7 @@ session_start();
 						<div class=" grid-item ent">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Gestão de Marketing.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.iscte-iul.pt/curso/59/licenciatura-gestao-de-marketing"></a><img src="cursosimg/Gestão de Marketing.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -565,7 +565,7 @@ session_start();
 						<div class=" grid-item art">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Design de Equipamento.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ulisboa.pt/curso/licenciatura/design-de-equipamento"></a><img src="cursosimg/Design de Equipamento.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -595,7 +595,7 @@ session_start();
 						<div class=" grid-item real">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia do Ambiente.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-do-ambiente/"></a><img src="cursosimg/Engenharia do Ambiente.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -625,7 +625,7 @@ session_start();
 						<div class=" grid-item soc">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Educação e Formação.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ulisboa.pt/curso/licenciatura/educacao-e-formacao"></a><img src="cursosimg/Educação e Formação.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -655,7 +655,7 @@ session_start();
 						<div class=" grid-item soc">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Administração Pública.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.eeg.uminho.pt/pt/estudar/Licenciaturas/Paginas/administracao-publica.aspx"></a><img src="cursosimg/Administração Pública.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -685,7 +685,7 @@ session_start();
 						<div class=" grid-item soc">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Direito.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://novalaw.unl.pt/licenciatura/"></a><img src="cursosimg/Direito.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -715,7 +715,7 @@ session_start();
 						<div class=" grid-item inv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Biologia.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ulisboa.pt/curso/licenciatura/biologia"></a><img src="cursosimg/Biologia.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -745,7 +745,7 @@ session_start();
 						<div class=" grid-item inv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Física.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ulisboa.pt/curso/licenciatura/fisica"></a><img src="cursosimg/Física.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -775,7 +775,7 @@ session_start();
 						<div class=" grid-item inv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Química.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ecum.uminho.pt/pt/Ensino/Paginas/licenciaturas/Licenciatura-em-Quimica.aspx"></a><img src="cursosimg/Química.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -805,7 +805,7 @@ session_start();
 						<div class=" grid-item inv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Geologia.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ulisboa.pt/curso/licenciatura/geologia"></a><img src="cursosimg/Geologia.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -835,7 +835,7 @@ session_start();
 						<div class=" grid-item inv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Medicina.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.med.uminho.pt/pt/Medicina"></a><img src="cursosimg/Medicina.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -865,7 +865,7 @@ session_start();
 						<div class=" grid-item art">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Design de Cominicação.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://sigarra.up.pt/fbaup/pt/cur_geral.cur_view?pv_curso_id=1314"></a><img src="cursosimg/Design de Cominicação.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -895,7 +895,7 @@ session_start();
 						<div class=" grid-item art">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Arte Multimédia.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ulisboa.pt/curso/licenciatura/arte-multimedia"></a><img src="cursosimg/Arte Multimédia.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -925,7 +925,7 @@ session_start();
 						<div class=" grid-item conv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia Mecânica.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.eng.uminho.pt/pt/estudar/_layouts/15/uminho.portaisuoei.ui/pages/catalogocursodetail.aspx?itemid=3554&catid=10"></a><img src="cursosimg/Engenharia Mecânica.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -955,7 +955,7 @@ session_start();
 						<div class=" grid-item ent">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Contabilidade.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.eeg.uminho.pt/pt/estudar/Licenciaturas/Paginas/contabilidade.aspx"></a><img src="cursosimg/Contabilidade.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -986,7 +986,7 @@ session_start();
 						<div class=" grid-item real">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia Civil.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ubi.pt/curso/9"></a><img src="cursosimg/Engenharia Civil.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -1017,7 +1017,7 @@ session_start();
 						<div class=" grid-item ent">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Economia.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://cursos.fep.up.pt/licenciaturas/economia-licenciaturas/"></a><img src="cursosimg/Economia.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -1047,7 +1047,7 @@ session_start();
 						<div class=" grid-item inv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Matemática.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ulisboa.pt/curso/licenciatura/matematica"></a><img src="cursosimg/Matemática.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -1077,7 +1077,7 @@ session_start();
 						<div class=" grid-item inv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia Biomédica.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-biomedica/"></a><img src="cursosimg/Engenharia Biomédica.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -1108,7 +1108,7 @@ session_start();
 						<div class=" grid-item soc">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Sociologia.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.fcsh.unl.pt/cursos/licenciatura_em_sociologia/"></a><img src="cursosimg/Sociologia.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -1138,7 +1138,7 @@ session_start();
 						<div class=" grid-item inv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia Física e Tecnologica.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-fisica-tecnologica/"></a><img src="cursosimg/Engenharia Física e Tecnologica.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -1168,7 +1168,7 @@ session_start();
 						<div class=" grid-item conv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia e Gestão Industrial.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://fe.up.pt/estudar/cursos/licenciatura-engenharia-gestao-industrial/"></a><img src="cursosimg/Engenharia e Gestão Industrial.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -1198,7 +1198,7 @@ session_start();
 						<div class=" grid-item conv">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia e Gestão de Sistemas de Informação.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=4078&catid=12"></a><img src="cursosimg/Engenharia e Gestão de Sistemas de Informação.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -1228,7 +1228,7 @@ session_start();
 						<div class=" grid-item art">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Ciências da Arte e do Património.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.ulisboa.pt/curso/licenciatura/ciencias-da-arte-e-do-patrimonio"></a><img src="cursosimg/Ciências da Arte e do Património.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
@@ -1258,7 +1258,7 @@ session_start();
 						<div class=" grid-item real">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Engenharia Naval e Oceânica.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://tecnico.ulisboa.pt/pt/ensino/cursos/licenciaturas/engenharia-naval-e-oceanica/"></a><img src="cursosimg/Engenharia Naval e Oceânica.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
