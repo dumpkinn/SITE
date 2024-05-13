@@ -324,7 +324,7 @@ session_start();
 						<div class=" grid-item art">
 							<!--Blog item-->
 							<article class="vlt-post vlt-post--style-2">
-								<div class="vlt-post__media"><a class="vlt-post__link" href="#"></a><img src="cursosimg/Arquitetura.png" alt="" loading="lazy">
+								<div class="vlt-post__media"><a class="vlt-post__link" href="https://www.eaad.uminho.pt/pt/Ensino/Licenciaturas_e_Mestrados_Integrados/Mestrado-Integrado-em-Arquitetura/Paginas/default.aspx"></a><img src="cursosimg/Arquitetura.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-post__content">
 									<header class="vlt-post__header">
