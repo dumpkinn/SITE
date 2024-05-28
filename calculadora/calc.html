@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="styles.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Formulário de Cálculo de Média</title>
+<style>
+       body {
+           font-family: Arial, sans-serif;
+       }
+       .domain, .subdomain {
+           margin-bottom: 20px;
+       }
+       .subdomain {
+           margin-left: 20px;
+       }
+       .element {
+           margin-left: 40px;
+       }
+</style>
+</head>
+<body>
+<h1>Formulário de Cálculo de Média</h1>
+<form id="mediaForm" action="calc.php" method="post">
+<div class="domain">
+<h2>Introdução à programação</h2>
+<div class="subdomain">
+<h3>C1</h3>
+<div class="element">
+<label for="d1s1e1">Teste - FrontEnd:</label>
+<input type="number" id="d1s1e1" name="d1s1e1" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d1s1e2">Teste - BackEnd:</label>
+<input type="number" id="d1s1e2" name="d1s1e2" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d1s1e3">Projeto final:</label>
+<input type="number" id="d1s1e3" name="d1s1e3" min="0" max="200" step="0.1"required>
+</div>
+</div>
+<div class="subdomain">
+<h3>C2</h3>
+<div class="element">
+<label for="d1s2e1">Teste - FrontEnd:</label>
+<input type="number" id="d1s2e1" name="d1s2e1" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d1s2e2">Teste - BackEnd:</label>
+<input type="number" id="d1s2e2" name="d1s2e2" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d1s2e3">Projeto final:</label>
+<input type="number" id="d1s2e3" name="d1s2e3" min="0" max="200" step="0.1"required>
+</div>
+</div>
+<div class="subdomain">
+<h3>C3</h3>
+<div class="element">
+<label for="d1s3e1">Grelha Observação 1º período:</label>
+<input type="number" id="d1s3e1" name="d1s3e1" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d1s3e2">Grelha Observação 3º período:</label>
+<input type="number" id="d1s3e2" name="d1s3e2" min="0" max="200" step="0.1"required>
+</div>
+</div>
+</div>
+<div class="domain">
+<h2>Introdução à multimédia</h2>
+<div class="subdomain">
+<h3>C1</h3>
+<div class="element">
+<label for="d2s1e1">Teste photoshop:</label>
+<input type="number" id="d2s1e1" name="d2s1e1" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d2s1e2">Vídeo congresso:</label>
+<input type="number" id="d2s1e2" name="d2s1e2" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d2s1e3">Projeto final:</label>
+<input type="number" id="d2s1e3" name="d2s1e3" min="0" max="200" step="0.1"required>
+</div>
+</div>
+<div class="subdomain">
+<h3>C2</h3>
+<div class="element">
+<label for="d2s2e1">Teste photoshop:</label>
+<input type="number" id="d2s2e1" name="d2s2e1" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d2s2e2">Vídeo congresso:</label>
+<input type="number" id="d2s2e2" name="d2s2e2" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d2s2e3">Projeto final:</label>
+<input type="number" id="d2s2e3" name="d2s2e3" min="0" max="200" step="0.1"required>
+</div>
+</div>
+<div class="subdomain">
+<h3>C3</h3>
+<div class="element">
+<label for="d2s3e1">Grelha Observação 2º período:</label>
+<input type="number" id="d2s3e1" name="d2s3e1" min="0" max="200" step="0.1"required>
+</div>
+<div class="element">
+<label for="d2s3e2">Grelha Observação 3º período:</label>
+<input type="number" id="d2s3e2" name="d2s3e2" min="0" max="200" step="0.1"required>
+</div>
+</div>
+</div>
+<button type="submit" class="glow-on-hover">Calcular Média</button>
+</form>
+</body>
+</html>
+
