@@ -1174,7 +1174,7 @@ session_start();
 									<header class="vlt-post__header">
 										<div class="vlt-post-meta"><span>U. Porto</span><span>18.7</span>
 										</div>
-										<span id="textToHighlight30"><h3 class="vlt-post-title"><a href="https://fe.up.pt/estudar/cursos/licenciatura-engenharia-gestao-industrial/">Enegenharia e Gestão Industrial</a>
+										<span id="textToHighlight30"><h3 class="vlt-post-title"><a href="https://fe.up.pt/estudar/cursos/licenciatura-engenharia-gestao-industrial/">Engenharia e Gestão Industrial</a>
 										</h3></span>
                                         <script>
                                         var s = <?php echo $_SESSION['media']; ?>;
