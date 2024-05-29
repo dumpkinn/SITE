@@ -722,7 +722,7 @@ button:hover {
 												</div>
 												<div class="swiper-slide">
 													<h1 class="vrmh">Questão 10</h1><br>
-<div class="img_div"><figcaption>Mécnico dentário</figcaption><img src="quizimg/q101.png"><br><br>
+<div class="img_div"><figcaption>Médico dentário</figcaption><img src="quizimg/q101.png"><br><br>
   <div class="cc-selector">
   <input type="radio" name="q10" id="visa37" value="2"/>
   <label class="drinkcard-cc visa"  for="visa37"></label>
